@@ -1,0 +1,65 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/schemas/records/measurement.schema.json",
+  "title": "Measurement Record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "quantity",
+    "procedure",
+    "unit"
+  ],
+  "properties": {
+    "quantity": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Name of measured quantity (e.g., position, acceleration)."
+    },
+    "procedure": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Operational measurement procedure."
+    },
+    "instrument": {
+      "type": "string",
+      "default": ""
+    },
+    "unit": {
+      "type": "string",
+      "minLength": 1
+    },
+    "dimension": {
+      "type": "string",
+      "default": "",
+      "description": "Optional dimension string (e.g., L/T^2)."
+    },
+    "sampling": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "rate_hz": {
+          "type": "number",
+          "minimum": 0
+        },
+        "n_samples": {
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    },
+    "uncertainty": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "statistical": {
+          "type": "string",
+          "default": ""
+        },
+        "systematic": {
+          "type": "string",
+          "default": ""
+        }
+      }
+    }
+  }
+}

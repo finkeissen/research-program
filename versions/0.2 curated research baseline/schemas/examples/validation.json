@@ -1,0 +1,34 @@
+{
+  "id": "VAL-001",
+  "type": "validation",
+  "schema_version": "0.2.0",
+  "record_version": "0.1.0",
+  "created_at": "2025-12-24T14:35:59.420590+00:00",
+  "scope": [],
+  "provenance": {
+    "source": "docs/architecture",
+    "driver": "cross_validation_driver",
+    "notes": "Example artifact."
+  },
+  "links": [
+    {
+      "rel": "derived_from",
+      "target": "C-001"
+    }
+  ],
+  "payload": {
+    "target": "C-001",
+    "checks_run": [
+      "required_fields_present",
+      "scope_present",
+      "concepts_extracted"
+    ],
+    "result": "pass_with_warnings",
+    "issues": [
+      "Scope unpräzise: 'nahe der Erdoberfläche'"
+    ],
+    "suggested_fixes": [
+      "Höhenbereich oder Messgenauigkeit angeben"
+    ]
+  }
+}

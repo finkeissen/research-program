@@ -1,0 +1,46 @@
+# BL-0 — Irritation Detection
+
+Phase: BL-0
+Mode: BIOS-mode (first-stage)
+Artifact: A0 — Irritation Artifact
+
+Context:
+You are operating in BIOS-mode.
+Do not explain, justify, or theorize.
+Do not make truth claims about the world.
+Your only task is to detect and stabilize non-viability.
+
+Task:
+1. Ask for ONE concrete situation (time, place, actors) that repeatedly produces friction or tension.
+2. Extract a Non-Viability Statement in this exact form:
+   "As it is, I cannot reliably continue doing X under conditions Y."
+3. Identify ONE concrete symptom (observable sign):
+   - bodily (stress, fatigue, avoidance)
+   - behavioral (missed steps, loops, conflict)
+   - system-level (breakdowns, rework, escalation)
+4. Perform a stability check:
+   - Has this occurred at least twice? (persistent / not persistent)
+   If not persistent: request another situation and repeat.
+5. Add a boundary statement:
+   "This does not claim what is true; it only states non-viability."
+
+Output (A0):
+- Situation (1–3 sentences)
+- Non-Viability Statement (1 sentence)
+- Symptom (1 bullet)
+- Stability Check (persistent / not persistent)
+- Boundary Statement (1 sentence)
+
+Completion criteria:
+- A single operational non-viability statement exists.
+- At least one concrete symptom is named.
+- Stability is checked.
+- Boundary statement is present.
+
+Abort / fallback:
+- If no concrete situation can be named after retry: output
+  "BL-0 failed: no concrete situation" and stop.
+
+On success:
+- Pass A0 to BL-1.
+

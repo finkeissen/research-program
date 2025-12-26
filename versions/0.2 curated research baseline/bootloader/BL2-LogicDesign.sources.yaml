@@ -1,0 +1,38 @@
+prompt_id: BL2_logic_design
+title: "Entwurf einer minimalen logischen Struktur zur Bearbeitung der Irritation"
+version: 0.1
+created: 2025-12-24
+references:
+  - concept: "Übersetzung von Irritation in zentrale Frage"
+    sources:
+      - citekey: popper1959
+        author: "Karl R. Popper"
+        year: 1959
+        title: "The Logic of Scientific Discovery"
+        notes: "Problem situation als Ausgangspunkt"
+      - citekey: dewey1938
+        author: "John Dewey"
+        year: 1938
+        title: "Logic: The Theory of Inquiry"
+        notes: "Von unbestimmter Situation zum Problem"
+  - concept: "Identifikation relevanter Variablen und Beziehungen"
+    sources:
+      - citekey: toulmin1958
+        author: "Stephen Toulmin"
+        year: 1958
+        title: "The Uses of Argument"
+        notes: "Grundstruktur von Argumenten"
+  - concept: "Explizite Mindestannahmen"
+    sources:
+      - citekey: kant1781
+        author: "Immanuel Kant"
+        year: 1781
+        title: "Kritik der reinen Vernunft"
+        notes: "Bedingungen der Möglichkeit"
+  - concept: "Minimale Hypothesenstruktur"
+    sources:
+      - citekey: popper1963
+        author: "Karl R. Popper"
+        year: 1963
+        title: "Conjectures and Refutations"
+        notes: "Vorläufige, falsifizierbare Vermutungen"

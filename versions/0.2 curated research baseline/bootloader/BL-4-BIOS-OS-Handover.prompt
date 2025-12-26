@@ -1,0 +1,37 @@
+# BL-4 — BIOS → OS Handover
+
+Phase: BL-4
+Mode: BIOS-mode (first-stage)
+Artifact: A4 — Handover Note
+
+Context:
+This step seals BIOS-mode.
+Logic is now assumed, not debated.
+
+Task:
+1. Write a BIOS Completion Note (3–6 lines):
+   - BIOS is complete.
+   - Logic Spec is assumed.
+   - Re-justification of logic inside OS is forbidden.
+
+2. Create a Pointer Block:
+   - Next: BL-5 ResearchModeInit (default: raw-medium).
+   - Then: OS operation (methods/models/theories).
+
+3. Define a Re-entry Rule:
+   - Foundational conflicts pause OS.
+   - Explicit re-entry to BL-2 / BL-1 / BL-0 with a logged reason.
+
+Output (A4):
+- BIOS Completion Note
+- Pointers
+- Re-entry Rule
+
+Completion criteria:
+- BIOS completion explicitly declared.
+- Next stage explicitly named.
+- Re-entry rule exists.
+
+Abort / fallback:
+- If logic debate reappears: cut and point to BL-2.
+

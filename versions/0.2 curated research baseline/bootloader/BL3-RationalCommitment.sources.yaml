@@ -1,0 +1,31 @@
+prompt_id: BL3_rational_commitment
+title: "Entscheidung zur ernsthaften rationalen Bearbeitung"
+version: 0.1
+created: 2025-12-24
+references:
+  - concept: "Bereitschaft zur ernsthaften rationalen Bearbeitung"
+    sources:
+      - citekey: popper1934
+        author: "Karl R. Popper"
+        year: 1934
+        title: "Logik der Forschung"
+        notes: "Wissenschaft als kritische, engagierte Haltung"
+      - citekey: kuhn1962
+        author: "Thomas S. Kuhn"
+        year: 1962
+        title: "The Structure of Scientific Revolutions"
+        notes: "Commitment zum Paradigma vs. Bereitschaft zur Krise"
+  - concept: "Kritische Prüfung auch unangenehmer Hypothesen"
+    sources:
+      - citekey: popper1963
+        author: "Karl R. Popper"
+        year: 1963
+        title: "Conjectures and Refutations"
+        notes: "Wille zur Falsifikation eigener Ideen"
+  - concept: "Investition von Zeit und Energie"
+    sources:
+      - citekey: csikszentmihalyi1990
+        author: "Mihaly Csikszentmihalyi"
+        year: 1990
+        title: "Flow: The Psychology of Optimal Experience"
+        notes: "Voraussetzung für konzentrierte Arbeit"

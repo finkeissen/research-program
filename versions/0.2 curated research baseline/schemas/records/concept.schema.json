@@ -1,0 +1,72 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/schemas/records/concept.schema.json",
+  "title": "Concept Record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "term",
+    "sense_id",
+    "definition_type"
+  ],
+  "properties": {
+    "term": {
+      "type": "string",
+      "minLength": 1
+    },
+    "sense_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "referent_hint": {
+      "type": "string",
+      "default": ""
+    },
+    "definition_type": {
+      "type": "string",
+      "enum": [
+        "stipulative",
+        "descriptive",
+        "operational",
+        "theoretical"
+      ]
+    },
+    "context": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    },
+    "scope": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    },
+    "synonyms": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    },
+    "disallowed_mappings": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    },
+    "ambiguity": {
+      "type": "string",
+      "enum": [
+        "low",
+        "medium",
+        "high"
+      ],
+      "default": "low"
+    }
+  }
+}

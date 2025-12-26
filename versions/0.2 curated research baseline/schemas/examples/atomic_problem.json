@@ -1,0 +1,47 @@
+{
+  "id": "AP-001",
+  "type": "atomic_problem",
+  "schema_version": "0.2.2",
+  "record_version": "0.1.0",
+  "created_at": "2025-12-24T15:15:10.239112+00:00",
+  "scope": [
+    "nahe der Erdoberfläche",
+    "Luftwiderstand vernachlässigt"
+  ],
+  "provenance": {
+    "source": "docs/architecture/derivers/atomic-problem-decision-deriver.md",
+    "driver": "problem_driver"
+  },
+  "links": [
+    {
+      "rel": "derived_from",
+      "target": "C-001"
+    }
+  ],
+  "payload": {
+    "id": "AP-001",
+    "goal": "Klassifiziere, welche Aussagen/Handlungen bzgl. 'konstante Beschleunigung' im lokalen freien Fall zulässig sind.",
+    "context": [
+      "Walkthrough free fall",
+      "Exploratory decision space derivation"
+    ],
+    "scope": [
+      "nahe der Erdoberfläche",
+      "Luftwiderstand vernachlässigt"
+    ],
+    "action_space": [
+      "Behauptung: Beschleunigung ist konstant (ohne epsilon)",
+      "Behauptung: Beschleunigung ist konstant innerhalb Messunsicherheit",
+      "Nächster Schritt: Scope präzisieren (H oder epsilon definieren)",
+      "Experiment/Analyse durchführen (Varianztest)"
+    ],
+    "constraints": [
+      "Keine stillen Zusatzannahmen",
+      "Scope muss explizit sein",
+      "Evidenztyp muss angegeben sein"
+    ],
+    "responsibility_boundary": "Nur Klassifikation des Entscheidraums; keine Empfehlung/Optimierung; keine neue Evidenzproduktion.",
+    "stakeholders": [],
+    "notes": "Example atomic problem record."
+  }
+}

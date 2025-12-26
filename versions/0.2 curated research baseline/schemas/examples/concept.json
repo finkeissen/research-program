@@ -1,0 +1,35 @@
+{
+  "id": "CONCEPT-001",
+  "type": "concept",
+  "schema_version": "0.1.0",
+  "record_version": "0.1.0",
+  "created_at": "2025-12-24T14:33:44.688852+00:00",
+  "scope": [
+    "Luftwiderstand vernachlässigt"
+  ],
+  "provenance": {
+    "source": "docs/architecture/drivers_walkthrough.md",
+    "author": "",
+    "driver": "concept_driver",
+    "notes": "Example artifact."
+  },
+  "links": [
+    {
+      "rel": "derived_from",
+      "target": "C-001"
+    }
+  ],
+  "payload": {
+    "term": "freier Fall",
+    "sense_id": "FREE_FALL/IDEALIZED",
+    "referent_hint": "Bewegung unter Gravitation ohne weitere Kräfte",
+    "definition_type": "theoretical",
+    "context": [],
+    "scope": [
+      "Luftwiderstand vernachlässigt"
+    ],
+    "synonyms": [],
+    "disallowed_mappings": [],
+    "ambiguity": "low"
+  }
+}

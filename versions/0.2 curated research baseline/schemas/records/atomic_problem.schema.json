@@ -1,0 +1,70 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/schemas/records/atomic_problem.schema.json",
+  "title": "Atomic Problem Record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "goal",
+    "action_space",
+    "scope",
+    "responsibility_boundary"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "goal": {
+      "type": "string",
+      "minLength": 1,
+      "description": "What is being decided / achieved."
+    },
+    "context": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    },
+    "scope": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1
+    },
+    "action_space": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "description": "List of actions/options the decision space is over."
+    },
+    "constraints": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    },
+    "responsibility_boundary": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Explicit competence/responsibility limits."
+    },
+    "stakeholders": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    },
+    "notes": {
+      "type": "string",
+      "default": ""
+    }
+  }
+}

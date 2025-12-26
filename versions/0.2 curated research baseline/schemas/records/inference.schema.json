@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/schemas/records/inference.schema.json",
+  "title": "Inference Record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "model",
+    "target",
+    "result_summary"
+  ],
+  "properties": {
+    "model": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Statistical model description."
+    },
+    "target": {
+      "type": "string",
+      "minLength": 1,
+      "description": "What is inferred (parameter, prediction, etc.)."
+    },
+    "result_summary": {
+      "type": "string",
+      "minLength": 1
+    },
+    "estimates": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "name",
+          "value"
+        ],
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "value": {
+            "type": "number"
+          },
+          "interval": {
+            "type": "array",
+            "items": {
+              "type": "number"
+            },
+            "minItems": 2,
+            "maxItems": 2
+          }
+        }
+      }
+    },
+    "assumptions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    }
+  }
+}

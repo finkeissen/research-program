@@ -1,0 +1,17 @@
+
+**treiber/quellen_treiber.sources.yaml**
+
+```yaml
+prompt_id: 000_quellen_treiber
+title: "Automatische Zuordnung externer Quellenreferenzen"
+version: 0.1
+created: 2025-12-24
+references:
+  - concept: "Quellenreferenzierung als Treiber-Modul"
+    sources:
+      - citekey: no_source
+        notes: "Originäre Architekturentscheidung – bewusst als Treiber modelliert"
+  - concept: "Strukturelle statt argumentative Quellenzuordnung"
+    sources:
+      - citekey: no_source
+        notes: "Epistemische Haltung des Programms – intentional ohne externe Vorläufer"
