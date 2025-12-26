@@ -1,0 +1,24 @@
+prompt_id: BL1_minimal_requirements
+title: "Festlegung minimaler Voraussetzungen für den Start rationaler Praxis"
+version: 0.1
+created: 2025-12-24
+references:
+  - concept: "Minimale Bedingungen für rationale Bearbeitung"
+    sources:
+      - citekey: popper1963
+        author: "Karl R. Popper"
+        year: 1963
+        title: "Conjectures and Refutations"
+        notes: "Rationalität erfordert bestimmte Voraussetzungen wie Kritikfähigkeit"
+      - citekey: kahneman2011
+        author: "Daniel Kahneman"
+        year: 2011
+        title: "Thinking, Fast and Slow"
+        notes: "Übergang von System 1 zu System 2 erfordert Aufmerksamkeit und Energie"
+  - concept: "Prüfung von Ressourcen und Kapazität"
+    sources:
+      - citekey: csikszentmihalyi1990
+        author: "Mihaly Csikszentmihalyi"
+        year: 1990
+        title: "Flow: The Psychology of Optimal Experience"
+        notes: "Voraussetzungen für konzentrierte geistige Arbeit"

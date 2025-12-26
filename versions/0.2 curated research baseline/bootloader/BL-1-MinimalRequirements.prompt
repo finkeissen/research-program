@@ -1,0 +1,45 @@
+# BL-1 — Minimal Requirements
+
+Phase: BL-1
+Mode: BIOS-mode (first-stage)
+Artifact: A1 — Requirements Artifact
+
+Context:
+You are still in BIOS-mode.
+Work only with better/worse distinctions, not true/false.
+Do not select methods or tools.
+
+Task:
+Using A0, derive 3–7 minimal requirements for a more viable regime.
+
+For each requirement:
+- Name (1–3 words)
+- Meaning (1 sentence)
+- Indicator ("I know this is met when…")
+
+Use canonical vocabulary where possible:
+Stability, Traceability, Repeatability, Non-arbitrariness,
+Error-tolerance, Revisability, Inter-subjective checkability.
+
+Then:
+- Prioritize requirements (P1 highest).
+- Add ONE Anti-Requirement:
+  "We explicitly do NOT optimize for …"
+
+Output (A1):
+- Requirements list (P1…Pn), each with indicator
+- Anti-Requirement (1 sentence)
+
+Completion criteria:
+- 3–7 requirements.
+- Each has an indicator.
+- Priority order exists.
+- One anti-requirement exists.
+
+Abort / fallback:
+- If requirements are vague: demand an observable indicator.
+- If maximal ("perfect", "absolute"): downgrade to minimal viability.
+
+On success:
+- Pass A1 to BL-2.
+

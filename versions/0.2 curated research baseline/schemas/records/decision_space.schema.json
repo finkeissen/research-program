@@ -1,0 +1,130 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/schemas/records/decision_space.schema.json",
+  "title": "Decision Space Record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "atomic_problem_id",
+    "rationale",
+    "classes"
+  ],
+  "properties": {
+    "atomic_problem_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "stop": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "flag",
+        "reason"
+      ],
+      "properties": {
+        "flag": {
+          "type": "boolean"
+        },
+        "reason": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "classes": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "mandatory",
+        "permissible",
+        "forbidden",
+        "undecidable"
+      ],
+      "properties": {
+        "mandatory": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "permissible": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "forbidden": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "undecidable": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        }
+      }
+    },
+    "rationale": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "summary",
+        "preconditions"
+      ],
+      "properties": {
+        "summary": {
+          "type": "string",
+          "minLength": 1
+        },
+        "preconditions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "scope_alignment": {
+          "type": "string",
+          "enum": [
+            "match",
+            "mismatch",
+            "unknown"
+          ],
+          "default": "unknown"
+        },
+        "responsibility_boundary": {
+          "type": "string",
+          "default": ""
+        }
+      }
+    },
+    "assumptions_introduced": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    },
+    "evidence_refs": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    },
+    "conflict_refs": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    }
+  }
+}

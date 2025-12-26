@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/schemas/records/validation.schema.json",
+  "title": "Validation Report",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "target",
+    "result"
+  ],
+  "properties": {
+    "target": {
+      "type": "string",
+      "minLength": 1
+    },
+    "checks_run": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    },
+    "result": {
+      "type": "string",
+      "enum": [
+        "pass",
+        "pass_with_warnings",
+        "fail"
+      ]
+    },
+    "issues": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    },
+    "suggested_fixes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "C-001",
+  "type": "claim",
+  "schema_version": "0.1.0",
+  "record_version": "0.1.0",
+  "created_at": "2025-12-24T14:33:44.688852+00:00",
+  "scope": [
+    "nahe der Erdoberfläche",
+    "Luftwiderstand vernachlässigt"
+  ],
+  "provenance": {
+    "source": "docs/architecture/drivers_walkthrough.md",
+    "author": "",
+    "driver": "claim_driver",
+    "notes": "Example artifact."
+  },
+  "links": [],
+  "payload": {
+    "id": "C-001",
+    "statement": "Bei idealem freien Fall nahe der Erdoberfläche ist die Beschleunigung konstant.",
+    "scope": [
+      "nahe der Erdoberfläche",
+      "Luftwiderstand vernachlässigt"
+    ],
+    "assumptions": [
+      "homogenes Gravitationsfeld (lokale Näherung)"
+    ],
+    "dependencies": [],
+    "status": "hypothesis",
+    "confidence": "qualitative"
+  }
+}

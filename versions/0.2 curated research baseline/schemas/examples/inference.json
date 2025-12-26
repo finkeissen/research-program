@@ -1,0 +1,41 @@
+{
+  "id": "INF-001",
+  "type": "inference",
+  "schema_version": "0.2.0",
+  "record_version": "0.1.0",
+  "created_at": "2025-12-24T14:35:59.420590+00:00",
+  "scope": [
+    "nahe der Erdoberfläche",
+    "Luftwiderstand vernachlässigt"
+  ],
+  "provenance": {
+    "source": "docs/architecture",
+    "driver": "inference_driver",
+    "notes": "Example artifact."
+  },
+  "links": [
+    {
+      "rel": "derived_from",
+      "target": "MEAS-001"
+    }
+  ],
+  "payload": {
+    "model": "a_i ~ Normal(μ, σ^2)",
+    "target": "μ (mittlere Beschleunigung)",
+    "result_summary": "μ nahe 9.8 m/s^2; Varianz klein im Scope",
+    "estimates": [
+      {
+        "name": "mu",
+        "value": 9.8,
+        "interval": [
+          9.7,
+          9.9
+        ]
+      }
+    ],
+    "assumptions": [
+      "iid samples (approx.)",
+      "Gaussian noise (approx.)"
+    ]
+  }
+}

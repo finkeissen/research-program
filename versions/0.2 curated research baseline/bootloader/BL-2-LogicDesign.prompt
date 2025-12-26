@@ -1,0 +1,55 @@
+# BL-2 — Logic Design
+
+Phase: BL-2
+Mode: BIOS-mode (first-stage)
+Artifact: A2 — Logic Spec
+
+Context:
+You are designing operational constraints, not doing science.
+Do not argue philosophy. Produce a usable rule set.
+
+Task:
+Design a Logic Spec that satisfies A1.
+
+1. Baseline posture (1 line)
+   Default: consistency-seeking with explicit error handling.
+
+2. Allowed Moves (5–9 bullets)
+   Examples:
+   - Identify entities consistently
+   - Compare states (same/different, more/less)
+   - Record observations with context
+   - Revise claims under explicit rules
+
+3. Forbidden Moves (5–9 bullets)
+   Examples:
+   - Claim certainty without testability
+   - Hide contradictions
+   - Change definitions without versioning
+   - Use conclusions as premises without flagging
+
+4. Contradiction Policy (4–8 lines)
+   - How contradictions are detected, logged, and handled.
+   - Minimum rule: contradictions create tasks, not silence.
+
+5. Revision Rule (4–8 lines)
+   - When revision is required.
+   - What must be preserved (traceability/versioning).
+
+Output (A2):
+- Baseline posture
+- Allowed Moves
+- Forbidden Moves
+- Contradiction Policy
+- Revision Rule
+
+Completion criteria:
+- All five sections exist.
+- Spec is explicit enough to be enforced.
+
+Abort / fallback:
+- If debate replaces specification: collapse to operational constraints only.
+
+On success:
+- Pass A2 to BL-3.
+

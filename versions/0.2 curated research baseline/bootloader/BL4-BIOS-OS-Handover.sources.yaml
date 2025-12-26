@@ -1,0 +1,26 @@
+prompt_id: BL4_bios_os_handover
+title: "Übergabe von der Boot-Umgebung an den rationalen Forschungskern"
+version: 0.1
+created: 2025-12-24
+references:
+  - concept: "Kontrollierter Übergang von Bootloader zum Kern"
+    sources:
+      - citekey: tanenbaum2014
+        author: "Andrew S. Tanenbaum"
+        year: 2014
+        title: "Modern Operating Systems"
+        notes: "Bootloader → Kernel-Handover in OS-Architektur"
+  - concept: "Zusammenfassung und Protokollierung des Initialzustands"
+    sources:
+      - citekey: popper1959
+        author: "Karl R. Popper"
+        year: 1959
+        title: "The Logic of Scientific Discovery"
+        notes: "Explizite Formulierung des Problems vor Beginn der Forschung"
+  - concept: "Aktivierung voller rationaler Werkzeuge"
+    sources:
+      - citekey: lakatos1978
+        author: "Imre Lakatos"
+        year: 1978
+        title: "The Methodology of Scientific Research Programmes"
+        notes: "Übergang vom heuristischen zum ausgereiften Forschungsprogramm"

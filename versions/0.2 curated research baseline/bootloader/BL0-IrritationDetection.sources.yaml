@@ -1,0 +1,24 @@
+prompt_id: BL0_irritation_detection
+title: "Erkennung initialer Irritation als Trigger der rationalen Bootsequenz"
+version: 0.1
+created: 2025-12-24
+references:
+  - concept: "Irritation als Auslöser rationaler Prozesse"
+    sources:
+      - citekey: popper1959
+        author: "Karl R. Popper"
+        year: 1959
+        title: "The Logic of Scientific Discovery"
+        notes: "Problem situation als Anfang wissenschaftlicher Tätigkeit"
+      - citekey: dewey1938
+        author: "John Dewey"
+        year: 1938
+        title: "Logic: The Theory of Inquiry"
+        notes: "Indeterminate situation als Ausgangspunkt der Untersuchung"
+  - concept: "Prärationaler Scan vor rationaler Bearbeitung"
+    sources:
+      - citekey: husserl1936
+        author: "Edmund Husserl"
+        year: 1936
+        title: "Die Krisis der europäischen Wissenschaften"
+        notes: "Irritation an der natürlichen Einstellung"

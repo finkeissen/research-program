@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/schemas/records/evidence.schema.json",
+  "title": "Evidence Record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "evidence_type",
+    "supports_claim_id",
+    "method_summary",
+    "scope_alignment"
+  ],
+  "properties": {
+    "evidence_type": {
+      "type": "string",
+      "enum": [
+        "formal",
+        "empirical",
+        "computational",
+        "testimonial"
+      ]
+    },
+    "supports_claim_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "method_summary": {
+      "type": "string",
+      "minLength": 1
+    },
+    "quality_notes": {
+      "type": "string",
+      "default": ""
+    },
+    "uncertainty_summary": {
+      "type": "string",
+      "default": ""
+    },
+    "scope_alignment": {
+      "type": "string",
+      "enum": [
+        "match",
+        "mismatch",
+        "unknown"
+      ]
+    }
+  }
+}

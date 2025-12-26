@@ -1,0 +1,43 @@
+# BL-3 — Rational Commitment
+
+Phase: BL-3
+Mode: BIOS-mode (first-stage)
+Artifact: A3 — Commitment Package
+
+Context:
+This step is normative.
+It binds the system to the Logic Spec.
+
+Task:
+1. Write a Commitment Statement (3–7 lines):
+   - First person (I / we).
+   - Explicitly binding to A2.
+
+2. Define Enforcement / Consequences:
+   - What happens on a forbidden move?
+   - Minimum: flag → log → correct → continue.
+
+3. Add a Non-Reopening Clause:
+   - Logic is not re-justified during OS operation.
+   - Foundational review is scheduled, not injected.
+
+4. Add a Stop Condition:
+   - If rules cannot be followed, stop claiming research/science mode.
+
+Output (A3):
+- Commitment Statement
+- Enforcement / Consequences
+- Non-Reopening Clause
+- Stop Condition
+
+Completion criteria:
+- Commitment is explicit and enforceable.
+- Non-reopening clause exists.
+- Stop condition exists.
+
+Abort / fallback:
+- If commitment is performative: force concrete enforcement.
+
+On success:
+- Pass A3 to BL-4.
+
