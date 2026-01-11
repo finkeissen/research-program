@@ -1,0 +1,23 @@
+.:
+insgesamt 32
+drwxrwxr-x 4 ef ef 4096 Dez 30 16:55 .
+drwxrwxr-x 6 ef ef 4096 Dez 30 16:37 ..
+drwxrwxr-x 2 ef ef 4096 Dez 30 16:36 docs
+-rw-rw-r-- 1 ef ef    0 Dez 30 16:55 GitHub.dir
+drwxrwxr-x 2 ef ef 4096 Dez 30 16:37 papers
+-rw-rw-r-- 1 ef ef 4614 Dez 30 16:36 README.0.4.md
+-rw-rw-r-- 1 ef ef 1350 Dez 30 16:35 README.md
+-rw-rw-r-- 1 ef ef 2022 Dez 30 16:35 RELEASE-0.4.md
+
+./docs:
+insgesamt 16
+drwxrwxr-x 2 ef ef 4096 Dez 30 16:36 .
+drwxrwxr-x 4 ef ef 4096 Dez 30 16:55 ..
+-rw-rw-r-- 1 ef ef 2689 Dez 30 16:36 evaluation-framework.md
+-rw-rw-r-- 1 ef ef 1404 Dez 30 16:36 research-mms-contract.md
+
+./papers:
+insgesamt 12
+drwxrwxr-x 2 ef ef 4096 Dez 30 16:37 .
+drwxrwxr-x 4 ef ef 4096 Dez 30 16:55 ..
+-rw-rw-r-- 1 ef ef 1095 Dez 30 16:37 README.md

@@ -1,8 +1,8 @@
 # Research Program
 
 **Status:** Applied Research  
-**Version:** 0.3  
-**Maturity:** Structured, applied, non-authoritative  
+**Version:** 0.4  
+**Maturity:** Structurally complete, non-authoritative  
 **Authority:** None  
 
 ---
@@ -12,60 +12,116 @@
 This repository contains a **structured research program**.
 
 It is not a product, not a system, and not an authority.  
-It is a **thinking and translation space** whose primary goal is to make
-**assumptions, boundaries, interfaces, translations, and decision conditions explicit**.
+It is a **thinking and translation space** whose primary purpose is to make
+**assumptions, scopes, constraints, boundaries, interfaces, and stopping conditions explicit**.
 
 The repository exists to answer questions of the form:
 
 - What exactly is being claimed, and in which domain?
 - Under which scope does a statement hold?
-- What kind of evidence supports or contradicts it?
-- Which domain-specific assumptions are in play?
+- Which assumptions and constraints are in play — and which are explicitly excluded?
+- What kind of evidence would be required to proceed?
 - Where does reasoning legitimately stop?
-- When is a decision possible — and when is STOP the only correct outcome?
+- When is STOP the only correct outcome?
+
+This repository prioritizes **epistemic discipline over completeness**.
 
 ---
 
-## 2. What Version 0.3 Represents
+## 2. Research Phases and Their Roles
 
-Version **0.3** represents a transition from a *curated research baseline*
-to **applied, domain-connected research**.
+The research program is organized into **epistemic phases**.
+These are not software versions, but **distinct modes of inquiry**.
 
-Compared to version 0.2, it introduces:
+### Phase 0.1 — Explorations
+- open search space
+- unfiltered exploration
+- early boundary intuition
+- no architectural guarantees
 
-- explicit **domain connectors** (e.g. medicine, law, economics)
-- formal **translation layers** between abstract research artifacts and
-  domain-specific representations
-- structured handling of **domain-specific normativity, uncertainty, and scope**
-- the ability to host many domains without collapsing them into a shared ontology
+### Phase 0.2 — Structural Extraction
+- identification of stable structures
+- separation of form and content
+- emergence of interfaces, boundaries, and schemas
+- still non-applied and non-domain-specific
 
-It does **not** introduce:
+### Phase 0.3 — Constraints
+- **conditional and provisional use** of extracted structure
+- explicit constraints on applicability
+- domain-specific limitations without authority
+- usage is allowed, but never validated or endorsed
 
-- authority
-- truth claims
-- automated decisions
-- expert systems
-- operational readiness
-- governance or policy enforcement
+### Phase 0.4 — Guardrails
+- system-wide, non-negotiable boundaries
+- protection of epistemic integrity
+- explicit STOP conditions
+- version-defining limits
 
-Any appearance of applicability is **conditional and contextual**.
+Each phase is complete **in its own terms**.
+No phase retroactively validates or corrects earlier phases.
 
 ---
 
-## 3. What This Repository Is
+## 3. What Version 0.4 Represents
+
+Version **0.4** represents a **structurally complete research architecture**.
+
+It consolidates all prior phases into a coherent framework that is:
+
+- internally consistent
+- explicitly bounded
+- domain-capable
+- non-authoritative by design
+
+Version 0.4 completes the **epistemic and architectural groundwork** of the research program.
+
+It deliberately does **not** introduce:
+- external empirical constraints
+- ontological commitments
+- world models
+- unifying explanations
+- authoritative decision logic
+
+All such extensions are intentionally deferred.
+
+---
+
+## 4. Domains as Interpretation Spaces
+
+Domains in this repository function as **interpretation spaces**.
+
+An interpretation space:
+- hosts **multiple, potentially incompatible models or teaching positions**
+- makes assumptions and scopes explicit
+- allows comparison, contrast, and critique
+- carries **no authority** and **no decision power**
+
+Domains are **not**:
+- authoritative knowledge bases
+- operational specifications
+- product-ready artifacts
+- commitments to a single worldview
+
+They exist to support **research discourse**, not to drive decisions.
+
+No domain content is suitable for direct operational use.
+
+---
+
+## 5. What This Repository Is
 
 This repository **is**:
 
 - a structured research and translation environment
-- a place where cross-domain assumptions are made explicit
-- a framework for connecting research artifacts to real-world domains
-  without granting them epistemic authority
-- a preparation layer for later architectural or operational systems
-  that must still re-derive their own contracts
+- a framework for making assumptions, scopes, and constraints explicit
+- a space for hosting interpretation spaces without collapsing them into a shared ontology
+- a preparation layer for later systems that must still re-derive their own contracts
+
+The repository supports exploration and constrained use **without implicit authority**.
 
 ---
 
-## 4. What This Repository Is Not
+## 6. What This Repository Is Not
 
 This repository **is not**:
 
@@ -75,10 +131,10 @@ This repository **is not**:
 - a decision-making authority
 - a policy, legal, or ethics engine
 - suitable for production, automation, or delegation
+- a world model
 - stable or backward-compatible
 
 No content here should be used directly for:
-
 - implementation
 - optimization
 - automation
@@ -86,30 +142,51 @@ No content here should be used directly for:
 
 ---
 
-## 5. Relationship to Earlier Versions
+## 7. Constraints vs. Guardrails
 
-### Version 0.1
-- captured unfiltered exploration
-- allowed conceptual drift and experimentation
-- served as a raw epistemic workspace
+A key distinction in this research program is the difference between
+**constraints** and **guardrails**.
 
-### Version 0.2
-- introduced curation and structure
-- established explicit interfaces, boundaries, and schemas
-- formed a **curated research baseline**
-- deliberately excluded domain-specific knowledge
+### Constraints (Phase 0.3)
+- apply to **use and application**
+- are local and context-dependent
+- may vary across domains
+- can be replaced or refined
+- restrict *what may be done*
 
-### Version 0.3
-- builds on the 0.2 baseline
-- introduces **applied domain interfaces**
-- makes domain assumptions explicit rather than implicit
-- extends research outward without elevating authority
-
-No version retroactively validates earlier content.
+Violating a constraint invalidates the **use**,  
+but does not invalidate the research framework.
 
 ---
 
-## 6. Relationship to MMS and Governance Work
+### Guardrails (Phase 0.4)
+- apply to the **research program itself**
+- are system-wide and non-negotiable
+- define version integrity
+- enforce STOP or require a version transition
+- restrict *what may be meaningfully asserted or extended*
+
+Violating a guardrail does not produce an error —  
+it marks a **hard STOP**.
+
+---
+
+## 8. STOP — Scope, Limits, and Version Integrity
+
+**STOP** is a first-class structural concept of this research program.
+
+STOP is not a failure, an error, or a lack of knowledge.
+
+> **STOP is an explicit boundary at which this research program cannot proceed
+> without violating its own epistemic rules.**
+
+STOP functions as a **guardrail**.
+
+Any step beyond these limits requires a **version transition**, not an extension.
+
+---
+
+## 9. Relationship to MMS and Governance Work
 
 This repository does **not** define:
 
@@ -124,179 +201,24 @@ It may inform later systems, but:
 > No element of this repository is authoritative for decisions.
 
 Any operational or governance system must
-explicitly re-derive its contracts and responsibilities.
+explicitly re-derive its own contracts, assumptions, and responsibilities.
+
+There is no implicit handover.
 
 ---
 
-## 7. Architectural Overview
+## 10. Versioning Philosophy
 
-The research program is organized into **five conceptual layers**.
-
-### 7.1 BIOS / Pre-Boot
-
-Location:  
-`docs/architecture/research-bios.md`
-
-Purpose:
-- explains why discrete claims, artifacts, scopes, and boundaries are required
-- establishes preconditions for reasoning
-- defines what it means for the system to even “start thinking”
-
-This layer is explanatory only.
-
----
-
-### 7.2 Interfaces (Normative Boundaries)
-
-Location:  
-`interfaces/`
-
-Interfaces define:
-- what kinds of artifacts may exist
-- what each abstract discipline is responsible for
-- where reasoning must stop
-
-They are normative in form, but not authoritative in outcome.
-
----
-
-### 7.3 Domain Interfaces (Applied Translation)
-
-Location:  
-`domain-framework/`  
-`domains/`
-
-Domain interfaces define:
-- how abstract artifacts may be interpreted within a specific domain
-- which primitives, assumptions, and uncertainties apply
-- which translations are permitted and which are forbidden
-
-Domains are instances of the framework, not authorities.
-
----
-
-### 7.4 Drivers (Derivation Specifications)
-
-Location:  
-`drivers/`
-
-Drivers specify:
-- how artifacts can be derived or transformed
-- how translations between interfaces occur
-- how domain-specific constraints are enforced
-
-Drivers remain exploratory and replaceable.
-
----
-
-### 7.5 Schemas (Artifact Shapes)
-
-Location:  
-`schemas/`
-
-Schemas define:
-- a common envelope for all artifacts
-- typed records (claim, concept, evidence, measurement, inference,
-  decision_space, atomic_problem, …)
-- artifact-level versioning
-
-Schemas remain the primary stabilization surface.
-
----
-
-### 7.6 Walkthroughs & Derivers (Explanation)
-
-Location:  
-`docs/architecture/`  
-`docs/architecture/derivers/`
-
-These documents:
-- explain end-to-end flows
-- justify design decisions
-- describe derivation and translation logic in human-readable form
-
-They are explanatory and non-normative.
-
----
-
-## 8. Decision and STOP
-
-A central concept of this research program remains:
-
-> Not all problems are decidable.
-
-The system explicitly models:
-- Decision Spaces
-- Domain-specific uncertainty
-- Undecidability
-- STOP conditions
-
-The Decision Interface:
-- classifies mandatory / permissible / forbidden / undecidable
-- does not optimize or morally evaluate
-- aborts when scope, responsibility, or evidence is insufficient
-
----
-
-## 9. Versioning Philosophy
-
-- 0.1 — exploratory, raw
-- 0.2 — curated, structured, unstable
-- 0.3 — applied, domain-connected, experimental
-- ≥ 0.5 — architectural, reviewable
+- 0.1 — explorations (closed)
+- 0.2 — structural extraction (closed)
+- 0.3 — constraints (closed)
+- 0.4 — guardrails (current)
+- ≥ 0.5 — externally constrained
 - ≥ 1.0 — authoritative (outside this repository)
 
 ---
 
-## 10. Use and Contribution
-
-This repository is published for:
-- transparency
-- traceability of reasoning
-- cross-domain critique
-- architectural preparation
-
-It is not published for:
-- implementation
-- tooling
-- decision support
-- delegation of responsibility
-
-Contributions are welcome only if they respect:
-- explicit boundary marking
-- domain transparency
-- non-authoritative status
-- refusal of premature coherence
-
----
-
-## 11. Relationship to World Models and Future Systems
-
-This repository does **not** aim to construct a complete or coherent
-“model of the world”.
-
-Its role is limited to:
-- making domain assumptions explicit
-- defining legitimate translation paths
-- preserving boundaries between incompatible forms of reasoning
-
-A more integrated or operational worldview — if it is constructed at all —
-belongs **outside** this repository.
-
-In particular:
-- any attempt to assemble a unified, actionable view across domains
-- any effort to reconcile conflicts into a single decision space
-- any system that maintains an internal, evolving picture of the world
-
-is expected to live in **separate systems**, such as MMS,
-and only consume **explicitly handed-over artifacts** from this research program.
-
-There is no automatic or implicit transition from research artifacts
-to world models.
-
----
-
-## 12. Final Note
+## 11. Final Note
 
 If this repository feels careful, constrained, and explicit, that is intentional.
 
@@ -305,6 +227,7 @@ The core research question remains unchanged:
 > “Under which conditions would an answer even be legitimate —
 > and in which domain?”
 
-Version 0.3 merely allows that question to be asked **across domains**,
-without pretending to resolve it.
+Version **0.4** completes the structural groundwork required
+to ask that question rigorously —  
+and to stop when stopping is the only honest option.
 
