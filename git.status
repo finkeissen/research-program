@@ -1,0 +1,25 @@
+Auf Branch main
+Ihr Branch ist auf demselben Stand wie 'origin/main'.
+
+Änderungen, die nicht zum Commit vorgemerkt sind:
+  (benutzen Sie "git add/rm <Datei>...", um die Änderungen zum Commit vorzumerken)
+  (benutzen Sie "git restore <Datei>...", um die Änderungen im Arbeitsverzeichnis zu verwerfen)
+	gelöscht:       0 howto.readme.first.md
+	gelöscht:       1 README research-program+mms+matrix.md
+	gelöscht:       2 ARCHITECTURE.md
+	gelöscht:       3 TRANSPARENCY.md
+	gelöscht:       4 AUDIT.md
+	gelöscht:       5 README.research-program.md
+	geändert:       README.md
+
+Unversionierte Dateien:
+  (benutzen Sie "git add <Datei>...", um die Änderungen zum Commit vorzumerken)
+	0_howto.readme.first.md
+	1_README research-program+mms+matrix.md
+	2_ARCHITECTURE.md
+	3_TRANSPARENCY.md
+	4_AUDIT.md
+	5_README.research-program.md
+	git.status
+
+keine Änderungen zum Commit vorgemerkt (benutzen Sie "git add" und/oder "git commit -a")
