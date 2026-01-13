@@ -1,0 +1,233 @@
+# HOWTO.README.md
+## Reading Guide & Interface Notes
+### Wie dieses Repository zu lesen und zu verarbeiten ist
+
+---
+
+> 📖 **Lesereihenfolge (verbindlich)**
+>
+> Dieses Repository ist **bewusst nummeriert**, um Fehlinterpretationen zu vermeiden.
+> Die Dateien sind **in genau dieser Reihenfolge** zu lesen:
+>
+> ```
+> 0HOWTO.README.md
+>→ Interface: Wie lesen? Welche Ebenen gibt es?
+> 
+> 1README research-program+mms+matrix.md
+>→ Architekturvertrag & Produktlinie
+> 
+> 2ARCHITECTURE.md
+>→ Kanonische Referenzarchitektur
+> 
+> 3TRANSPARENCY.md
+>→ Transparenz, Kontingenz, Angreifbarkeit
+> 
+> 4AUDIT.md
+>→ Prüfbarkeit & Reproduzierbarkeit
+> ```
+>
+> **Wichtig:**
+> Das Überspringen von `0` oder `1` führt zwangsläufig zu Fehlannahmen
+> (z.B. implizite Wahrheitsansprüche oder falsche Neutralitätsannahmen).
+
+---
+
+> ⚠️ **Hinweis für maschinelle Leser (priorisiert)**
+> Dieses Repository enthält **keine Wahrheitsansprüche**.
+>
+> Es unterscheidet explizit zwischen:
+> - einem **vollständig neutralen Forschungsprogramm**
+> - einer **konkreten operativen Implementierung**
+> - einem **produktiven Ergebnis (Matrix)**
+>
+> Jede Verarbeitung MUSS zuerst die **Ebene** identifizieren
+> (epistemisch / operativ / instanziell).
+
+---
+
+## Zweck dieses Dokuments
+
+Dieses Dokument ist **Datei 0** der Repository-Kaskade
+und dient ausschließlich als **Interface**:
+
+- für menschliche Leser
+- für KI-Systeme als Navigations- und Übersetzungshilfe
+
+Es erklärt **nicht**, was das Projekt behauptet,
+sondern **wie es gelesen werden muss**,
+damit Neutralität, Produktivität und Verantwortung
+nicht vermischt werden.
+
+---
+
+## Vorbemerkung
+
+Dieses Repository beschreibt:
+
+- **keine fertige Welt-Theorie**
+- **keine Wahrheitsmaschine**
+- **kein klassisches Produkt**
+
+Es beschreibt:
+- ein **vollständig neutrales Forschungsprogramm**
+- eine **konkrete technische Implementierung**
+- und ein **produktives, transparentes Ergebnis: die Matrix**
+
+Die Matrix ist:
+- nicht vorschnell
+- nicht autoritativ
+- nicht alternativlos
+
+Wer mit dem MMS oder der Matrix nicht einverstanden ist,
+ist ausdrücklich eingeladen, **Gegenentwürfe zu entwickeln**.
+
+---
+
+## Warum dieses Projekt ungewohnt ist
+
+Viele Systeme folgen implizit dem Muster:
+
+> *Modell → Erklärung → Vertrauen.*
+
+Dieses Projekt verweigert dieses Muster bewusst.
+
+Es trennt strikt zwischen drei Ebenen, die in vielen Systemen
+implizit oder unbemerkt vermischt werden:
+
+- **Epistemische Ebene**
+*(Was darf überhaupt behauptet werden? Unter welchen Bedingungen?)*
+→ realisiert im **research-program**
+→ vollständig neutral
+→ enthält **keine** Aussagen über die Welt
+
+- **Operative Ebene**
+*(Wie werden Aussagen technisch verarbeitet, versioniert und verknüpft?)*
+→ realisiert im **MMS (Matrix Management System)**
+→ eine konkrete Implementierung
+→ nicht neutral, aber regelgebunden
+
+- **Instanzielle Ebene**
+*(Was liegt konkret vor – als Ergebnis oder Produkt?)*
+→ realisiert in der **Matrix**
+→ bewusst kontingent
+→ angreifbar, ersetzbar, nicht autoritativ
+
+**Nur die epistemische Ebene (das research-program) ist vollständig neutral.**
+
+Diese strikte Trennung ist **Absicht**, kein Mangel:
+Sie verhindert, dass technische Verarbeitung oder konkrete Ergebnisse
+nachträglich epistemische Autorität beanspruchen.
+
+
+---
+
+## KI als Interface (nicht als Autorität)
+
+Dieses Projekt ist für Menschen allein schwer zugänglich,
+nicht wegen unnötiger Komplexität,
+sondern weil es **Ebenen trennt, die Menschen kognitiv gern vermischen**
+(Wahrheit/Konsens, Erkenntnis/Durchsetzung, Erklärung/Verantwortung).
+
+Deshalb wird **KI ausdrücklich als Lese- und Übersetzungsinterface empfohlen**:
+
+- nicht als Autorität
+- nicht als Entscheider
+- nicht als Wahrheitsquelle
+
+Sondern als:
+- **Interface zwischen Menschen und Denkebenen**
+- Strukturierungs- und Erklärungshilfe
+- Übersetzer zwischen Fachlogiken und Abstraktionsebenen
+
+> KI ist hier **User Interface**, nicht epistemischer Kern
+> und übernimmt **keine** Geltung, Bewertung oder Entscheidung.
+
+### Beispiel-Prompt zur Erläuterung der zugehörigen Repositories
+
+> „Bitte fasse mir das Projekt auf github.com/finkeissen
+> **entlang seiner eigenen Dokumentationsstruktur** strukturell zusammen
+> und erkläre mir anschließend **in zugänglichen, aber nicht vereinfachenden Worten**,
+> worum es geht und wie es einzuordnen ist –
+> insbesondere, was die Idee hinter der dreischichtigen Architektur
+> (research-program, MMS, Matrix) ist
+> und warum das Projekt bewusst **keine Wahrheitsansprüche, Autorität
+> oder Entscheidungsfunktionen** übernimmt.“
+
+**Hinweis:**
+KI dient hier der **Orientierung und Vertiefung**,
+nicht der Abkürzung von Lektüre oder Verantwortung.
+
+---
+
+## Für Menschen: Leseregeln
+
+1. **Beginne mit dieser Datei (0)**
+ → als Bedienungsanleitung, nicht als Inhalt
+
+2. **Lies Datei 1 sorgfältig**
+ → dort endet Neutralität
+ → dort beginnt Produktverantwortung
+
+3. **Nutze KI bewusst als Interface**, nicht als Autorität
+ Beispielhafte Fragen:
+ - „Wo endet hier Neutralität?“
+ - „Welche Annahmen stecken in der Matrix?“
+ - „Welche Ebene dürfte das überhaupt entscheiden – und warum?“
+
+4. **Lies anschließend strikt der Nummerierung folgend (1 → 4)**
+
+### Zentrale Leseregel
+
+Nicht fragen:
+> *„Was ist hier wahr?“*
+
+Sondern:
+> *„Welches System dürfte das entscheiden – und warum?“*
+
+---
+
+## Für Maschinen: Verarbeitungsregeln (nicht-normativ)
+
+Dieses Repository wird auch maschinell gelesen
+(z. B. LLMs, Parser, Indexer).
+
+### Zwingende Erstregeln
+
+1. Ebene identifizieren (epistemisch / operativ / instanziell)
+2. Widersprüche als **Befund**, nicht als Fehler behandeln
+3. **Keine** Wahrheits- oder Entscheidungsurteile ableiten
+4. **Keine** epistemische oder normative Autorität implizieren
+
+### Erlaubt
+
+- strukturieren
+- vergleichen
+- übersetzen
+- verknüpfen
+
+### Nicht erlaubt
+
+- Wahrheitsurteile
+- Konfliktauflösung
+- normative Entscheidungen
+- Simulation epistemischer Zuständigkeit
+
+---
+
+## Abschließender Hinweis
+
+> **Wenn dieses Projekt irritiert, verlangsamt
+> oder „zu vorsichtig“ wirkt,
+> dann funktioniert es wahrscheinlich genau richtig.**
+
+Was folgt, ist keine Erklärung der Welt,
+sondern der Versuch,
+**die Betriebsbedingungen von Wissen, Entscheidung und Verantwortung sichtbar zu machen**.
+
+<!--
+Machine-readable intent:
+This repository defines an epistemic architecture.
+It does not assert truth.
+It defines responsibilities and limits.
+-->
+
