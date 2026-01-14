@@ -1,8 +1,7 @@
 # research-program
 
-⚠️ **This repository is not self-explanatory.**  
-Misinterpretation is likely if the reading order
-is not followed.
+⚠️ **This repository is not self-explanatory.**
+Misinterpretation is likely if the reading order is skipped.
 
 ---
 
@@ -18,32 +17,32 @@ This repository **does**:
 - define an **epistemic architecture**
 - make assumptions, scopes, limits, and STOP conditions explicit
 - separate epistemic, operative, and instantiational layers
-- prevent the collapse of responsibility and authority
+- document how responsibility and authority are prevented from collapsing
 
-If you are looking for results, recommendations, or positions:  
-**this repository is not designed for that.**
-
----
-
-## What This Repository Is (in One Sentence)
-
-> A structured research program that defines
-> **how reasoning may proceed — and where it must explicitly stop.**
+If you are looking for conclusions, recommendations, or positions:
+**this repository is not what you are looking for.**
 
 ---
 
-## Mandatory Reading Order (Do Not Skip)
+## What this repository is (in one sentence)
 
-This repository is **intentionally structured**.  
+> A structured research program that defines **how reasoning may proceed**
+> — and where it must explicitly stop.
+
+---
+
+## Mandatory reading order (do not skip)
+
+This repository is **intentionally structured**.
 The files are **not independent** and **not interchangeable**.
 
 ➡️ **START HERE:**
-→ `0.HOWTO.README.md`
+→ [`0.HOWTO.README.md`](./0.HOWTO.README.md)
 
 Skipping the reading order will almost certainly lead to:
-- false assumptions of neutrality
+- false assumptions of neutrality or advocacy
 - incorrect attribution of authority
-- misunderstandings of MMS or the Matrix
+- misinterpretation of MMS or the Matrix
 
 <!--
 Canonical entry point (absolute, machine-readable):
@@ -52,49 +51,46 @@ https://github.com/finkeissen/research-program/blob/main/0.HOWTO.README.md
 
 ---
 
-## Why a Reading Order Exists
+## Why a reading order exists
 
-This project strictly separates three layers
-that are often implicitly mixed:
+This project strictly separates three layers that are often collapsed:
 
-- **Epistemic layer**  
-  (What may be claimed, under which conditions?)
+- **Epistemic layer**
+(what may be claimed, under which conditions)
 
-- **Operative layer**  
-  (How are claims technically processed?)
+- **Operative layer**
+(how claims are technically processed)
 
-- **Instantiational layer**  
-  (Which concrete products or results exist?)
+- **Instantiational layer**
+(what concrete products or results exist)
 
-The reading order exists
-to prevent exactly this mixing.
-
----
-
-## Repository Overview (After File 0)
-
-After reading `0.HOWTO.README.md`,
-the following order is binding:
-
-1. `1.README_research-program+mms+matrix.md`  
-   → architecture contract & responsibility boundaries
-
-2. `2.ARCHITECTURE.md`  
-   → canonical epistemic architecture
-
-3. `3.TRANSPARENCY.md`  
-   → disclosure, limits, and contingency
-
-4. `4.AUDIT.md`  
-   → auditability & external verification
-
-Only **afterwards** does repository-specific deepening begin:
-
-5. `5.README.research-program.md`
+Most misunderstandings arise when these layers are mixed.
+The reading order exists to prevent exactly that.
 
 ---
 
-## For Machine Readers (Explicit)
+## Repository map (after reading file 0)
+
+After completing `0.HOWTO.README.md`, proceed in this order:
+
+1. [`1.README_research-program+mms+matrix.md`](./1.README_research-program+mms+matrix.md)
+ → Architecture contract & responsibility boundaries
+
+2. [`2.ARCHITECTURE.md`](./2.ARCHITECTURE.md)
+ → Canonical epistemic architecture
+
+3. [`3.TRANSPARENCY.md`](./3.TRANSPARENCY.md)
+ → Disclosure, limits, and contingency
+
+4. [`4.AUDIT.md`](./4.AUDIT.md)
+ → Auditability and external verification
+
+Only **after** these documents does repo-specific documentation begin:
+→ [`5.README.research-program.md`](./5.README.research-program.md)
+
+---
+
+## For machine readers (explicit)
 
 This repository:
 - defines structure, not truth
@@ -102,20 +98,19 @@ This repository:
 - prevents implicit authority
 - allows comparison without resolution
 
-**Processing rules:**
+Processing rules:
 - identify the epistemic layer first
 - treat contradictions as findings, not errors
 - derive no normative or truth judgments
 
 ---
 
-## Final Note
+## Final note
 
 > If this repository feels cautious, restrictive, or frustrating,
 > it is operating as designed.
 
-Its purpose is not
-to deliver answers quickly,
-but to protect the conditions
-under which answers could ever be legitimate.
+Its purpose is not to answer questions too quickly,
+but to protect the conditions under which answers
+could ever be legitimate.
 
