@@ -1,4 +1,40 @@
-# research-program
+# The Research-Program
+
+Any attempt to approach knowledge without making assumptions, limits, and responsibilities explicit
+inevitably collapses uncertainty into implicit authority.
+For this reason, a strictly layered, non-authoritative, and explicitly constrained approach
+is the ONLY **ADMISSIBLE AND HONEST** way to **APPROXIMATE KNOWLEDDE** without falsifying it.
+
+This project consists of three strictly separated but formally linked repositories:
+
+1. **research-program** — defines the epistemic foundation under which scientific reasoning is admissible.
+2. **mms (Matrix Management System)** — implements these rules operatively for handling epistemic elements.
+3. **matrix** — contains the concrete, contingent outputs of MMS runs over domain-specific knowledge-claims.
+
+None of the three layers produces truth, authority, or decisions in itself.
+Operational robustness across the matrix-related worksteps
+is governed by explicit operational contracts and invariants,
+defined canonically in `research-program/context/0.6 operationalization/OPERATIONS.md`.
+
+---
+
+### Epistemic Position
+
+This project proceeds from the assumption that knowledge does not exist
+as a stable or attainable state.
+
+What exists are knowledge-claims: statements that present themselves
+as knowledge, while remaining contingent, revisable, and incomplete.
+
+Scientific practice does not eliminate this condition.
+It can only approach the ideal of knowledge asymptotically —
+through explicit assumptions, structured comparison,
+documented disagreement, and iterative revision.
+
+This system is designed as a **three-step approach**, implemented across three repositories
+(research-program, mms, matrix), to support exactly that process.
+
+---
 
 ⚠️ **This repository is not self-explanatory.**
 Misinterpretation is likely if the reading order is skipped.
@@ -123,14 +159,14 @@ Skipping the reading order will almost certainly lead to:
 This project strictly separates three layers
 that are commonly collapsed:
 
-- **Epistemic layer**  
-  (what may be claimed, under which conditions)
+- **Epistemic layer**
+(what may be claimed, under which conditions)
 
-- **Operative layer**  
-  (how claims are technically processed)
+- **Operative layer**
+(how claims are technically processed)
 
-- **Instantiational layer**  
-  (what concrete products or results exist)
+- **Instantiational layer**
+(what concrete products or results exist)
 
 Most misunderstandings arise when these layers are mixed.
 The reading order exists to prevent exactly that.
