@@ -1,9 +1,10 @@
-# The Research-Program
+# research-program
 
 Any attempt to approach knowledge without making assumptions, limits, and responsibilities explicit
 inevitably collapses uncertainty into implicit authority.
 For this reason, a strictly layered, non-authoritative, and explicitly constrained approach
-is the ONLY **ADMISSIBLE AND HONEST** way to **APPROXIMATE KNOWLEDDE** without falsifying it.
+is the only admissible and honest way to approximate knowledge without falsifying it.
+
 
 This project consists of three strictly separated but formally linked repositories:
 
