@@ -2,8 +2,8 @@
 
 ## What This Is
 
-This repository defines epistemic constraints for handling claims without
-creating hidden, non-explicit authority.
+This repository defines epistemic constraints for handling any kind of claims
+without creating hidden, non-explicit authority.
 
 It does not determine what is true, what should be done, or which claims are
 better than others.
