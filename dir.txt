@@ -1,0 +1,1520 @@
+.:
+insgesamt 92
+-rw-rw-r-- 1 ef ef  4481 Jan 14 12:39 0.HOWTO.README.md
+-rw-rw-r-- 1 ef ef  6328 Jan 19 09:43 1.README_research-program+mms+matrix.md
+-rw-rw-r-- 1 ef ef  6985 Jan 18 17:15 2.ARCHITECTURE.md
+-rw-rw-r-- 1 ef ef  7740 Jan 18 17:15 3.TRANSPARENCY.md
+-rw-rw-r-- 1 ef ef  6493 Jan 18 17:16 4.AUDIT.md
+-rw-rw-r-- 1 ef ef  9338 Jan 18 17:12 5.README.research-program.md
+drwxrwxr-x 2 ef ef  4096 Jan 21 21:26 assumptions
+drwxrwxr-x 2 ef ef  4096 Jan 29 12:03 books
+drwxrwxr-x 8 ef ef  4096 Jan 15 16:45 context
+-rw-rw-r-- 1 ef ef     0 Jan 29 18:01 dir.txt
+-rw-rw-r-- 1 ef ef   934 Jan 13 17:00 git.status
+-rw-rw-r-- 1 ef ef  1076 Jan 11 16:31 LICENSE
+drwxrwxr-x 2 ef ef  4096 Jan 29 12:24 papers
+-rw-rw-r-- 1 ef ef   724 Jan 29 11:53 program.yaml
+-rw-rw-r-- 1 ef ef 10333 Jan 19 09:40 README.md
+
+./assumptions:
+insgesamt 12
+-rw-rw-r-- 1 ef ef 2636 Jan 21 21:25 quantization.md
+-rw-rw-r-- 1 ef ef 1373 Jan 21 21:24 readme.md
+-rw-rw-r-- 1 ef ef 2377 Jan 21 21:24 reductionist.manifesto.md
+
+./books:
+insgesamt 44
+-rw-rw-r-- 1 ef ef 1373 Jan 29 12:02 ai-3-0.yaml
+-rw-rw-r-- 1 ef ef 1083 Jan 29 11:54 bootloader.yaml
+-rw-rw-r-- 1 ef ef 1358 Jan 29 12:01 economics.yaml
+-rw-rw-r-- 1 ef ef 1318 Jan 29 12:02 ego.yaml
+-rw-rw-r-- 1 ef ef 1331 Jan 29 11:58 legal-law.yaml
+-rw-rw-r-- 1 ef ef 1219 Jan 29 11:56 medicine.yaml
+-rw-rw-r-- 1 ef ef  918 Jan 29 11:52 physics-effect.yaml
+-rw-rw-r-- 1 ef ef 1396 Jan 29 12:01 politics.yaml
+-rw-rw-r-- 1 ef ef 1267 Jan 29 11:56 psychology.yaml
+-rw-rw-r-- 1 ef ef  611 Jan 29 12:03 README.md
+-rw-rw-r-- 1 ef ef 1118 Jan 29 11:55 seven-layers-thinking.yaml
+
+./context:
+insgesamt 24
+drwxrwxr-x  6 ef ef 4096 Jan 13 08:42 0.1\ exploration\ (closed)
+drwxrwxr-x 11 ef ef 4096 Jan 13 08:42 0.2\ structuring\ (closed)
+drwxrwxr-x  7 ef ef 4096 Jan 11 16:31 0.3\ constraints\ (closed)
+drwxrwxr-x  2 ef ef 4096 Jan 13 08:42 0.4\ guardrails\ (closed)
+drwxrwxr-x  3 ef ef 4096 Jan 13 15:26 0.5\ stresstest\ (closed)
+drwxrwxr-x  2 ef ef 4096 Jan 15 16:46 0.6\ operations
+
+./context/0.1 exploration (closed):
+insgesamt 32
+-rw-rw-r-- 1 ef ef 3017 Jan 11 16:31 atomic-problem-decision-deriver.human.prompt.md
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 bootloader
+drwxrwxr-x 7 ef ef 4096 Jan 11 16:31 boundaries
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 epistemic
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 foundations
+-rw-rw-r-- 1 ef ef 4167 Jan 11 16:31 README.0.1.md
+-rw-rw-r-- 1 ef ef 2479 Jan 11 16:31 research-bios.md
+
+./context/0.1 exploration (closed)/bootloader:
+insgesamt 12
+-rw-rw-r-- 1 ef ef 1 Jan 11 16:31 bootloader-medium.md
+-rw-rw-r-- 1 ef ef 1 Jan 11 16:31 bootloader-raw.md
+-rw-rw-r-- 1 ef ef 1 Jan 11 16:31 bootloader-raw-medium.md
+
+./context/0.1 exploration (closed)/boundaries:
+insgesamt 48
+-rw-rw-r-- 1 ef ef 1831 Jan 11 16:31 boltzmann-constant.md
+-rw-rw-r-- 1 ef ef 1643 Jan 11 16:31 elementary-charge.md
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 evidential
+-rw-rw-r-- 1 ef ef 1846 Jan 11 16:31 fine-structure-alpha.md
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 formal
+-rw-rw-r-- 1 ef ef 1643 Jan 11 16:31 gravitation.md
+drwxrwxr-x 8 ef ef 4096 Jan 11 16:31 models
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 operational
+-rw-rw-r-- 1 ef ef 1733 Jan 11 16:31 planck-constant.md
+-rw-rw-r-- 1 ef ef 1475 Jan 11 16:31 speed-of-light.md
+-rw-rw-r-- 1 ef ef 1877 Jan 11 16:31 stop.md
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 transitions
+
+./context/0.1 exploration (closed)/boundaries/evidential:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 2664 Jan 11 16:31 conflicting-evidence.md
+-rw-rw-r-- 1 ef ef 2968 Jan 11 16:31 evidence-threshold.md
+-rw-rw-r-- 1 ef ef 2716 Jan 11 16:31 indirect-evidence.md
+-rw-rw-r-- 1 ef ef 2574 Jan 11 16:31 missing-evidence.md
+-rw-rw-r-- 1 ef ef 2621 Jan 11 16:31 weak-evidence.md
+
+./context/0.1 exploration (closed)/boundaries/formal:
+insgesamt 16
+-rw-rw-r-- 1 ef ef 2621 Jan 11 16:31 axiom-dependence.md
+-rw-rw-r-- 1 ef ef 2469 Jan 11 16:31 consistency.md
+-rw-rw-r-- 1 ef ef 2592 Jan 11 16:31 contradiction.md
+-rw-rw-r-- 1 ef ef 2203 Jan 11 16:31 scope.md
+
+./context/0.1 exploration (closed)/boundaries/models:
+insgesamt 36
+-rw-rw-r-- 1 ef ef 2211 Jan 11 16:31 agency.md
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 biological
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 economic
+-rw-rw-r-- 1 ef ef 2163 Jan 11 16:31 institutional.md
+drwxrwxr-x 3 ef ef 4096 Jan 11 16:31 mathematical
+-rw-rw-r-- 1 ef ef 2101 Jan 11 16:31 mathematical.md
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 physical
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 psychological
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 social
+
+./context/0.1 exploration (closed)/boundaries/models/biological:
+insgesamt 24
+-rw-rw-r-- 1 ef ef 2418 Jan 11 16:31 adaptation.md
+-rw-rw-r-- 1 ef ef 2504 Jan 11 16:31 development.md
+-rw-rw-r-- 1 ef ef 2679 Jan 11 16:31 evolution.md
+-rw-rw-r-- 1 ef ef 2358 Jan 11 16:31 homeostasis.md
+-rw-rw-r-- 1 ef ef 2426 Jan 11 16:31 metabolism.md
+-rw-rw-r-- 1 ef ef 2613 Jan 11 16:31 reproduction.md
+
+./context/0.1 exploration (closed)/boundaries/models/economic:
+insgesamt 4
+-rw-rw-r-- 1 ef ef 2043 Jan 11 16:31 economic.md
+
+./context/0.1 exploration (closed)/boundaries/models/mathematical:
+insgesamt 4
+drwxrwxr-x 3 ef ef 4096 Jan 11 16:31 computational
+
+./context/0.1 exploration (closed)/boundaries/models/mathematical/computational:
+insgesamt 8
+-rw-rw-r-- 1 ef ef 2700 Jan 11 16:31 computational.md
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 constraints
+
+./context/0.1 exploration (closed)/boundaries/models/mathematical/computational/constraints:
+insgesamt 12
+-rw-rw-r-- 1 ef ef 1 Jan 11 16:31 Decidability.md
+-rw-rw-r-- 1 ef ef 1 Jan 11 16:31 Discreteness.md
+-rw-rw-r-- 1 ef ef 1 Jan 11 16:31 Finiteness.md
+
+./context/0.1 exploration (closed)/boundaries/models/physical:
+insgesamt 16
+-rw-rw-r-- 1 ef ef 1551 Jan 11 16:31 newtonian.md
+-rw-rw-r-- 1 ef ef 2163 Jan 11 16:31 quantum.md
+-rw-rw-r-- 1 ef ef 2057 Jan 11 16:31 relativistic.md
+-rw-rw-r-- 1 ef ef 2099 Jan 11 16:31 statistical.md
+
+./context/0.1 exploration (closed)/boundaries/models/psychological:
+insgesamt 16
+-rw-rw-r-- 1 ef ef 2443 Jan 11 16:31 cognition.md
+-rw-rw-r-- 1 ef ef 2420 Jan 11 16:31 emotion.md
+-rw-rw-r-- 1 ef ef 2518 Jan 11 16:31 learning.md
+-rw-rw-r-- 1 ef ef 2497 Jan 11 16:31 perception.md
+
+./context/0.1 exploration (closed)/boundaries/models/social:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 2400 Jan 11 16:31 coordination.md
+-rw-rw-r-- 1 ef ef 2498 Jan 11 16:31 interaction.md
+-rw-rw-r-- 1 ef ef 2346 Jan 11 16:31 meaning.md
+-rw-rw-r-- 1 ef ef 2390 Jan 11 16:31 norms.md
+-rw-rw-r-- 1 ef ef 2570 Jan 11 16:31 roles.md
+
+./context/0.1 exploration (closed)/boundaries/operational:
+insgesamt 16
+-rw-rw-r-- 1 ef ef 1 Jan 11 16:31 harm-threshold.md
+-rw-rw-r-- 1 ef ef 1 Jan 11 16:31 irreversibility.md
+-rw-rw-r-- 1 ef ef 1 Jan 11 16:31 non-action.md
+-rw-rw-r-- 1 ef ef 1 Jan 11 16:31 responsibility-handover.md
+
+./context/0.1 exploration (closed)/boundaries/transitions:
+insgesamt 32
+-rw-rw-r-- 1 ef ef 2960 Jan 11 16:31 agency-to-institutional.md
+-rw-rw-r-- 1 ef ef 3024 Jan 11 16:31 computational-to-physical.md
+-rw-rw-r-- 1 ef ef 2808 Jan 11 16:31 computational-to-stop.md
+-rw-rw-r-- 1 ef ef 2361 Jan 11 16:31 evidential-to-stop.md
+-rw-rw-r-- 1 ef ef 2380 Jan 11 16:31 mathematical-to-computational.md
+-rw-rw-r-- 1 ef ef 2763 Jan 11 16:31 model-to-evidential.md
+-rw-rw-r-- 1 ef ef 3190 Jan 11 16:31 psychological-to-social.md
+-rw-rw-r-- 1 ef ef 2966 Jan 11 16:31 social-to-agency.md
+
+./context/0.1 exploration (closed)/epistemic:
+insgesamt 12
+-rw-rw-r-- 1 ef ef 3673 Jan 11 16:31 atomic-problem-evidence-deriver.human.prompt.md
+-rw-rw-r-- 1 ef ef 5170 Jan 11 16:31 epistemic-structure-deriver.human.prompt.md
+
+./context/0.1 exploration (closed)/foundations:
+insgesamt 28
+-rw-rw-r-- 1 ef ef 1360 Jan 11 16:31 bios-bootloader-startup.md
+-rw-rw-r-- 1 ef ef 2368 Jan 11 16:31 bridges-structure-evidence.md
+-rw-rw-r-- 1 ef ef 2087 Jan 11 16:31 cpu-alu-mms.md
+-rw-rw-r-- 1 ef ef 1962 Jan 11 16:31 failure-kernel-panic.md
+-rw-rw-r-- 1 ef ef 2156 Jan 11 16:31 gpu-visualization.md
+-rw-rw-r-- 1 ef ef 1936 Jan 11 16:31 memory-ram-rom-cache.md
+-rw-rw-r-- 1 ef ef  558 Jan 11 16:31 README.md
+
+./context/0.2 structuring (closed):
+insgesamt 44
+drwxrwxr-x  3 ef ef 4096 Jan 11 16:31 bootloader
+drwxrwxr-x  7 ef ef 4096 Jan 11 16:31 boundaries
+drwxrwxr-x  4 ef ef 4096 Jan 11 16:31 docs
+drwxrwxr-x  8 ef ef 4096 Jan 11 16:31 drivers
+drwxrwxr-x  3 ef ef 4096 Jan 11 16:31 epistemic-foundation
+drwxrwxr-x  3 ef ef 4096 Jan 11 16:31 foundations
+drwxrwxr-x 13 ef ef 4096 Jan 11 16:31 interfaces
+-rw-rw-r--  1 ef ef 7374 Jan 11 16:31 README.0.2.md
+drwxrwxr-x  5 ef ef 4096 Jan 11 16:31 schemas
+drwxrwxr-x  2 ef ef 4096 Jan 11 16:31 tools
+
+./context/0.2 structuring (closed)/bootloader:
+insgesamt 68
+-rw-rw-r-- 1 ef ef 1499 Jan 11 16:31 BL-0-IrritationDetection.prompt
+-rw-rw-r-- 1 ef ef 1171 Jan 11 16:31 BL0-IrritationDetection.prompt.md
+-rw-rw-r-- 1 ef ef  914 Jan 11 16:31 BL0-IrritationDetection.sources.yaml
+-rw-rw-r-- 1 ef ef 1114 Jan 11 16:31 BL-1-MinimalRequirements.prompt
+-rw-rw-r-- 1 ef ef 1803 Jan 11 16:31 BL1-MinimalRequirements.prompt.md
+-rw-rw-r-- 1 ef ef  956 Jan 11 16:31 BL1-MinimalRequirements.sources.yaml
+-rw-rw-r-- 1 ef ef 1379 Jan 11 16:31 BL-2-LogicDesign.prompt
+-rw-rw-r-- 1 ef ef 1101 Jan 11 16:31 BL2-LogicDesign.prompt.md
+-rw-rw-r-- 1 ef ef 1297 Jan 11 16:31 BL2-LogicDesign.sources.yaml
+-rw-rw-r-- 1 ef ef 1000 Jan 11 16:31 BL-3-RationalCommitment.prompt
+-rw-rw-r-- 1 ef ef 1134 Jan 11 16:31 BL3-RationalCommitment.prompt.md
+-rw-rw-r-- 1 ef ef 1139 Jan 11 16:31 BL3-RationalCommitment.sources.yaml
+-rw-rw-r-- 1 ef ef  858 Jan 11 16:31 BL-4-BIOS-OS-Handover.prompt
+-rw-rw-r-- 1 ef ef 1498 Jan 11 16:31 BL4-BIOS-OS-Handover.prompt.md
+-rw-rw-r-- 1 ef ef 1012 Jan 11 16:31 BL4-BIOS-OS-Handover.sources.yaml
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 BL5-OS-ResearchModeInit
+-rw-rw-r-- 1 ef ef  716 Jan 11 16:31 README.md
+
+./context/0.2 structuring (closed)/bootloader/BL5-OS-ResearchModeInit:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 1273 Jan 11 16:31 BL5-OSResearchModeInit.prompt.md
+-rw-rw-r-- 1 ef ef  965 Jan 11 16:31 BL5-OSResearchModeInit.sources.yaml
+-rw-rw-r-- 1 ef ef    1 Jan 11 16:31 BL-5-ResearchModeInit-medium.prompt.md
+-rw-rw-r-- 1 ef ef    1 Jan 11 16:31 BL-5-ResearchModeInit-raw-medium.prompt.md
+-rw-rw-r-- 1 ef ef    1 Jan 11 16:31 BL-5-ResearchModeInit-raw.prompt.md
+
+./context/0.2 structuring (closed)/boundaries:
+insgesamt 48
+-rw-rw-r-- 1 ef ef 1831 Jan 11 16:31 boltzmann-constant.md
+-rw-rw-r-- 1 ef ef 1643 Jan 11 16:31 elementary-charge.md
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 evidential
+-rw-rw-r-- 1 ef ef 1846 Jan 11 16:31 fine-structure-alpha.md
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 formal
+-rw-rw-r-- 1 ef ef 1643 Jan 11 16:31 gravitation.md
+drwxrwxr-x 8 ef ef 4096 Jan 11 16:31 models
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 operational
+-rw-rw-r-- 1 ef ef 1733 Jan 11 16:31 planck-constant.md
+-rw-rw-r-- 1 ef ef 1475 Jan 11 16:31 speed-of-light.md
+-rw-rw-r-- 1 ef ef 1877 Jan 11 16:31 stop.md
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 transitions
+
+./context/0.2 structuring (closed)/boundaries/evidential:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 2664 Jan 11 16:31 conflicting-evidence.md
+-rw-rw-r-- 1 ef ef 2968 Jan 11 16:31 evidence-threshold.md
+-rw-rw-r-- 1 ef ef 2716 Jan 11 16:31 indirect-evidence.md
+-rw-rw-r-- 1 ef ef 2574 Jan 11 16:31 missing-evidence.md
+-rw-rw-r-- 1 ef ef 2621 Jan 11 16:31 weak-evidence.md
+
+./context/0.2 structuring (closed)/boundaries/formal:
+insgesamt 16
+-rw-rw-r-- 1 ef ef 2621 Jan 11 16:31 axiom-dependence.md
+-rw-rw-r-- 1 ef ef 2469 Jan 11 16:31 consistency.md
+-rw-rw-r-- 1 ef ef 2592 Jan 11 16:31 contradiction.md
+-rw-rw-r-- 1 ef ef 2203 Jan 11 16:31 scope.md
+
+./context/0.2 structuring (closed)/boundaries/models:
+insgesamt 36
+-rw-rw-r-- 1 ef ef 2211 Jan 11 16:31 agency.md
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 biological
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 economic
+-rw-rw-r-- 1 ef ef 2163 Jan 11 16:31 institutional.md
+drwxrwxr-x 3 ef ef 4096 Jan 11 16:31 mathematical
+-rw-rw-r-- 1 ef ef 2101 Jan 11 16:31 mathematical.md
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 physical
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 psychological
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 social
+
+./context/0.2 structuring (closed)/boundaries/models/biological:
+insgesamt 24
+-rw-rw-r-- 1 ef ef 2418 Jan 11 16:31 adaptation.md
+-rw-rw-r-- 1 ef ef 2504 Jan 11 16:31 development.md
+-rw-rw-r-- 1 ef ef 2679 Jan 11 16:31 evolution.md
+-rw-rw-r-- 1 ef ef 2358 Jan 11 16:31 homeostasis.md
+-rw-rw-r-- 1 ef ef 2426 Jan 11 16:31 metabolism.md
+-rw-rw-r-- 1 ef ef 2613 Jan 11 16:31 reproduction.md
+
+./context/0.2 structuring (closed)/boundaries/models/economic:
+insgesamt 4
+-rw-rw-r-- 1 ef ef 2043 Jan 11 16:31 economic.md
+
+./context/0.2 structuring (closed)/boundaries/models/mathematical:
+insgesamt 4
+drwxrwxr-x 3 ef ef 4096 Jan 11 16:31 computational
+
+./context/0.2 structuring (closed)/boundaries/models/mathematical/computational:
+insgesamt 8
+-rw-rw-r-- 1 ef ef 2700 Jan 11 16:31 computational.md
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 constraints
+
+./context/0.2 structuring (closed)/boundaries/models/mathematical/computational/constraints:
+insgesamt 12
+-rw-rw-r-- 1 ef ef 1 Jan 11 16:31 Decidability.md
+-rw-rw-r-- 1 ef ef 1 Jan 11 16:31 Discreteness.md
+-rw-rw-r-- 1 ef ef 1 Jan 11 16:31 Finiteness.md
+
+./context/0.2 structuring (closed)/boundaries/models/physical:
+insgesamt 16
+-rw-rw-r-- 1 ef ef 1551 Jan 11 16:31 newtonian.md
+-rw-rw-r-- 1 ef ef 2163 Jan 11 16:31 quantum.md
+-rw-rw-r-- 1 ef ef 2057 Jan 11 16:31 relativistic.md
+-rw-rw-r-- 1 ef ef 2099 Jan 11 16:31 statistical.md
+
+./context/0.2 structuring (closed)/boundaries/models/psychological:
+insgesamt 16
+-rw-rw-r-- 1 ef ef 2443 Jan 11 16:31 cognition.md
+-rw-rw-r-- 1 ef ef 2420 Jan 11 16:31 emotion.md
+-rw-rw-r-- 1 ef ef 2518 Jan 11 16:31 learning.md
+-rw-rw-r-- 1 ef ef 2497 Jan 11 16:31 perception.md
+
+./context/0.2 structuring (closed)/boundaries/models/social:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 2400 Jan 11 16:31 coordination.md
+-rw-rw-r-- 1 ef ef 2498 Jan 11 16:31 interaction.md
+-rw-rw-r-- 1 ef ef 2346 Jan 11 16:31 meaning.md
+-rw-rw-r-- 1 ef ef 2390 Jan 11 16:31 norms.md
+-rw-rw-r-- 1 ef ef 2570 Jan 11 16:31 roles.md
+
+./context/0.2 structuring (closed)/boundaries/operational:
+insgesamt 16
+-rw-rw-r-- 1 ef ef 1 Jan 11 16:31 harm-threshold.md
+-rw-rw-r-- 1 ef ef 1 Jan 11 16:31 irreversibility.md
+-rw-rw-r-- 1 ef ef 1 Jan 11 16:31 non-action.md
+-rw-rw-r-- 1 ef ef 1 Jan 11 16:31 responsibility-handover.md
+
+./context/0.2 structuring (closed)/boundaries/transitions:
+insgesamt 32
+-rw-rw-r-- 1 ef ef 2960 Jan 11 16:31 agency-to-institutional.md
+-rw-rw-r-- 1 ef ef 3024 Jan 11 16:31 computational-to-physical.md
+-rw-rw-r-- 1 ef ef 2808 Jan 11 16:31 computational-to-stop.md
+-rw-rw-r-- 1 ef ef 2361 Jan 11 16:31 evidential-to-stop.md
+-rw-rw-r-- 1 ef ef 2380 Jan 11 16:31 mathematical-to-computational.md
+-rw-rw-r-- 1 ef ef 2763 Jan 11 16:31 model-to-evidential.md
+-rw-rw-r-- 1 ef ef 3190 Jan 11 16:31 psychological-to-social.md
+-rw-rw-r-- 1 ef ef 2966 Jan 11 16:31 social-to-agency.md
+
+./context/0.2 structuring (closed)/docs:
+insgesamt 20
+drwxrwxr-x 3 ef ef  4096 Jan 11 16:31 architecture
+-rw-rw-r-- 1 ef ef 10354 Jan 11 16:31 boot-sequence.md
+drwxrwxr-x 2 ef ef  4096 Jan 11 16:31 diagrams
+-rw-rw-r-- 1 ef ef     0 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef     0 Jan 11 16:31 terminology.md
+
+./context/0.2 structuring (closed)/docs/architecture:
+insgesamt 20
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 derivers
+-rw-rw-r-- 1 ef ef 2538 Jan 11 16:31 drivers_walkthrough.md
+-rw-rw-r-- 1 ef ef 2546 Jan 11 16:31 End-to-End_Walkthrough_Interfaces_v0.pdf
+-rw-rw-r-- 1 ef ef 2479 Jan 11 16:31 research-bios.md
+-rw-rw-r-- 1 ef ef 2377 Jan 11 16:31 walkthrough.md
+
+./context/0.2 structuring (closed)/docs/architecture/derivers:
+insgesamt 4
+-rw-rw-r-- 1 ef ef 3017 Jan 11 16:31 atomic-problem-decision-deriver.human.prompt.md
+
+./context/0.2 structuring (closed)/docs/diagrams:
+insgesamt 4
+-rw-rw-r-- 1 ef ef    0 Jan 11 16:31 bios-to-os.mmd
+-rw-rw-r-- 1 ef ef 1114 Jan 11 16:31 boot-sequence.mmd
+
+./context/0.2 structuring (closed)/drivers:
+insgesamt 36
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 claim
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 common
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 evidence
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 metrology
+-rw-rw-r-- 1 ef ef 1479 Jan 11 16:31 quellen_treiber.prompt.md
+-rw-rw-r-- 1 ef ef  565 Jan 11 16:31 quellen_treiber.sources.yaml
+-rw-rw-r-- 1 ef ef  756 Jan 11 16:31 README.md
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 semantics
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 validation
+
+./context/0.2 structuring (closed)/drivers/claim:
+insgesamt 8
+-rw-rw-r-- 1 ef ef 793 Jan 11 16:31 claim_driver.md
+-rw-rw-r-- 1 ef ef 177 Jan 11 16:31 README.md
+
+./context/0.2 structuring (closed)/drivers/common:
+insgesamt 4
+-rw-rw-r-- 1 ef ef 587 Jan 11 16:31 records.md
+
+./context/0.2 structuring (closed)/drivers/evidence:
+insgesamt 8
+-rw-rw-r-- 1 ef ef 356 Jan 11 16:31 evidence_aggregator.md
+-rw-rw-r-- 1 ef ef 170 Jan 11 16:31 README.md
+
+./context/0.2 structuring (closed)/drivers/metrology:
+insgesamt 8
+-rw-rw-r-- 1 ef ef 151 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef 328 Jan 11 16:31 unit_calibration_driver.md
+
+./context/0.2 structuring (closed)/drivers/semantics:
+insgesamt 8
+-rw-rw-r-- 1 ef ef 591 Jan 11 16:31 concept_driver.md
+-rw-rw-r-- 1 ef ef 115 Jan 11 16:31 README.md
+
+./context/0.2 structuring (closed)/drivers/validation:
+insgesamt 8
+-rw-rw-r-- 1 ef ef 434 Jan 11 16:31 cross_validation_driver.md
+-rw-rw-r-- 1 ef ef 132 Jan 11 16:31 README.md
+
+./context/0.2 structuring (closed)/epistemic-foundation:
+insgesamt 16
+-rw-rw-r-- 1 ef ef 3673 Jan 11 16:31 atomic-problem-evidence-deriver.human.prompt.md
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 downstream
+-rw-rw-r-- 1 ef ef 5170 Jan 11 16:31 epistemic-structure-deriver.human.prompt.md
+
+./context/0.2 structuring (closed)/epistemic-foundation/downstream:
+insgesamt 0
+-rw-rw-r-- 1 ef ef 0 Jan 11 16:31 mms.md
+
+./context/0.2 structuring (closed)/foundations:
+insgesamt 32
+-rw-rw-r-- 1 ef ef 1360 Jan 11 16:31 bios-bootloader-startup.md
+-rw-rw-r-- 1 ef ef 2368 Jan 11 16:31 bridges-structure-evidence.md
+-rw-rw-r-- 1 ef ef 2087 Jan 11 16:31 cpu-alu-mms.md
+-rw-rw-r-- 1 ef ef 1962 Jan 11 16:31 failure-kernel-panic.md
+-rw-rw-r-- 1 ef ef 2156 Jan 11 16:31 gpu-visualization.md
+-rw-rw-r-- 1 ef ef 1936 Jan 11 16:31 memory-ram-rom-cache.md
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 physics-effect
+-rw-rw-r-- 1 ef ef  558 Jan 11 16:31 README.md
+
+./context/0.2 structuring (closed)/foundations/physics-effect:
+insgesamt 12
+-rw-rw-r-- 1 ef ef 2 Jan 11 16:31 physics-effect-axioms.md
+-rw-rw-r-- 1 ef ef 2 Jan 11 16:31 physics-effect-constraints.md
+-rw-rw-r-- 1 ef ef 2 Jan 11 16:31 physics-effect-implications.md
+
+./context/0.2 structuring (closed)/interfaces:
+insgesamt 48
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 common
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 computer-science
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 decision
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 evidence
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 logic
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 mathematics
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 methodology
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 metrology
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 physics
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 probability
+-rw-rw-r-- 1 ef ef 2464 Jan 11 16:31 README.md
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 semantics
+
+./context/0.2 structuring (closed)/interfaces/common:
+insgesamt 16
+-rw-rw-r-- 1 ef ef 1694 Jan 11 16:31 glossary.md
+-rw-rw-r-- 1 ef ef  879 Jan 11 16:31 representations.md
+-rw-rw-r-- 1 ef ef  661 Jan 11 16:31 uncertainty.md
+-rw-rw-r-- 1 ef ef  679 Jan 11 16:31 validation.md
+
+./context/0.2 structuring (closed)/interfaces/computer-science:
+insgesamt 20
+-rw-rw-r-- 1 ef ef  675 Jan 11 16:31 boundary.md
+-rw-rw-r-- 1 ef ef 1103 Jan 11 16:31 contract.md
+-rw-rw-r-- 1 ef ef  514 Jan 11 16:31 primitives.md
+-rw-rw-r-- 1 ef ef  815 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef  590 Jan 11 16:31 translations.md
+
+./context/0.2 structuring (closed)/interfaces/decision:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 1182 Jan 11 16:31 boundary.md
+-rw-rw-r-- 1 ef ef 2332 Jan 11 16:31 contract.md
+-rw-rw-r-- 1 ef ef  901 Jan 11 16:31 primitives.md
+-rw-rw-r-- 1 ef ef 1050 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef 1025 Jan 11 16:31 translations.md
+
+./context/0.2 structuring (closed)/interfaces/evidence:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 215 Jan 11 16:31 boundary.md
+-rw-rw-r-- 1 ef ef 791 Jan 11 16:31 contract.md
+-rw-rw-r-- 1 ef ef 196 Jan 11 16:31 primitives.md
+-rw-rw-r-- 1 ef ef 389 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef 255 Jan 11 16:31 translations.md
+
+./context/0.2 structuring (closed)/interfaces/logic:
+insgesamt 20
+-rw-rw-r-- 1 ef ef  971 Jan 11 16:31 boundary.md
+-rw-rw-r-- 1 ef ef 1663 Jan 11 16:31 contract.md
+-rw-rw-r-- 1 ef ef  992 Jan 11 16:31 primitives.md
+-rw-rw-r-- 1 ef ef  688 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef 1079 Jan 11 16:31 translations.md
+
+./context/0.2 structuring (closed)/interfaces/mathematics:
+insgesamt 20
+-rw-rw-r-- 1 ef ef  680 Jan 11 16:31 boundary.md
+-rw-rw-r-- 1 ef ef 1378 Jan 11 16:31 contract.md
+-rw-rw-r-- 1 ef ef  642 Jan 11 16:31 primitives.md
+-rw-rw-r-- 1 ef ef  757 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef  712 Jan 11 16:31 translations.md
+
+./context/0.2 structuring (closed)/interfaces/methodology:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 610 Jan 11 16:31 boundary.md
+-rw-rw-r-- 1 ef ef 980 Jan 11 16:31 contract.md
+-rw-rw-r-- 1 ef ef 407 Jan 11 16:31 primitives.md
+-rw-rw-r-- 1 ef ef 759 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef 429 Jan 11 16:31 translations.md
+
+./context/0.2 structuring (closed)/interfaces/metrology:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 201 Jan 11 16:31 boundary.md
+-rw-rw-r-- 1 ef ef 624 Jan 11 16:31 contract.md
+-rw-rw-r-- 1 ef ef 207 Jan 11 16:31 primitives.md
+-rw-rw-r-- 1 ef ef 476 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef 198 Jan 11 16:31 translations.md
+
+./context/0.2 structuring (closed)/interfaces/physics:
+insgesamt 24
+-rw-rw-r-- 1 ef ef  600 Jan 11 16:31 boundary.md
+-rw-rw-r-- 1 ef ef 1124 Jan 11 16:31 contract.md
+-rw-rw-r-- 1 ef ef  611 Jan 11 16:31 measurement.md
+-rw-rw-r-- 1 ef ef  504 Jan 11 16:31 primitives.md
+-rw-rw-r-- 1 ef ef  762 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef  542 Jan 11 16:31 translations.md
+
+./context/0.2 structuring (closed)/interfaces/probability:
+insgesamt 20
+-rw-rw-r-- 1 ef ef  643 Jan 11 16:31 boundary.md
+-rw-rw-r-- 1 ef ef 1046 Jan 11 16:31 contract.md
+-rw-rw-r-- 1 ef ef  450 Jan 11 16:31 primitives.md
+-rw-rw-r-- 1 ef ef  852 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef  548 Jan 11 16:31 translations.md
+
+./context/0.2 structuring (closed)/interfaces/semantics:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 431 Jan 11 16:31 boundary.md
+-rw-rw-r-- 1 ef ef 884 Jan 11 16:31 contract.md
+-rw-rw-r-- 1 ef ef 472 Jan 11 16:31 primitives.md
+-rw-rw-r-- 1 ef ef 663 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef 354 Jan 11 16:31 translations.md
+
+./context/0.2 structuring (closed)/schemas:
+insgesamt 16
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 envelope
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 examples
+-rw-rw-r-- 1 ef ef 1388 Jan 11 16:31 README.md
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 records
+
+./context/0.2 structuring (closed)/schemas/envelope:
+insgesamt 4
+-rw-rw-r-- 1 ef ef 2077 Jan 11 16:31 envelope.schema.json
+
+./context/0.2 structuring (closed)/schemas/examples:
+insgesamt 48
+-rw-rw-r-- 1 ef ef 1464 Jan 11 16:31 atomic_problem.json
+-rw-rw-r-- 1 ef ef 1031 Jan 11 16:31 atomic_problem.jsonl
+-rw-rw-r-- 1 ef ef  811 Jan 11 16:31 claim.json
+-rw-rw-r-- 1 ef ef  808 Jan 11 16:31 concept.json
+-rw-rw-r-- 1 ef ef 1723 Jan 11 16:31 decision_space.json
+-rw-rw-r-- 1 ef ef 1390 Jan 11 16:31 decision_space.jsonl
+-rw-rw-r-- 1 ef ef  852 Jan 11 16:31 evidence.json
+-rw-rw-r-- 1 ef ef  861 Jan 11 16:31 inference.json
+-rw-rw-r-- 1 ef ef  866 Jan 11 16:31 measurement.json
+-rw-rw-r-- 1 ef ef  731 Jan 11 16:31 validation.json
+-rw-rw-r-- 1 ef ef 5809 Jan 11 16:31 walkthrough_bundle.jsonl
+
+./context/0.2 structuring (closed)/schemas/records:
+insgesamt 32
+-rw-rw-r-- 1 ef ef 1441 Jan 11 16:31 atomic_problem.schema.json
+-rw-rw-r-- 1 ef ef 1138 Jan 11 16:31 claim.schema.json
+-rw-rw-r-- 1 ef ef 1318 Jan 11 16:31 concept.schema.json
+-rw-rw-r-- 1 ef ef 2652 Jan 11 16:31 decision_space.schema.json
+-rw-rw-r-- 1 ef ef  958 Jan 11 16:31 evidence.schema.json
+-rw-rw-r-- 1 ef ef 1345 Jan 11 16:31 inference.schema.json
+-rw-rw-r-- 1 ef ef 1441 Jan 11 16:31 measurement.schema.json
+-rw-rw-r-- 1 ef ef  855 Jan 11 16:31 validation.schema.json
+
+./context/0.2 structuring (closed)/tools:
+insgesamt 16
+-rw-rw-r-- 1 ef ef  606 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef   20 Jan 11 16:31 requirements.txt
+-rw-rw-r-- 1 ef ef 4231 Jan 11 16:31 validate_artifacts.py
+
+./context/0.3 constraints (closed):
+insgesamt 24
+drwxrwxr-x  3 ef ef 4096 Jan 11 16:31 docs
+drwxrwxr-x  2 ef ef 4096 Jan 11 16:31 domain-framework
+drwxrwxr-x 87 ef ef 4096 Jan 11 16:31 domains
+drwxrwxr-x 13 ef ef 4096 Jan 11 16:31 interfaces
+-rw-rw-r--  1 ef ef 3326 Jan 11 16:31 README.0.3.md
+drwxrwxr-x  2 ef ef 4096 Jan 11 16:31 tools
+
+./context/0.3 constraints (closed)/docs:
+insgesamt 16
+-rw-rw-r-- 1 ef ef 10354 Jan 11 16:31 boot-sequence.md
+drwxrwxr-x 2 ef ef  4096 Jan 11 16:31 diagrams
+-rw-rw-r-- 1 ef ef     0 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef     0 Jan 11 16:31 terminology.md
+
+./context/0.3 constraints (closed)/docs/diagrams:
+insgesamt 4
+-rw-rw-r-- 1 ef ef    0 Jan 11 16:31 bios-to-os.mmd
+-rw-rw-r-- 1 ef ef 1114 Jan 11 16:31 boot-sequence.mmd
+
+./context/0.3 constraints (closed)/domain-framework:
+insgesamt 20
+-rw-rw-r-- 1 ef ef  393 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef  499 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef  330 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef  449 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 2868 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains:
+insgesamt 344
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 ai-ethics
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 anthropologie
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 architektur
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 astronomie-&-astrophysik
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 betriebswirtschaft
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 biologie
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 biotechnologie
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 brand--und-öffentl.-sicherheit
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 chemie
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 data-science
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 datenwissenschaft
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 design
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 digitale-wirtschaft
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 economics
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 elektrotechnik
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 energie--und-umwelttechnik
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 entwicklungsstudien
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 ernährungswissenschaft
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 erwachsenenbildung
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 ethische-und-gesellschaftliche-konsequenzen-von-technologien
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 ethnologie
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 finanzwesen
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 gender--und-diversitätsforschung
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 geografie
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 geowissenschaften
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 geschichtswissenschaft
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 gesundheitsinformatik
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 gesundheitspsychologie
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 gesundheitswissenschaft
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 informatik
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 informatiksysteme-&-netzwerke
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 informationsethik
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 interdisziplinäre-studien
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 kognitionswissenschaft
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 kreislaufwirtschaft
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 kulturtechniken
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 kulturwissenschaften
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 kunstinformatik
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 künstliche-intelligenz
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 künstliche-kreativität
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 kunstwissenschaft
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 kybernetik
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 legal-law
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 linguistik
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 logistik
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 marketing
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 maschinenbau
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 materialwissenschaft
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 mathematik
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 matrix-management-system
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 medicine
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 medientechnologie
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 medienwissenschaft
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 medizin
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 musikwissenschaft
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 neurotechnologie
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 ökologie
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 ökonomie
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 pädagogik
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 pädagogische-psychologie
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 philosophie
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 physics
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 physik
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 politics
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 politikwissenschaft
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 psychologie
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 psychology
+-rw-rw-r-- 1 ef ef 2759 Jan 11 16:31 README.domains.md
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 research-program
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 ressourcenschonende-technologien
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 robotik
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 soziale-innovation
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 soziologie
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 sportwissenschaft
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 sprach--und-kommunikationswissenschaft
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 statistik
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 systemtheorie
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 technologie
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 transportwissenschaft
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 umweltwissenschaften
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 ursprung-der-lebensformen
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 verhaltensökologie
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 verwaltungswissenschaft
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 wirtschaftsethik
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 wissenschaftsforschung
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 zukunftsforschung
+
+./context/0.3 constraints (closed)/domains/ai-ethics:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 234 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 432 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 226 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 324 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 254 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/anthropologie:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 238 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 440 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 230 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 328 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 262 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/architektur:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 236 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 436 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 228 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 326 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 258 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/astronomie-&-astrophysik:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 249 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 462 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 241 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 339 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 284 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/betriebswirtschaft:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 243 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 450 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 235 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 333 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 272 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/biologie:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 233 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 430 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 225 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 323 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 252 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/biotechnologie:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 239 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 442 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 231 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 329 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 264 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/brand--und-öffentl.-sicherheit:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 256 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 476 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 248 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 346 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 298 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/chemie:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 231 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 426 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 223 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 321 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 248 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/data-science:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 237 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 438 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 229 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 327 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 260 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/datenwissenschaft:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 242 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 448 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 234 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 332 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 270 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/design:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 231 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 426 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 223 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 321 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 248 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/digitale-wirtschaft:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 244 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 452 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 236 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 334 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 274 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/economics:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 237 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 450 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 242 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 354 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 411 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/elektrotechnik:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 239 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 442 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 231 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 329 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 264 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/energie--und-umwelttechnik:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 251 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 466 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 243 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 341 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 288 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/entwicklungsstudien:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 244 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 452 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 236 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 334 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 274 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/ernährungswissenschaft:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 248 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 460 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 240 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 338 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 282 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/erwachsenenbildung:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 243 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 450 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 235 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 333 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 272 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/ethische-und-gesellschaftliche-konsequenzen-von-technologien:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 285 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 534 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 277 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 375 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 356 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/ethnologie:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 235 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 434 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 227 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 325 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 256 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/finanzwesen:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 236 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 436 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 228 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 326 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 258 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/gender--und-diversitätsforschung:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 258 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 480 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 250 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 348 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 302 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/geografie:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 234 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 432 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 226 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 324 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 254 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/geowissenschaften:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 242 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 448 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 234 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 332 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 270 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/geschichtswissenschaft:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 247 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 458 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 239 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 337 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 280 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/gesundheitsinformatik:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 246 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 456 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 238 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 336 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 278 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/gesundheitspsychologie:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 247 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 458 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 239 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 337 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 280 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/gesundheitswissenschaft:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 248 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 460 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 240 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 338 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 282 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/informatik:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 235 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 434 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 227 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 325 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 256 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/informatiksysteme-&-netzwerke:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 254 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 472 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 246 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 344 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 294 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/informationsethik:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 242 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 448 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 234 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 332 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 270 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/interdisziplinäre-studien:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 251 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 466 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 243 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 341 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 288 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/kognitionswissenschaft:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 247 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 458 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 239 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 337 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 280 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/kreislaufwirtschaft:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 244 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 452 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 236 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 334 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 274 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/kulturtechniken:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 240 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 444 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 232 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 330 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 266 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/kulturwissenschaften:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 245 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 454 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 237 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 335 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 276 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/kunstinformatik:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 240 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 444 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 232 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 330 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 266 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/künstliche-intelligenz:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 248 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 460 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 240 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 338 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 282 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/künstliche-kreativität:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 249 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 462 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 241 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 339 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 284 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/kunstwissenschaft:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 242 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 448 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 234 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 332 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 270 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/kybernetik:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 235 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 434 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 227 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 325 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 256 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/legal-law:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 2423 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 3559 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 7005 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 3231 Jan 11 16:31 domain.translations.md
+
+./context/0.3 constraints (closed)/domains/linguistik:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 235 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 434 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 227 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 325 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 256 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/logistik:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 233 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 430 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 225 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 323 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 252 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/marketing:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 234 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 432 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 226 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 324 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 254 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/maschinenbau:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 237 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 438 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 229 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 327 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 260 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/materialwissenschaft:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 245 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 454 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 237 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 335 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 276 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/mathematik:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 235 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 434 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 227 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 325 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 256 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/matrix-management-system:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 252 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 480 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 257 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 369 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 441 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/medicine:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 236 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 448 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 241 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 353 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 409 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/medientechnologie:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 242 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 448 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 234 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 332 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 270 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/medienwissenschaft:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 243 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 450 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 235 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 333 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 272 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/medizin:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 232 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 428 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 224 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 322 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 250 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/musikwissenschaft:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 242 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 448 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 234 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 332 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 270 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/neurotechnologie:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 241 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 446 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 233 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 331 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 268 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/ökologie:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 234 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 432 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 226 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 324 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 254 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/ökonomie:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 234 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 432 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 226 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 324 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 254 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/pädagogik:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 235 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 434 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 227 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 325 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 256 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/pädagogische-psychologie:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 250 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 464 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 242 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 340 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 286 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/philosophie:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 236 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 436 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 228 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 326 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 258 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/physics:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 235 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 446 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 240 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 352 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 407 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/physik:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 231 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 426 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 223 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 321 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 248 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/politics:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 236 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 448 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 241 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 353 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 409 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/politikwissenschaft:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 244 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 452 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 236 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 334 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 274 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/psychologie:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 236 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 436 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 228 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 326 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 258 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/psychology:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 238 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 452 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 243 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 355 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 413 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/research-program:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 244 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 464 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 249 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 361 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 425 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/ressourcenschonende-technologien:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 257 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 478 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 249 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 347 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 300 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/robotik:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 232 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 428 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 224 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 322 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 250 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/soziale-innovation:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 243 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 450 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 235 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 333 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 272 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/soziologie:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 235 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 434 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 227 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 325 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 256 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/sportwissenschaft:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 242 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 448 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 234 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 332 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 270 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/sprach--und-kommunikationswissenschaft:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 263 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 490 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 255 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 353 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 312 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/statistik:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 234 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 432 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 226 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 324 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 254 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/systemtheorie:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 238 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 440 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 230 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 328 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 262 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/technologie:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 236 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 436 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 228 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 326 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 258 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/transportwissenschaft:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 246 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 456 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 238 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 336 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 278 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/umweltwissenschaften:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 245 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 454 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 237 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 335 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 276 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/ursprung-der-lebensformen:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 250 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 464 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 242 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 340 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 286 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/verhaltensökologie:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 244 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 452 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 236 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 334 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 274 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/verwaltungswissenschaft:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 248 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 460 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 240 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 338 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 282 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/wirtschaftsethik:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 241 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 446 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 233 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 331 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 268 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/wissenschaftsforschung:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 247 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 458 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 239 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 337 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 280 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/domains/zukunftsforschung:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 242 Jan 11 16:31 domain.boundaries.md
+-rw-rw-r-- 1 ef ef 448 Jan 11 16:31 domain.contract.md
+-rw-rw-r-- 1 ef ef 234 Jan 11 16:31 domain.primitives.md
+-rw-rw-r-- 1 ef ef 332 Jan 11 16:31 domain.translations.md
+-rw-rw-r-- 1 ef ef 270 Jan 11 16:31 README.md
+
+./context/0.3 constraints (closed)/interfaces:
+insgesamt 48
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 common
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 computer-science
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 decision
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 evidence
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 logic
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 mathematics
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 methodology
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 metrology
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 physics
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 probability
+-rw-rw-r-- 1 ef ef 2464 Jan 11 16:31 README.md
+drwxrwxr-x 2 ef ef 4096 Jan 11 16:31 semantics
+
+./context/0.3 constraints (closed)/interfaces/common:
+insgesamt 16
+-rw-rw-r-- 1 ef ef 1694 Jan 11 16:31 glossary.md
+-rw-rw-r-- 1 ef ef  879 Jan 11 16:31 representations.md
+-rw-rw-r-- 1 ef ef  661 Jan 11 16:31 uncertainty.md
+-rw-rw-r-- 1 ef ef  679 Jan 11 16:31 validation.md
+
+./context/0.3 constraints (closed)/interfaces/computer-science:
+insgesamt 20
+-rw-rw-r-- 1 ef ef  675 Jan 11 16:31 boundary.md
+-rw-rw-r-- 1 ef ef 1103 Jan 11 16:31 contract.md
+-rw-rw-r-- 1 ef ef  514 Jan 11 16:31 primitives.md
+-rw-rw-r-- 1 ef ef  815 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef  590 Jan 11 16:31 translations.md
+
+./context/0.3 constraints (closed)/interfaces/decision:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 1182 Jan 11 16:31 boundary.md
+-rw-rw-r-- 1 ef ef 2332 Jan 11 16:31 contract.md
+-rw-rw-r-- 1 ef ef  901 Jan 11 16:31 primitives.md
+-rw-rw-r-- 1 ef ef 1050 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef 1025 Jan 11 16:31 translations.md
+
+./context/0.3 constraints (closed)/interfaces/evidence:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 215 Jan 11 16:31 boundary.md
+-rw-rw-r-- 1 ef ef 791 Jan 11 16:31 contract.md
+-rw-rw-r-- 1 ef ef 196 Jan 11 16:31 primitives.md
+-rw-rw-r-- 1 ef ef 389 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef 255 Jan 11 16:31 translations.md
+
+./context/0.3 constraints (closed)/interfaces/logic:
+insgesamt 20
+-rw-rw-r-- 1 ef ef  971 Jan 11 16:31 boundary.md
+-rw-rw-r-- 1 ef ef 1663 Jan 11 16:31 contract.md
+-rw-rw-r-- 1 ef ef  992 Jan 11 16:31 primitives.md
+-rw-rw-r-- 1 ef ef  688 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef 1079 Jan 11 16:31 translations.md
+
+./context/0.3 constraints (closed)/interfaces/mathematics:
+insgesamt 20
+-rw-rw-r-- 1 ef ef  680 Jan 11 16:31 boundary.md
+-rw-rw-r-- 1 ef ef 1378 Jan 11 16:31 contract.md
+-rw-rw-r-- 1 ef ef  642 Jan 11 16:31 primitives.md
+-rw-rw-r-- 1 ef ef  757 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef  712 Jan 11 16:31 translations.md
+
+./context/0.3 constraints (closed)/interfaces/methodology:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 610 Jan 11 16:31 boundary.md
+-rw-rw-r-- 1 ef ef 980 Jan 11 16:31 contract.md
+-rw-rw-r-- 1 ef ef 407 Jan 11 16:31 primitives.md
+-rw-rw-r-- 1 ef ef 759 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef 429 Jan 11 16:31 translations.md
+
+./context/0.3 constraints (closed)/interfaces/metrology:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 201 Jan 11 16:31 boundary.md
+-rw-rw-r-- 1 ef ef 624 Jan 11 16:31 contract.md
+-rw-rw-r-- 1 ef ef 207 Jan 11 16:31 primitives.md
+-rw-rw-r-- 1 ef ef 476 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef 198 Jan 11 16:31 translations.md
+
+./context/0.3 constraints (closed)/interfaces/physics:
+insgesamt 24
+-rw-rw-r-- 1 ef ef  600 Jan 11 16:31 boundary.md
+-rw-rw-r-- 1 ef ef 1124 Jan 11 16:31 contract.md
+-rw-rw-r-- 1 ef ef  611 Jan 11 16:31 measurement.md
+-rw-rw-r-- 1 ef ef  504 Jan 11 16:31 primitives.md
+-rw-rw-r-- 1 ef ef  762 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef  542 Jan 11 16:31 translations.md
+
+./context/0.3 constraints (closed)/interfaces/probability:
+insgesamt 20
+-rw-rw-r-- 1 ef ef  643 Jan 11 16:31 boundary.md
+-rw-rw-r-- 1 ef ef 1046 Jan 11 16:31 contract.md
+-rw-rw-r-- 1 ef ef  450 Jan 11 16:31 primitives.md
+-rw-rw-r-- 1 ef ef  852 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef  548 Jan 11 16:31 translations.md
+
+./context/0.3 constraints (closed)/interfaces/semantics:
+insgesamt 20
+-rw-rw-r-- 1 ef ef 431 Jan 11 16:31 boundary.md
+-rw-rw-r-- 1 ef ef 884 Jan 11 16:31 contract.md
+-rw-rw-r-- 1 ef ef 472 Jan 11 16:31 primitives.md
+-rw-rw-r-- 1 ef ef 663 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef 354 Jan 11 16:31 translations.md
+
+./context/0.3 constraints (closed)/tools:
+insgesamt 16
+-rw-rw-r-- 1 ef ef  606 Jan 11 16:31 README.md
+-rw-rw-r-- 1 ef ef   20 Jan 11 16:31 requirements.txt
+-rw-rw-r-- 1 ef ef 4231 Jan 11 16:31 validate_artifacts.py
+
+./context/0.4 guardrails (closed):
+insgesamt 4
+-rw-rw-r-- 1 ef ef 2886 Jan 13 08:36 README.0.4.md
+
+./context/0.5 stresstest (closed):
+insgesamt 16
+-rw-rw-r-- 1 ef ef 4378 Jan 13 08:43 CHANGELOG.md
+-rw-rw-r-- 1 ef ef 3654 Jan 13 09:39 README.0.5.md
+drwxrwxr-x 3 ef ef 4096 Jan 13 15:26 stressors
+
+./context/0.5 stresstest (closed)/stressors:
+insgesamt 8
+drwxrwxr-x 3 ef ef 4096 Jan 13 15:26 physics
+-rw-rw-r-- 1 ef ef 2638 Jan 13 14:28 README.md
+
+./context/0.5 stresstest (closed)/stressors/physics:
+insgesamt 8
+-rw-rw-r-- 1 ef ef 2785 Jan 13 15:17 README.md
+drwxrwxr-x 2 ef ef 4096 Jan 13 15:37 run-00-constants
+
+./context/0.5 stresstest (closed)/stressors/physics/run-00-constants:
+insgesamt 32
+-rw-rw-r-- 1 ef ef  722 Jan 11 17:28 assumptions.md
+-rw-rw-r-- 1 ef ef  752 Jan 11 17:28 inputs.md
+-rw-rw-r-- 1 ef ef 1231 Jan 13 15:37 outcomes.md
+-rw-rw-r-- 1 ef ef 6119 Jan 13 15:36 README.md
+-rw-rw-r-- 1 ef ef  556 Jan 11 17:28 stop.md
+-rw-rw-r-- 1 ef ef 4774 Jan 13 15:32 stressor_speed-of-light.md
+
+./context/0.6 operations:
+insgesamt 8
+-rw-rw-r-- 1 ef ef 4692 Jan 15 16:46 OPERATIONS.md
+
+./papers:
+insgesamt 2152
+-rw-rw-r-- 1 ef ef     310 Jan 29 12:12 README.md
+-rw-rw-r-- 1 ef ef 2196723 Dez 26 12:27 research-program-bootloader-v0.2.pdf
