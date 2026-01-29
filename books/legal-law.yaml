@@ -1,0 +1,51 @@
+id: legal-law
+title: Legal Law — Knowledge & AI in Service of Justice
+type: book
+role: legal-decision-context
+status: stable
+
+abstract: >
+  A structured treatment of legal law as practiced decision-making under uncertainty.
+  The work transfers state-based reasoning from medicine to the legal domain,
+  framing justice as a process that requires explicit reasoning, traceable justification,
+  and accountable responsibility rather than formalism or implicit authority.
+
+core-assumptions:
+  - legal law operates under uncertainty, not certainty
+  - justice requires explicit and inspectable justification
+  - legitimacy arises from traceable decision processes
+  - AI in legal law must support accountability, not replace it
+
+focus:
+  - legal decision-making
+  - positive law
+  - justification
+  - responsibility
+  - institutional legitimacy
+  - judicial practice
+
+relations:
+  grounded-in:
+    - physics-effect
+  enabled-by:
+    - bootloader
+    - seven-layers-thinking
+    - psychology
+    - medicine
+  informs:
+    - economics
+    - politics
+    - ai-3-0
+
+artifacts:
+  book:
+    medium: print
+    distributor: amazon
+    url: https://www.amazon.de/s?k=finkeissen+ekkehard
+  notes:
+    medium: github
+    url: https://github.com/finkeissen
+  program:
+    medium: github
+    url: https://github.com/finkeissen/research-program
+

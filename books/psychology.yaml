@@ -1,0 +1,52 @@
+id: psychology
+title: Psychology — Maturity as Structural Capacity
+type: book
+role: inner-orientation
+status: stable
+
+abstract: >
+  A structural reframing of psychology focused on maturity as a functional capacity.
+  Rather than biographical narratives or trait-based models, the work emphasizes
+  inner structure, state awareness, and the ability to hold responsibility in
+  complex decision-making.
+
+core-assumptions:
+  - maturity is a structural capacity, not a personality trait
+  - psychological failure often results from missing inner structure
+  - responsibility requires inner differentiation and stability
+  - inner states are functionally relevant and inspectable
+
+focus:
+  - maturity
+  - inner structure
+  - state awareness
+  - responsibility
+  - decision capacity
+  - differentiation
+
+relations:
+  grounded-in:
+    - physics-effect
+  enabled-by:
+    - bootloader
+    - seven-layers-thinking
+  informs:
+    - medicine
+    - law
+    - economics
+    - politics
+    - ai-3-0
+    - ego
+
+artifacts:
+  book:
+    medium: print
+    distributor: amazon
+    url: https://www.amazon.de/s?k=finkeissen+ekkehard
+  notes:
+    medium: github
+    url: https://github.com/finkeissen
+  program:
+    medium: github
+    url: https://github.com/finkeissen/research-program
+

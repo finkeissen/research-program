@@ -1,0 +1,53 @@
+id: economics
+title: Economics — Sincerity in the Macro-Organism World
+type: book
+role: coordination-context
+status: stable
+
+abstract: >
+  A structural reframing of economics as coordination under uncertainty.
+  The work focuses on incentives, scarcity, automation, and algorithmic coordination,
+  treating economies as evolving macro-organisms that require explicit reasoning,
+  traceable decisions, and responsibility rather than ideology or mere optimization.
+
+core-assumptions:
+  - economies are coordination problems, not merely markets
+  - incentives shape behavior and responsibility
+  - automation changes the meaning of scarcity and labor
+  - optimization without accountability creates systemic risk
+  - trust and sincerity are structural, not moral, variables
+
+focus:
+  - coordination
+  - incentives
+  - scarcity
+  - automation
+  - allocation
+  - systemic risk
+  - responsibility
+
+relations:
+  grounded-in:
+    - physics-effect
+  enabled-by:
+    - bootloader
+    - seven-layers-thinking
+    - psychology
+    - medicine
+    - legal-law
+  informs:
+    - politics
+    - ai-3-0
+
+artifacts:
+  book:
+    medium: print
+    distributor: amazon
+    url: https://www.amazon.de/s?k=finkeissen+ekkehard
+  notes:
+    medium: github
+    url: https://github.com/finkeissen
+  program:
+    medium: github
+    url: https://github.com/finkeissen/research-program
+

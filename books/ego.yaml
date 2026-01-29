@@ -1,0 +1,53 @@
+id: ego
+title: EGO — A Journey Without Space and Time
+type: book
+role: individual-application
+status: stable
+
+abstract: >
+  An existential application of the research program at the level of the individual.
+  The work explores identity, responsibility, and agency without relying on
+  narrative psychology or biographical explanation, treating the ego as a
+  structural phenomenon rather than a story or object.
+
+core-assumptions:
+  - the ego is not an object but a functional perspective
+  - identity emerges from responsibility, not self-description
+  - freedom requires structure, not arbitrariness
+  - inner coherence is a prerequisite for outer cooperation
+  - meaning arises from accountable action, not narrative
+
+focus:
+  - ego
+  - identity
+  - responsibility
+  - agency
+  - inner coherence
+  - existential decision-making
+
+relations:
+  grounded-in:
+    - physics-effect
+  enabled-by:
+    - bootloader
+    - seven-layers-thinking
+    - psychology
+  informed-by:
+    - medicine
+    - legal-law
+    - economics
+    - politics
+    - ai-3-0
+
+artifacts:
+  book:
+    medium: print
+    distributor: amazon
+    url: https://www.amazon.de/s?k=finkeissen+ekkehard
+  notes:
+    medium: github
+    url: https://github.com/finkeissen
+  program:
+    medium: github
+    url: https://github.com/finkeissen/research-program
+

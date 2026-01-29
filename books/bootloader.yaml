@@ -1,0 +1,49 @@
+id: bootloader
+title: Bootloader for the Research Program
+type: book
+role: epistemic-initialization
+status: stable
+
+abstract: >
+  An initialization layer for human and machine reasoning.
+  It defines the minimal grammar required to enter complex domains
+  without premature meaning, narrative shortcuts, or solution bias.
+
+core-assumptions:
+  - complex problems require an explicit initialization phase
+  - premature meaning produces hidden constraints and false certainty
+  - reasoning must start from inspectable primitives and states
+
+focus:
+  - initialization
+  - primitives
+  - state
+  - assumptions
+  - traceability
+  - responsibility
+
+relations:
+  precedes:
+    - physics-effect
+  enables:
+    - seven-layers-thinking
+    - psychology
+    - medicine
+    - law
+    - economics
+    - politics
+    - ai-3-0
+    - ego
+
+artifacts:
+  book:
+    medium: print
+    distributor: amazon
+    url: https://www.amazon.de/s?k=finkeissen+ekkehard
+  notes:
+    medium: x
+    url: https://x.com/EFinkeissen
+  program:
+    medium: github
+    url: https://github.com/finkeissen/research-program
+
