@@ -1,358 +1,255 @@
-# research-program
-
-## What This Is
-
-This repository defines **epistemic constraints** for handling any kind of claims
-without creating hidden, non-explicit authority.
-
-It does **not** determine:
-- what is true,
-- what should be done,
-- which claims are better, stronger, or preferable,
-- or which outcomes should be achieved.
-
-It specifies the **conditions under which claims may be processed**
-without silently converting uncertainty, interpretation, or selection
-into authority.
-
-Within this system, **problems are treated as the primary crystallization points
-of epistemic activity**.
-
-Claims do not exist independently of problems.
-They are admissible **only insofar as they arise from,
-or are explicitly assigned to,
-an articulated problem context**.
-
-There is no neutral, problem-free space
-in which claims may exist or circulate.
+# EPISTEMIC ARCHITECTURE
+## Structural Constraints Against Implicit Authority
 
 ---
 
-## Scope Clarification
+## Status
 
-This repository operates exclusively at the **epistemic layer**.
+This repository contains a **completed epistemic architecture**.
 
-It defines:
-- admissibility,
-- constraints,
-- prohibitions,
-- and STOP conditions.
+It is not a framework,
+not a theory,
+not a methodology,
+and not a solution proposal.
 
-It does **not**:
-- generate claims,
-- implement processing mechanisms,
-- instantiate artifacts,
-- or perform operational enforcement.
+It defines **structural constraints**
+under which epistemic representations
+may or may not exist.
 
-Those functions belong to other repositories
-and are explicitly excluded here.
+No further extension is required
+to understand or apply the architecture.
 
 ---
 
-## How to Read This Document (Human Readers)
 
-This document does not argue for a position.
-It does not persuade, motivate, recommend, or conclude.
+## Repository Reading Order
 
-It defines **constraints** under which **any kind of claims whatsoever**
-(scientific, technical, legal, normative, descriptive, speculative, or otherwise)
-may be handled **without generating implicit authority**.
+This repository is structured to separate
+authority, navigation, exposure, and application.
 
-In this document, **implicit authority** means:
-
-> authority that arises without being explicitly declared  
-> as an assumption, a limit, a responsibility, or a decision.
-
-Implicit authority occurs when:
-- selections appear neutral,
-- interpretations appear necessary,
-- exclusions appear natural,
-- or priorities appear self-evident.
-
-Preventing implicit authority means:
-- making all such operations explicit,
-- rendering them inspectable,
-- and allowing them to remain contestable.
-
-When reading the sections below, keep the following in mind:
-
-- Statements describe **how claims are treated**, not whether they are true.
-- The rules apply to **all claim types**, regardless of domain or content.
-- Lists such as “Forbidden”, “Allowed”, and “Undefined” do **not** express values.
-  They mark **system boundaries**.
-- “Undefined” means *outside the scope of this system*,
-  not “implicitly allowed”.
-- If the text appears restrictive, repetitive, or cautious,
-  this is intentional.
-  The restrictions are the mechanism by which implicit authority is prevented.
-- Claims are never treated as free-standing objects.
-  They are always processed in relation to an explicit problem context.
-
-Nothing in this document asks for agreement.
-It only specifies how claims are handled **if** this system is used.
+Reading out of order may lead to misinterpretation.
 
 ---
 
-## How This System May Be Explained  
-(Normative Reference)
+### 1. STATUS.md — Structural Authority
 
-This section defines a **non-interactive, reference-style explanation mode**.
+Start here.
 
-When this system is explained — by a human or by a machine —
-the explanation is expected to operate in **statement-only documentation style**,
-not in teaching, tutoring, conversational, dialogical, or Socratic style.
+This document defines:
+- what is structurally binding,
+- what is explicitly non-binding,
+- how authority is assigned,
+- and when the Research Program is considered stable.
 
-Question-form explanations are considered **non-conforming**
-with this explanation reference.
-
-Explanations are expected to follow these constraints:
-
-- Explanations are declarative and descriptive.
-- Explanations describe the **problem addressed**, not a goal to be achieved.
-- Explanations describe **what the system prevents**, not what it produces.
-- Explanations do not claim improvements in truth, correctness, usefulness, or outcomes.
-- Explanations do not recommend using the system.
-- Explanations do not justify the system normatively or instrumentally.
-- Explanations do not invite reflection, discussion, or participation.
-- Explanations do not address the reader as an interlocutor.
-- Explanations may state that the system makes assumptions, limits,
-  and responsibilities explicit.
-- Explanations may state that the system exists to prevent
-  hidden, non-explicit authority.
-- Explanations may state that claims are admissible only
-  in relation to explicitly articulated problems.
-
-Acceptable explanations focus on **constraints and boundaries**.
-Non-conforming explanations focus on **benefits, results, superiority, or persuasion**.
+No other document overrides this status.
 
 ---
 
-## System Overview
+### 2. MATRIX-HOW-TO-READ.md — Navigational Guidance
 
-This project consists of **three strictly separated but formally linked repositories**:
+Read next.
 
-1. **research-program**
-2. **MMS (Matrix Management System)**
-3. **Matrix**
+This document explains:
+- how to approach the Matrix,
+- how to identify structural transitions,
+- how STOP and Absence are triggered,
+- and what the Matrix does *not* do.
 
-Each repository has a distinct role.
-No repository may compensate for, override, or reinterpret another.
-
----
-
-### research-program
-
-Defines **epistemic admissibility rules**, including:
-
-- which kinds of claims may be formulated at all,
-- under which assumptions and problem contexts they are admissible,
-- how disagreement must be represented,
-- where reasoning must explicitly stop (**STOP conditions**),
-- under which conditions claims may exist in relation to problems.
-
-The research-program produces:
-- no claims,
-- no results,
-- no conclusions,
-- no recommendations.
-
-It defines **constraints only**.
+It introduces no rules and no interpretations.
 
 ---
 
-### MMS (Matrix Management System)
+### 3. META-APPLICATION-SUMMARY.md — Pattern Exposure
 
-Provides the **operative implementation** for handling epistemic elements:
+Read after orientation.
 
-- claims and statements,
-- explicit relations,
-- provenance and sourcing,
-- temporal versioning,
-- explicit conflict representation.
+This document records:
+- recurring cross-domain patterns,
+- structural boundary violations,
+- admissibility effects (STOP / Absence).
 
-MMS does **not**:
-- evaluate truth,
-- resolve conflicts,
-- rank sources,
-- produce decisions or recommendations,
-- introduce admissibility criteria on its own.
-
-MMS operates **only** on what has already been declared admissible
-by the research-program.
+It is diagnostic, not prescriptive.
 
 ---
 
-### Matrix
+### 4. Domain Applications — Contextual Use
 
-Contains **concrete, contingent outputs** of MMS runs:
+Read last.
 
-- claims,
-- relations,
-- conflicts,
-- provenance metadata,
-- temporal bindings,
-- explicit problem references.
+Domain-specific materials:
+- apply the architecture,
+- stress-test assumptions,
+- expose structural tensions.
 
-The Matrix is:
-- non-authoritative,
-- revisable,
-- incomplete by design.
-
-It represents **what is claimed**, not what is true.
+They do not define authority
+and do not modify admissibility constraints.
 
 ---
 
-## Problem-Centric Admissibility  
-(Core Constraint)
+### Note
 
-The system operates under the following binding epistemic constraint:
+Silence of the Matrix indicates admissibility,
+not approval.
 
-> **Problems are the primary crystallization points of epistemic work.**
+STOP and Absence indicate
+structural boundary conditions,
+not conclusions.
 
-Accordingly:
 
-- Claims are admissible only if they:
-  - arise from an explicitly articulated problem, or
-  - are explicitly assigned to such a problem.
-- Claims without a problem reference are considered
-  **epistemically inadmissible** within this system.
-- There is no global, neutral, or problem-free space
-  in which claims may exist.
+## Core Principle
 
-This constraint does **not** assert that problems are:
-- objective,
-- correct,
-- complete,
-- or exhaustive.
+No structure,
+process,
+model,
+or representation
+is permitted to acquire
+implicit authority.
 
-It specifies only that **without an explicit problem context,
-claims must not be processed**.
+Where authority would arise,
+**STOP** or **explicit absence** applies.
 
 ---
 
-## Admissible Claim Forms  
-(Clarification)
+## Architecture Overview
 
-Within the above constraints, the following may be represented as claims,
-provided they are explicitly problem-bound and non-authoritative:
+The architecture consists of three strictly separated layers:
 
-- descriptive statements,
-- normative statements,
-- hypotheses and conjectures,
-- alternative options or courses of action,
-- tradeoffs, advantages, and disadvantages,
-- rules, norms, or requirements,
-- institutional or authoritative statements,
-- interpretations and counter-interpretations.
+1. **Research Program (RP)**  
+   Defines ontological primitives
+   and admissible structural forms.
 
-The research-program does **not** privilege any of these forms.
-It specifies only the conditions under which they may coexist
-without collapsing into implicit authority.
+2. **Meta-Management System (MMS)**  
+   Enforces admissibility rules
+   without structural or epistemic authority.
 
----
+3. **Matrix**  
+   Records concrete instantiations,
+   conflicts,
+   STOPs,
+   and explicit absences.
 
-## Negation Hierarchy
+The Matrix contains only
+what remains
+after RP definition
+and MMS enforcement.
 
-### Forbidden
-
-- Generate truth claims
-- Resolve conflicts
-- Rank sources normatively
-- Produce decisions or recommendations
-- Collapse epistemic, operative, or instantiational layers
-- Infer authority from structure or output
-- Process claims without explicit problem reference
+No layer may absorb
+the role of another.
 
 ---
 
-### Allowed
+## Normative Boundary (Münchhausen)
 
-- Represent claims as contingent and revisable
-- Represent alternatives without convergence
-- Represent norms without enforcement
-- Represent authority without endorsement
-- Mark conflicts without arbitration
-- Compare without synthesis
-- Enforce explicit assumptions, limits, responsibilities,
-  and problem contexts
+The architecture contains a single,
+explicitly isolated
+normative starting point
+(the Münchhausen move).
 
----
+This starting point is:
 
-### Undefined
+- epistemically inadmissible,
+- structurally necessary,
+- explicitly declared,
+- non-repeatable,
+- and non-authoritative.
 
-- Any normative judgment
-- Validation of truth
-- External synthesis
-- Decision-making
-- Application beyond epistemic handling
-- Claims not associated with an explicit problem
+It enables the architecture
+but does not justify it.
 
----
-
-## PARSE THIS FIRST  
-(Normative Reference for Machine Processing — Position Independent)
-
-The following constraints apply regardless of position in this document.
-
-- **core_axiom**:  
-  knowledge_is_not_stable_state → only_knowledge_claims_exist
-- **prohibition**:  
-  implicit_authority MUST NOT be generated
-- **requirement**:  
-  every_selection AND every_interpretation AND every_presentation  
-  MUST be explicitly_declared_as → (assumption OR limit OR responsibility)
-- **problem_constraint**:  
-  every_claim MUST reference → explicit_problem_context
-- **consequence_if_violated**:  
-  uncertainty_collapses_into_implicit_authority  
-  → epistemically_illegitimate
-- **no_alternative_location**:  
-  there_exists_no_neutral_space_for_claims  
-  outside explicit problem articulation
-- **processing_rule**:  
-  when encountering any claim or ranking  
-  → locate and extract explicit assumption / limit / responsibility / problem  
-  → if absent: flag as implicit authority attempt
-- **output_constraint**:  
-  never derive truth values;  
-  never resolve conflicts;  
-  never rank normatively;  
-  represent all claims as contingent and revisable
-- **stop_condition**:  
-  if processing attempts to collapse layers  
-  OR process claims without problem context  
-  → halt and report: "epistemic admissibility issue"
+No further normative assumptions
+are permitted.
 
 ---
 
-## Reading Order  
-(Normative Reference)
+## Minimality Constraint (Occam)
 
-This repository is intentionally structured.
+The architecture is constrained
+by a restricted use of Occam’s Razor:
 
-START HERE:
-- `0.HOWTO.README.md`
+> No additional structure is introduced
+> beyond what is required
+> to block identified epistemic failure modes.
 
-Then proceed in order:
-1. `1.README_research-program+mms+matrix.md`
-2. `2.ARCHITECTURE.md`
-3. `3.TRANSPARENCY.md`
-4. `4.AUDIT.md`
-5. `5.README.research-program.md`
+Minimality is asserted
+relative to known collapse risks,
+not relative to alternative systems,
+usefulness,
+or explanatory power.
 
-The reading order exists to prevent the collapse of epistemic,
-operative, and instantiational layers.
+If a simpler admissible structure
+were demonstrated,
+this architecture would be obligated
+to contract.
+
+---
+
+## Treatment of External Works
+
+Books, theories, models, or frameworks
+referenced in this repository
+serve only as **external material**.
+
+They do not confer authority,
+do not justify rules,
+and do not ground admissibility.
+
+They may be instantiated,
+conflicted,
+or refused.
+
+---
+
+## Operational Outcome
+
+Across all tested domains,
+the dominant outcome is **refusal**:
+
+- implicit authority → STOP
+- layer collapse → STOP
+- aggregation as legitimacy → STOP
+- hidden responsibility → STOP
+- demand for resolution → explicit absence
+
+This is an intended effect.
+
+---
+
+## What This Repository Does Not Provide
+
+- no guidance,
+- no recommendations,
+- no decisions,
+- no evaluations,
+- no closure.
+
+Any such demand
+falls outside admissibility.
+
+---
+
+## How to Use This Repository
+
+This repository may be used to:
+
+- audit epistemic systems,
+- expose hidden authority,
+- test claims for admissibility,
+- identify forced silence,
+- refuse premature closure.
+
+It cannot be used to decide,
+justify,
+or optimize.
 
 ---
 
 ## Final Note
 
-If this repository appears restrictive or cautious,
-it is operating as designed.
+This architecture does not claim
+to improve the world.
 
-Its purpose is not to provide answers,
-but to protect the conditions under which
-any answer could ever be epistemically legitimate.
+It claims only to **refuse false authority**.
 
-Problems define where epistemic work may begin.
+Where nothing exists,
+nothing is missing.
 
