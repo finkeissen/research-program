@@ -1,0 +1,50 @@
+id: medicine
+title: Medicine — Knowledge & AI in Service of Health
+type: book
+role: reference-domain
+status: stable
+
+abstract: >
+  A reference domain for structured knowledge and decision-making under uncertainty.
+  Medicine demonstrates how explicit models, state-based reasoning, and accountable
+  decisions operate when outcomes matter directly for human lives.
+
+core-assumptions:
+  - medical decisions are made under irreducible uncertainty
+  - responsibility requires explicit state models and traceable reasoning
+  - AI must support, not replace, human medical judgment
+  - plausibility is insufficient without accountability
+
+focus:
+  - uncertainty
+  - state-based reasoning
+  - diagnosis
+  - decision-making
+  - responsibility
+  - clinical practice
+
+relations:
+  grounded-in:
+    - physics-effect
+  enabled-by:
+    - bootloader
+    - seven-layers-thinking
+    - psychology
+  informs:
+    - law
+    - economics
+    - politics
+    - ai-3-0
+
+artifacts:
+  book:
+    medium: print
+    distributor: amazon
+    url: https://www.amazon.de/s?k=finkeissen+ekkehard
+  notes:
+    medium: github
+    url: https://github.com/finkeissen
+  program:
+    medium: github
+    url: https://github.com/finkeissen/research-program
+

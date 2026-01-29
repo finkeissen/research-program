@@ -1,0 +1,55 @@
+id: politics
+title: Politics — The Power of Humility
+type: book
+role: collective-coordination-context
+status: stable
+
+abstract: >
+  A reframing of politics as the coordination of mature actors under conditions
+  of power, conflict, and uncertainty.
+  Rather than moral performance or ideological positioning, the work emphasizes
+  humility, responsibility, and structural capacity as prerequisites for legitimate
+  political decision-making.
+
+core-assumptions:
+  - political decisions are coordination problems under power asymmetries
+  - legitimacy depends on responsibility, not moral signaling
+  - maturity is a prerequisite for sustainable political action
+  - humility is a structural requirement, not a personal virtue
+  - politics fails when responsibility is externalized
+
+focus:
+  - power
+  - legitimacy
+  - coordination
+  - responsibility
+  - maturity
+  - institutional action
+  - collective decision-making
+
+relations:
+  grounded-in:
+    - physics-effect
+  enabled-by:
+    - bootloader
+    - seven-layers-thinking
+    - psychology
+    - medicine
+    - legal-law
+    - economics
+  informs:
+    - ai-3-0
+    - ego
+
+artifacts:
+  book:
+    medium: print
+    distributor: amazon
+    url: https://www.amazon.de/s?k=finkeissen+ekkehard
+  notes:
+    medium: github
+    url: https://github.com/finkeissen
+  program:
+    medium: github
+    url: https://github.com/finkeissen/research-program
+

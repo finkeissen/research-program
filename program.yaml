@@ -1,0 +1,30 @@
+program:
+  id: finkeissen-research-program
+  title: Finkeissen Research Program
+  scope: >
+    A long-term research program spanning books and repositories,
+    focused on structure, knowledge, decision-making, and responsibility.
+  principle: explicit-inspectable-accountable-reasoning
+  book-manifests: books/
+
+rules:
+  sequencing:
+    - only one book or module is actively developed at a time
+    - all others provide stable, read-only context
+  responsibility:
+    - changes must be traceable
+    - reasoning must remain inspectable
+    - decisions must be justifiable
+
+books:
+  - bootloader
+  - physics-effect
+  - seven-layers-thinking
+  - psychology
+  - medicine
+  - law
+  - economics
+  - politics
+  - ai-3-0
+  - ego
+

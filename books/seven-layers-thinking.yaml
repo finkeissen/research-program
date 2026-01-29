@@ -1,0 +1,51 @@
+id: seven-layers-thinking
+title: Seven Layers of Thinking
+type: book
+role: structural-orientation
+status: stable
+
+abstract: >
+  A layered orientation model for reasoning, communication,
+  decision-making, and responsibility.
+  It separates concerns across distinct but interdependent layers,
+  enabling traceable and accountable thinking in complex domains.
+
+core-assumptions:
+  - complexity requires separation of concerns
+  - reasoning fails when layers are conflated
+  - responsibility depends on knowing on which layer a decision is made
+
+focus:
+  - layering
+  - separation-of-concerns
+  - communication
+  - reasoning
+  - decision-making
+  - responsibility
+
+relations:
+  grounded-in:
+    - physics-effect
+  enabled-by:
+    - bootloader
+  informs:
+    - psychology
+    - medicine
+    - law
+    - economics
+    - politics
+    - ai-3-0
+    - ego
+
+artifacts:
+  book:
+    medium: print
+    distributor: amazon
+    url: https://www.amazon.de/s?k=finkeissen+ekkehard
+  notes:
+    medium: github
+    url: https://github.com/finkeissen
+  program:
+    medium: github
+    url: https://github.com/finkeissen/research-program
+

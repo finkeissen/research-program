@@ -1,0 +1,45 @@
+id: physics-effect
+title: The Physics Effect
+type: book
+role: foundational-grammar
+status: active
+
+abstract: >
+  A foundational grammar for understanding reality, knowledge,
+  and decision-making based on effects, relations, and transformations
+  rather than objects or representations.
+
+core-assumptions:
+  - reality is composed of effects, relations, and transformations
+  - knowledge arises from measurement as interaction
+  - validity replaces absolute truth as a guiding criterion
+
+focus:
+  - effects
+  - relations
+  - transformations
+  - measurement
+  - uncertainty
+  - validity
+
+relations:
+  grounds:
+    - seven-layers-thinking
+    - psychology
+    - medicine
+    - law
+    - economics
+    - politics
+    - ai-3-0
+    - ego
+
+artifacts:
+  book:
+    medium: print
+    distributor: amazon
+    url: https://www.amazon.de/s?k=finkeissen+ekkehard
+  notes:
+    medium: github
+    url: https://github.com/finkeissen
+
+

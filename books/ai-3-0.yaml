@@ -1,0 +1,53 @@
+id: ai-3-0
+title: Mature Companies as AI 3.0
+type: book
+role: organizational-application
+status: stable
+
+abstract: >
+  A reframing of artificial intelligence through the lens of mature organizations.
+  AI 3.0 is understood not as autonomous optimization, but as the embedding of
+  explicit knowledge, decision structures, and responsibility into organizations
+  that act as long-term carriers of reasoning and accountability.
+
+core-assumptions:
+  - organizations are the primary carriers of applied intelligence
+  - intelligence without responsibility creates systemic risk
+  - AI must be embedded in explicit decision structures
+  - maturity is a prerequisite for delegating decisions to machines
+  - automation amplifies structure, not intent
+
+focus:
+  - organizational intelligence
+  - decision structures
+  - automation
+  - responsibility
+  - accountability
+  - long-term knowledge carriers
+
+relations:
+  grounded-in:
+    - physics-effect
+  enabled-by:
+    - bootloader
+    - seven-layers-thinking
+    - psychology
+    - medicine
+    - legal-law
+    - economics
+    - politics
+  informs:
+    - ego
+
+artifacts:
+  book:
+    medium: print
+    distributor: amazon
+    url: https://www.amazon.de/s?k=finkeissen+ekkehard
+  notes:
+    medium: github
+    url: https://github.com/finkeissen
+  program:
+    medium: github
+    url: https://github.com/finkeissen/research-program
+
