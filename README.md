@@ -421,3 +421,37 @@ it is enforced.
 
 This is the epistemic stance of the architecture.
 
+
+## Appendix: On Scope, Abstraction, and Operational Proof
+
+This repository defines an epistemic architecture.
+
+It is intentionally abstract.
+It is intentionally non-operational.
+It is intentionally incapable of producing decisions, recommendations, or outcomes.
+
+As such, criticism that targets a lack of practical usefulness,
+decision support, or operational payoff
+is valid **within the scope of this repository**.
+
+The purpose of this repository is not to demonstrate usefulness,
+but to define the structural constraints under which usefulness
+may or may not be claimed.
+
+Operational proof does not occur here.
+
+It occurs in the **Meta-Management System (MMS)** and in concrete **Matrix instantiations**,
+where these constraints are enforced under real input,
+real conflict, and real failure modes.
+
+Readers who consider the architecture a purely philosophical or formal exercise
+are explicitly encouraged to inspect the operational layer:
+
+→ https://github.com/finkeissen/mms
+
+If the constraints defined here survive contact with real claims,
+real conflicts, and real STOP conditions,
+their relevance will be visible there.
+
+If they do not, no argument in this repository can compensate for that.
+
