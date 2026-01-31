@@ -241,6 +241,9 @@ It cannot be used to decide,
 justify,
 or optimize.
 
+## Functional Layers
+→ short summary + link to LAYERS.md
+
 ---
 
 ## Final Note
@@ -252,4 +255,169 @@ It claims only to **refuse false authority**.
 
 Where nothing exists,
 nothing is missing.
+
+
+## Appendix: Structural Breaks and Epistemic Discipline
+
+This architecture does not assume that epistemic continuity can be maintained throughout the entire process from reality to action.
+
+It assumes instead that **structural breaks are unavoidable**.
+
+Epistemic integrity therefore does not consist in denying breaks,
+but in **minimizing them, localizing them precisely, and naming them explicitly**.
+
+The goal is not global continuity,
+but strict discipline about *where continuity is possible*
+and *where it is not*.
+
+---
+
+### 1. First Structural Break: Reality → Model (Physics Effect)
+
+At least one structural break is required
+to move from reality into scientific models.
+
+Reality is continuous, non-binary, and not symbolically bounded.
+Scientific models, by contrast, necessarily rely on:
+- binary distinctions,
+- discrete representations,
+- finite symbolic structures.
+
+The transition from reality into such models
+is therefore **not epistemically neutral**.
+
+It constitutes a structural break,
+here referred to as the **Physics Effect**.
+
+This break:
+- is unavoidable,
+- cannot be justified from within the model,
+- is epistemically inadmissible but structurally necessary,
+- must be introduced explicitly,
+- and must occur **once and only once**, prior to all modeling.
+
+The Physics Effect does not justify any model.
+It merely enables modeling to begin.
+
+No further breaks of this kind are permitted.
+
+---
+
+### 2. Modeling and Theory: Strict Continuity Requirement
+
+After the Physics Effect,
+the architecture enters the domain of modeling and theory.
+
+Within this domain,
+a strict rule applies:
+
+> **Structural breaks are not admissible.**
+
+Across all internal layers —
+Research Program definitions,
+Meta-Management System admissibility enforcement,
+and Matrix instantiation —
+the epistemic process must remain:
+- continuous,
+- fully explicit,
+- free of implicit authority,
+- free of normative injection,
+- free of hidden transitions or shortcuts.
+
+Any attempt to introduce additional breaks within this domain
+(for example through layer collapse,
+aggregation as legitimacy,
+implicit normativity,
+or demands for premature resolution)
+violates admissibility constraints.
+
+Such attempts trigger **STOP** or **explicit absence**.
+
+STOP does not indicate failure.
+It marks the enforcement of continuity
+precisely where continuity is both possible and required.
+
+---
+
+### 3. Second Structural Break: Theory → Practice (Münchhausen Move)
+
+Scientific theory and modeling,
+no matter how complete,
+cannot by themselves produce action.
+
+At some point,
+a transition from theory to practice becomes necessary:
+from generalized representation
+to situated, individual action or decision.
+
+This transition cannot be continuous.
+
+No model,
+no theory,
+and no aggregation of models
+can justify the step into action.
+
+The transition from theory into practice therefore requires
+a second structural break:
+the **Münchhausen Move**.
+
+This break is characterized by:
+- self-grounding without epistemic support,
+- an explicit departure from the theoretical domain,
+- an individual act that cannot be derived or legitimized by theory.
+
+Like Münchhausen pulling himself out of the swamp by his own hair,
+this move does not claim justification.
+It merely occurs.
+
+The Münchhausen Move:
+- lies outside admissible scientific argumentation,
+- is unavoidable,
+- must be made explicit,
+- and should be minimized to a single, clearly identified break.
+
+Final decisions do not belong to the architecture.
+They belong to the individual.
+
+---
+
+### 4. Overall Structure
+
+The architecture therefore consists of three epistemically distinct regions:
+
+1. **Reality**  
+   Continuous, non-binary, not directly representable.
+
+2. **Modeling and Theory**  
+   Enabled by a single initial break,
+   internally continuous and strictly regulated.
+
+3. **Practice / Decision**  
+   Entered through a final, self-grounding break,
+   outside the domain of scientific justification.
+
+Exactly two structural breaks are admitted:
+
+1. Reality → Model (Physics Effect)
+2. Theory → Practice (Münchhausen Move)
+
+All intermediate breaks are inadmissible.
+
+---
+
+### 5. Epistemic Consequence
+
+This structure ensures that:
+- unavoidable discontinuities are acknowledged rather than hidden,
+- scientific argumentation remains internally disciplined,
+- models do not acquire illegitimate authority over action,
+- and responsibility for decisions cannot be displaced onto theory.
+
+Where continuity is impossible,
+the break is named.
+
+Where continuity is possible,
+it is enforced.
+
+This is the epistemic stance of the architecture.
 
