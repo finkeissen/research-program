@@ -19,7 +19,14 @@ may or may not exist.
 No further extension is required
 to understand or apply the architecture.
 
----
+## Knowledge Skeletons (Books)
+
+This repository contains structured, verifiable book skeletons across multiple domains.
+They are not prose drafts, but epistemic scaffolds: domain boundaries, primitives,
+constraints, and invariants designed to be stable under revision and usable by humans and LLMs.
+
+→ See `/books/README.md` for an overview  
+→ Example: `books/physics-effect.yaml`
 
 
 ## Repository Reading Order
