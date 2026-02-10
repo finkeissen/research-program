@@ -67,3 +67,75 @@ are handled elsewhere.
 This repository defines
 the epistemic ground on which such systems can exist.
 
+## Relationship Between Topics and Assumptions
+
+Not every new topic introduced into the research program
+automatically introduces new assumptions.
+
+Assumptions are **exceptional artifacts**.
+They exist only where reasoning would otherwise
+silently rely on unstated premises.
+
+### When a New Topic DOES NOT Require New Assumptions
+
+A new topic does **not** require new assumptions if it:
+
+- operates entirely within existing epistemic rules,
+- introduces no new ontological commitments,
+- does not alter admissibility conditions,
+- does not redefine problem articulation,
+- does not weaken or bypass existing guardrails,
+- and does not introduce implicit defaults.
+
+In such cases, the topic is considered
+**assumption-neutral** at introduction time.
+
+Exploratory topics are **assumption-free by default**
+unless explicitly stated otherwise.
+
+---
+
+### When a New Topic REQUIRES Explicit Assumptions
+
+A new topic requires explicit assumptions if it:
+
+- relies on premises not defined elsewhere in the research program,
+- presupposes a particular interpretation of evidence, causality, or agency,
+- introduces new boundary conditions or scope restrictions,
+- requires exclusions that are not already covered by guardrails,
+- would otherwise change the admissibility of claims implicitly.
+
+In these cases, assumptions must be:
+- explicitly documented,
+- scoped to the topic or context,
+- clearly marked as contingent,
+- and open to contestation.
+
+---
+
+### Non-Transfer Rule
+
+Assumptions introduced for a specific topic:
+
+- do not automatically apply to other topics,
+- do not generalize across domains,
+- do not propagate into MMS or the Matrix implicitly.
+
+Any reuse of an assumption
+requires explicit re-adoption and justification.
+
+---
+
+### Authority Clarification
+
+Assumptions do **not** grant authority.
+They restrict reasoning.
+
+An assumption does not validate a topic.
+It only makes explicit
+which forms of reasoning would otherwise be implicit.
+
+Undocumented assumptions are treated as **epistemic violations**,
+not as acceptable shortcuts.
+
+
