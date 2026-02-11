@@ -1,4 +1,4 @@
-# EPISTEMIC ARCHITECTURE
+# Research-Program
 ## Structural Constraints Against Implicit Authority
 
 ---
