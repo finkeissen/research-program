@@ -1,4 +1,4 @@
-# Research Program  
+# RESEARCH PROGRAM
 ## Epistemic Architecture Against Implicit Authority
 
 ---
