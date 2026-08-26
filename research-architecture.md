@@ -1,7 +1,58 @@
+research-architecture.md
 # research-architecture  
-## Full Layered Epistemic Architecture (v5)
+## Full Layered Epistemic Architecture (v5.1)
+
+# Module Index Summary
+1. contracts → define admissibility (norm)
+2. schemas → formalize contracts (formalization)
+3. registry → rule lookup only (resolution)
+4. compiler → enforce + resolve + report (enforcement)
+5. runtime → execute under constraints (execution)
+6. runs → store history (audit)
+7. tests → verify enforcement (verification)
+8. tools → invoke only (interface)
+9. docs → explain system (documentation)
+
+### Gateway Pipeline (Compiler Model)
+
+The Layer 2 gateway may implement a deterministic compile pipeline with phases:
+
+A) Parsing  
+B) Static Semantics  
+C) Dependency Resolution (lockfile + graph)  
+D) Execution (runtime contracts enforced)  
+E) Registration (compile report + audit artifacts)
+
+The pipeline is an admissibility filter.
+It does not create epistemic authority.
+
+#### Trigger Classes (Normative)
+
+The gateway pipeline (or affected phases) must re-run when:
+
+- manifests change (compile-manifest / run-manifest)
+- contracts change (integration, read-only, STOP model)
+- schemas change (machine-validatable structure)
+- referenced artifacts change (dependency closure)
+- runtime modules change (execution behavior)
+- registry mappings change (rule resolution behavior)
+
+Triggering must be deterministic and reconstructable.
+
+#### MMS Internal Module Index (1-line)
+
+contracts → define admissibility (norm)  
+schemas → formalize contracts (formalization)  
+registry → rule lookup only (resolution)  
+compiler → enforce + resolve + report (enforcement)  
+runtime → execute under constraints (execution)  
+runs → store history (audit)  
+tests → verify enforcement (verification)  
+tools → invoke only (interface)  
+docs → explain system (documentation)
 
 ---
+
 
 ## 0. Purpose
 
@@ -110,6 +161,16 @@ Does NOT:
 
 STOP is epistemic and propagates downward only.
 
+### Mechanical Enforceability Boundary
+
+Layer 1 is normative.
+
+Its rules MUST be expressible in a form that can be mechanically enforced
+at Layer 2, without altering their meaning.
+
+Mechanical enforcement does not create authority.
+It only prevents violations.
+
 ---
 
 ## Layer 2 — MMS
@@ -134,6 +195,33 @@ MMS cannot:
 - generate authority  
 
 Operational failures do not alter epistemic rules.
+
+### Integration Contract
+
+Layer 2 MUST define an explicit integration contract that governs:
+
+- identifier formats
+- cross-repository reference requirements
+- end-to-end traceability (hypothesis → prediction → run → outputs)
+- admissibility preconditions for execution artifacts
+
+This contract is normative at Layer 2 and mechanically enforceable by
+the Layer 2 gateway mechanism.
+
+The contract must not introduce epistemic rules.
+It only formalizes and enforces structural requirements required by Layer 1.
+
+### Gateway Distinction
+
+Layer 2 may contain an enforcement mechanism (gateway) that:
+
+- validates schemas (structure)
+- enforces runtime contracts (behavior)
+- blocks inadmissible runs before execution
+- propagates STOP on violation
+
+The gateway is not authoritative.
+It is enforcement only.
 
 ---
 
