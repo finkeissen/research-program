@@ -1,4 +1,4 @@
-# Research Program  
+# RESEARCH-PROGRAM Repository
 ## Epistemic Architecture Against Implicit Authority
 
 ---
