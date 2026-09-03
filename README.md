@@ -199,6 +199,17 @@ and the presence of STOP.
 
 ---
 
+## License
+
+This repository is licensed under the **GNU Affero General Public License v3.0**.
+
+You may copy, modify and distribute the work under the terms of the AGPL-3.0.
+If you modify the software and run it on a network server, you must make the
+complete corresponding source code available to the users of that server.
+
+See the file `LICENSE` for the full text.
+
+
 # Final Note
 
 This architecture does not claim to improve the world.
