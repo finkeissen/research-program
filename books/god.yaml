@@ -1,0 +1,37 @@
+id: god
+title: Forschungsprogramm Gott — Vom Wunsch zur Prüfung
+type: book
+role: origin-question
+status: stable
+
+abstract: >
+  Die Ursprungsfrage des Programms. Das Isolationsargument: die Gottesfrage ist
+  nur stellbar, wenn alle geliehenen Fundamente systematisch entfernt werden.
+  Stufe 0 bildet die Brücke zur Ontologie (Woher kommt der Drang nach Einheit?).
+
+core-assumptions:
+  - borrowed foundations must be removed before the question can be posed
+  - the unity-drive is an object of inquiry, not an answer
+  - stage 0 connects existential questioning to operational ontology
+
+focus:
+  - isolation argument
+  - origin question
+  - unity drive
+  - bridge to ontology
+
+relations:
+  grounded-in:
+    - physics-effect
+  enabled-by:
+    - bootloader
+  informs:
+    - ontology
+artifacts:
+  references:
+    preview-de:
+      medium: github
+      path: german/74_god_de.pdf
+    preview-en:
+      medium: github
+      path: english/74_god_en.pdf

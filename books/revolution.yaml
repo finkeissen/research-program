@@ -1,0 +1,29 @@
+id: revolution
+title: Forschungsprogramm Revolution — Von feindseligem Umbruch zu friedvoller Entwicklung
+type: book
+role: testing-architecture
+status: stable
+
+abstract: >
+  Die Prüfarchitektur für Umbruchsbehauptungen. Genre-Wechsel von Fließtext zu
+  Stichworten: das Buch prüft Ereignisse der Kategorie „revolutionär“ auf ihre
+  Ebene — die meisten sind reine Ebene-7-Ereignisse (neue Anwendungen bestehender
+  Kategorien), nicht Brüche im System.
+
+core-assumptions:
+  - revolutions are claims that require layer attribution before praise or fear
+  - hostile upheaval and peaceful development differ by testability, not intensity
+  - the seventh-layer reading dissolves most historical novelty claims
+
+focus:
+  - layer attribution of upheavals
+  - hostility versus testability
+  - case archives of mislabeled revolutions
+
+relations:
+  grounded-in:
+    - physics-effect
+    - seven-layers-thinking
+  informed-by:
+    - politics
+artifacts:

@@ -1,0 +1,39 @@
+id: physics
+title: Forschungsprogramm Physik — Erforschen des Atomaren Kontexts
+type: book
+role: natural-science-foundation
+status: stable
+
+abstract: >
+  Naturwissenschaftliche Fundierung des Programms über den atomaren Kontext:
+  Schnitt, Kompressionsgrad und deklarierte Zulässigkeit als Messgröße jeder
+  Aussage. Das Buch operationalisiert die Bruchstruktur (Bruch 1–5) am konkreten
+  Objekt und liefert die Theorie, die Datenmodell und Matrix übernehmen.
+
+core-assumptions:
+  - every description carries a cut, a degree of compression, and declared admissibility
+  - measurement is intervention, not depiction
+  - quantization is the visible form of the set cut, not a property of the world alone
+
+focus:
+  - atomic context
+  - cut and compression degree
+  - declared admissibility
+  - five cuts as one structure
+
+relations:
+  grounded-in:
+    - physics-effect
+  enables:
+    - chemistry
+    - medicine
+  informs:
+    - ontology
+artifacts:
+  references:
+    preview-de:
+      medium: github
+      path: german/44_physics_de.pdf
+    preview-en:
+      medium: github
+      path: english/44_physics_en.pdf

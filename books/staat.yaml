@@ -1,0 +1,50 @@
+id: staat
+title: Forschungsprogramm Staat — Organisation legitimer Ordnung
+type: book
+role: collective-coordination-context
+status: stable
+
+abstract: >
+  Veröffentlichter Domänenband über den Staat als Koordinationsstruktur
+  kollektiven Handelns: Legitimitaet, Gewaltmonopol, Rechtsetzung und
+  Verwaltung als operative Kontrollierbarkeit von Schnitten auf
+  Gesellschaftsebene. Abzugrenzen vom Band Politik, der Macht als Haltung
+  beschreibt; hier geht es um die institutionelle Form, in der Macht gehalten
+  wird.
+
+core-assumptions:
+  - the state is a coordination structure, not a moral agent
+  - legitimacy is measured by auditable decision paths, not by origin claims
+  - monopoly of force is a declared cut requiring explicit admissibility rules
+  - institutions outlive individuals only through correction mechanisms
+
+focus:
+  - legitimacy and accountability
+  - separation of powers as structural cuts
+  - administration as compressed decision memory
+  - citizenship as role, not identity
+
+relations:
+  grounded-in:
+    - physics-effect
+    - ontology
+  enabled-by:
+    - seven-layers-thinking
+    - legal-law
+  informs:
+    - politics
+    - economics
+    - history
+
+artifacts:
+  references:
+    preview-de:
+      medium: github
+      path: german/86_state_de.pdf
+    preview-en:
+      medium: github
+      path: english/86_state_en.pdf
+  book:
+    medium: print
+    distributor: amazon
+    url: https://www.amazon.de/s?k=finkeissen+ekkehard

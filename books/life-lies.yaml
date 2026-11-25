@@ -1,0 +1,39 @@
+id: life-lies
+title: Forschungsprogramm Lebenslügen — Architektur menschlicher Selbsttäuschung
+type: book
+role: personal-demolition
+status: stable
+
+abstract: >
+  Die persönliche Abrissbirne des Programms. Lebenslügen werden nicht als
+  individuelle Fehler behandelt, sondern als strukturell notwendige Konstrukte,
+  ohne die das Ego nicht überleben könnte. Was dieses Buch niederreißt, wird in
+  den anderen Bänden wiederaufgebaut.
+
+core-assumptions:
+  - self-deception is structurally necessary, not contingent failure
+  - demolition precedes reconstruction; the program orders itself accordingly
+  - honesty is the removal of inner reservations, not a virtue
+  - the ego cannot be studied without its lies being named first
+
+focus:
+  - life-lies as architecture
+  - ego-preservation mechanisms
+  - demolition function within the program
+  - bridge to EGO and seven-layers-thinking
+
+relations:
+  grounded-in:
+    - physics-effect
+  enables:
+    - ego
+  informs:
+    - psychology
+artifacts:
+  references:
+    preview-de:
+      medium: github
+      path: german/79_life-lies_de.pdf
+    preview-en:
+      medium: github
+      path: english/79_life-lies_en.pdf

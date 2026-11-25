@@ -1,0 +1,35 @@
+id: chemistry
+title: Forschungsprogramm Chemie — Emergente Objektivierung der Materie
+type: book
+role: natural-science-foundation
+status: stable
+
+abstract: >
+  Zweiter naturwissenschaftlicher Grundungsband: wie Materie unter gegebenen
+  Schnitten objektiv erscheint, ohne dass die Erscheinung zum Maßstab der
+  Wirklichkeit erhoben wird. Emergence als kontrollierter Übergang zwischen
+  atomarem Kontext und Domänensprache.
+
+core-assumptions:
+  - objectivity emerges under declared conditions, it is not discovered raw
+  - emergence names the place where cuts must be re-declared
+  - chemical kinds are stable cuts, not found essences
+
+focus:
+  - emergent objectification
+  - re-declaration of cuts across scales
+  - bridge from physics to domain applications
+
+relations:
+  grounded-in:
+    - physics-effect
+  derives-from:
+    - physics
+artifacts:
+  references:
+    preview-de:
+      medium: github
+      path: german/34_chemistry_de.pdf
+    preview-en:
+      medium: github
+      path: english/34_chemistry_en.pdf

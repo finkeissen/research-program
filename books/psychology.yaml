@@ -32,7 +32,7 @@ relations:
     - seven-layers-thinking
   informs:
     - medicine
-    - law
+    - legal-law
     - economics
     - politics
     - ai-3-0
@@ -49,4 +49,10 @@ artifacts:
   program:
     medium: github
     url: https://github.com/finkeissen/research-program
-
+  references:
+    preview-de:
+      medium: github
+      path: german/45_phychology_de.pdf
+    preview-en:
+      medium: github
+      path: english/45_phychology_en.pdf

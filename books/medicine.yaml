@@ -31,7 +31,7 @@ relations:
     - seven-layers-thinking
     - psychology
   informs:
-    - law
+    - legal-law
     - economics
     - politics
     - ai-3-0
@@ -47,4 +47,3 @@ artifacts:
   program:
     medium: github
     url: https://github.com/finkeissen/research-program
-

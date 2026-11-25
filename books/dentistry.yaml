@@ -1,0 +1,34 @@
+id: dentistry
+title: Research Program Dentistry — Knowledge & AI in Service of Health
+type: book
+role: domain-application-clinical
+status: stable
+
+abstract: >
+  Klinische Domänenanwendung, Edition 5, einzig auf Englisch und am häufigsten
+  überarbeitet — das Buch, an dem der Programmzyklus (Prüfung, Rückmeldung,
+  Neuauflage) am direktesten dokumentiert ist.
+
+core-assumptions:
+  - clinical domains test the program's admissibility rules hardest
+  - revision frequency is a quality signal, not instability
+
+focus:
+  - dental knowledge structures
+  - AI assistance under declared limits
+  - revision cycle as evidence
+
+relations:
+  grounded-in:
+    - physics-effect
+  enabled-by:
+    - bootloader
+    - seven-layers-thinking
+    - medicine
+  informs:
+    - medicine
+artifacts:
+  references:
+    preview-en:
+      medium: github
+      path: english/26_dentistry_en.pdf

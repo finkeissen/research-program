@@ -1,0 +1,40 @@
+id: family
+title: Forschungsprogramm Familie — Weitergabe des Lebens
+type: book
+role: domain-application-biological
+status: stable
+
+abstract: >
+  Zweigeteiltes Buch: kompakter Haupttext (eine These pro Absatz), Anhang mit
+  Gegenpositionen und Evidenzstand. Zentrale Kategorie ist der Familienvertrag —
+  Bargaining Power, Mental Load und biologische Randbedingungen, bewusst nicht
+  klassenspezifisch abgeleitet.
+
+core-assumptions:
+  - reproduction is a contractual arrangement before it is a narrative
+  - bargaining power and mental load are measurable inside the contract
+  - biological constraints are part of the model, not external noise
+
+focus:
+  - family contract
+  - bargaining power
+  - mental load
+  - biological boundary conditions
+
+relations:
+  grounded-in:
+    - physics-effect
+  enabled-by:
+    - bootloader
+    - seven-layers-thinking
+  informed-by:
+    - psychology
+    - economics
+artifacts:
+  references:
+    preview-de:
+      medium: github
+      path: german/g0_familie_de.pdf
+    preview-en:
+      medium: github
+      path: english/g0_family_en.pdf

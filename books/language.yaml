@@ -1,0 +1,29 @@
+id: language
+title: Forschungsprogramm Sprache — Linguistische Forensik als Werkzeug
+type: book
+role: planned-domain
+status: planned
+
+abstract: >
+  Geplanter Band 18 (Gesamplan): Sprache als Ort, an dem Schnitte gesetzt und
+  verschleiert werden; linguistische Forensik als Prüfwerkzeug für Begriffs-
+  spiraterie und Bedeutungsverschiebung. Anschluss an Sprechakt-Theorie
+  (performativ/konstativ) und an die Philosophie-Hinweise (Bedeutung als Schnitt).
+
+core-assumptions:
+  - meaning is cut, not found; words stabilize cuts
+  - forensic inspection of terms precedes agreement on facts
+
+focus:
+  - speech acts
+  - term piracy detection
+  - meaning-drift measurement
+
+relations:
+  grounded-in:
+    - physics-effect
+  enables:
+    - history
+  informed-by:
+    - ontology
+artifacts:

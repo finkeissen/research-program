@@ -1,0 +1,47 @@
+id: raumzeit
+title: Forschungsprogramm Raumzeit — Reichweite und Grenzen von Modellen
+type: book
+role: natural-science-foundation
+status: stable
+
+abstract: >
+  Frueher Grundungsband des Programms ueber Physik als Modellbildung zu
+  Raum- und Zeitvorstellungen. Der umfangreichste fertige Bestand (88
+  PDF-Fassungen) bildet die physikalische Folie, auf der spaeter die Baende
+  Physik-Effekt (UrGrammatik) und Physik (atomarer Kontext) aufsetzen.
+
+core-assumptions:
+  - space and time are model outputs, not pre-given containers
+  - every physical statement carries a declared range of validity
+  - the limit of a model is information, not failure
+  - observation is participation, not detached depiction
+
+focus:
+  - range of validity of models
+  - relativity as cut-declaration
+  - cosmology without privileged observer
+  - boundary between physics and metaphysics
+
+relations:
+  grounded-in:
+    - physics-effect
+  enabled-by:
+    - seven-layers-thinking
+  informs:
+    - physics
+    - chemistry
+    - ontology
+    - science
+
+artifacts:
+  references:
+    preview-de:
+      medium: github
+      path: german/90_spacetime_de.pdf
+    preview-en:
+      medium: github
+      path: english/90_spacetime_en.pdf
+  book:
+    medium: print
+    distributor: amazon
+    url: https://www.amazon.de/s?k=finkeissen+ekkehard

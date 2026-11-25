@@ -50,4 +50,10 @@ artifacts:
   program:
     medium: github
     url: https://github.com/finkeissen/research-program
-
+  references:
+    preview-de:
+      medium: github
+      path: german/36_economics_de.pdf
+    preview-en:
+      medium: github
+      path: english/36_economics_en.pdf

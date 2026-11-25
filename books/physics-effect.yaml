@@ -27,7 +27,7 @@ relations:
     - seven-layers-thinking
     - psychology
     - medicine
-    - law
+    - legal-law
     - economics
     - politics
     - ai-3-0
@@ -41,5 +41,10 @@ artifacts:
   notes:
     medium: github
     url: https://github.com/finkeissen
-
-
+  references:
+    preview-de:
+      medium: github
+      path: german/d8_physics-effect_de.pdf
+    preview-en:
+      medium: github
+      path: english/d8_physics-effect_en.pdf
