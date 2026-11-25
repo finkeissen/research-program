@@ -6,10 +6,9 @@ role: origin-question
 status: stable
 
 abstract: >
-  Die Ursprungsfrage des Programms. Das Isolationsargument: die Gottesfrage ist
-  nur stellbar, wenn alle geliehenen Fundamente systematisch entfernt werden.
-  Stufe 0 bildet die Brücke zur Ontologie (Woher kommt der Drang nach Einheit?).
-
+  The originating question of the program. The isolation argument: the question of God can only
+  be posed if all borrowed foundations are systematically removed. Stage 0 forms the bridge to
+  ontology (where does the drive for unity come from?).
 core-assumptions:
   - borrowed foundations must be removed before the question can be posed
   - the unity-drive is an object of inquiry, not an answer

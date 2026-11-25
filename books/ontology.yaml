@@ -6,11 +6,10 @@ role: operative-implementation
 status: stable
 
 abstract: >
-  Die operative Implementierung der Grundthese. Daten, Information und Wissen
-  sind unzulässig, aber notwendig — diese Beobachtung ändert nichts an der
-  Praxis, solange sie nicht in prüfbare Strukturen übersetzt wird. Das Buch
-  legt das Fundament für die Buchreihe und für github.com/finkeissen zugleich.
-
+  The operative implementation of the basic thesis. Data, information and knowledge are
+  inadmissible yet necessary — this observation changes nothing in practice until it is
+  translated into testable structures. The book lays the foundation for the book series and for
+  github.com/finkeissen alike.
 core-assumptions:
   - inadmissibility becomes workable only through explicit structure
   - data/information/knowledge are declared cuts, not layers of being

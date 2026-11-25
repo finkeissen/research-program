@@ -6,11 +6,9 @@ role: testing-architecture
 status: stable
 
 abstract: >
-  Die Prüfarchitektur für Umbruchsbehauptungen. Genre-Wechsel von Fliesstext zu
-  Stichworten: das Buch prüft Ereignisse der Kategorie „revolutionär“ auf ihre
-  Ebene — die meisten sind reine Ebene-7-Ereignisse (neue Anwendungen bestehender
-  Kategorien), nicht Brüche im System.
-
+  The testing architecture for claims of upheaval. Genre change from flowing text to keywords:
+  the book tests events of the category revolutionary for their level — most are pure level-7
+  events (new applications of existing categories), not fractures in the system.
 core-assumptions:
   - revolutions are claims that require layer attribution before praise or fear
   - hostile upheaval and peaceful development differ by testability, not intensity

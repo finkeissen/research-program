@@ -5,10 +5,9 @@ role: domain-application-clinical
 status: stable
 
 abstract: >
-  Klinische Domänenanwendung, Edition 5, einzig auf Englisch und am häufigsten
-  überarbeitet — das Buch, an dem der Programmzyklus (Prüfung, Rückmeldung,
-  Neuauflage) am direktesten dokumentiert ist.
-
+  Clinical domain application, edition 5, English-only and the most frequently revised volume —
+  the book on which the program cycle (examination, feedback, new edition) is documented most
+  directly.
 core-assumptions:
   - clinical domains test the program's admissibility rules hardest
   - revision frequency is a quality signal, not instability

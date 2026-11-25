@@ -6,13 +6,10 @@ role: collective-coordination-context
 status: stable
 
 abstract: >
-  Veröffentlichter Domänenband über den Staat als Koordinationsstruktur
-  kollektiven Handelns: Legitimität, Gewaltmonopol, Rechtsetzung und
-  Verwaltung als operative Kontrollierbarkeit von Schnitten auf
-  Gesellschaftsebene. Abzugrenzen vom Band Politik, der Macht als Haltung
-  beschreibt; hier geht es um die institutionelle Form, in der Macht gehalten
-  wird.
-
+  Published domain volume on the state as the coordination structure of collective action:
+  legitimacy, monopoly of force, law-making and administration as the operative controllability
+  of cuts at the level of society. Distinct from the volume Politics, which describes power as
+  an attitude; here it is about the institutional form in which power is held.
 core-assumptions:
   - the state is a coordination structure, not a moral agent
   - legitimacy is measured by auditable decision paths, not by origin claims

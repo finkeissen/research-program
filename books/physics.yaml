@@ -6,11 +6,10 @@ role: natural-science-foundation
 status: stable
 
 abstract: >
-  Naturwissenschaftliche Fundierung des Programms über den atomaren Kontext:
-  Schnitt, Kompressionsgrad und deklarierte Zulässigkeit als Messgröße jeder
-  Aussage. Das Buch operationalisiert die Bruchstruktur (Bruch 1–5) am konkreten
-  Objekt und liefert die Theorie, die Datenmodell und Matrix übernehmen.
-
+  Natural-science grounding of the program via the atomic context: cut, degree of compression
+  and declared admissibility as the unit of measurement of every statement. The book
+  operationalises the fracture structure (fracture 1-5) on a concrete object and supplies the
+  theory that data model and matrix adopt.
 core-assumptions:
   - every description carries a cut, a degree of compression, and declared admissibility
   - measurement is intervention, not depiction

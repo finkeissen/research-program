@@ -6,11 +6,9 @@ role: domain-application-biological
 status: stable
 
 abstract: >
-  Zweigeteiltes Buch: kompakter Haupttext (eine These pro Absatz), Anhang mit
-  Gegenpositionen und Evidenzstand. Zentrale Kategorie ist der Familienvertrag —
-  Bargaining Power, Mental Load und biologische Randbedingungen, bewusst nicht
-  klassenspezifisch abgeleitet.
-
+  Two-part book: compact main text (one thesis per paragraph), appendix with counterpositions
+  and state of evidence. The central category is the family contract — bargaining power, mental
+  load and biological constraints, deliberately not derived from class specifics.
 core-assumptions:
   - reproduction is a contractual arrangement before it is a narrative
   - bargaining power and mental load are measurable inside the contract
