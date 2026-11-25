@@ -20,6 +20,10 @@ The full system architecture (Layers 0–6) is defined in:
 
 → `research-architecture.md`
 
+The public book layer — all volumes with one-line summaries and preview PDFs — is listed in:
+
+→ `book_overview.md`
+
 This README explains how to approach the system.
 
 ---
@@ -93,10 +97,13 @@ To avoid misinterpretation, read in this order:
 1. `research-architecture.md`  
    → defines all layer boundaries, invariants, and failure modes
 
-2. `books/README.md`  
+2. `book_overview.md`  
+   → all books, one-line summaries, preview PDFs
+
+3. `books/README.md`  
    → teaser rule and manifest field conventions
 
-3. Domain materials  
+4. Domain materials  
    → `/books/*` and domain folders in this repository
 
 Reading out of order may lead to category errors.
