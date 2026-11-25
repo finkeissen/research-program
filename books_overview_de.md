@@ -68,16 +68,15 @@ Maschinenlesbare Details: ein YAML-Manifest pro Buch in [`books/`](books/). Hint
 - **Forschungsprogramm Recht — Wissen & KI im Dienst des Wohlverhaltens** — *stabil* *(engl. Titel: „Legal Law — Knowledge & AI in Service of Justice“)*  
   Strukturierte Behandlung des Rechts als praktizierte Entscheidungsfindung unter Ungewissheit.  
   Leseproben: keine · [Manifest](books/legal-law.yaml)
-- **Forschungsprogramm Revolution — Von feindseligem Umbruch zu friedvoller Entwicklung** — *stabil*  
-  Die Prüfarchitektur für Umbruchsbehauptungen: die meisten „revolutionären“ Ereignisse sind Ebene-7-Ereignisse, keine Brüche im System.  
-  Leseproben: keine · [Manifest](books/revolution.yaml)
-- **Reife Unternehmen als KI 3.0 — Unverzichtbar im Dienst der Gesellschaft** — *stabil* *(engl. Titel: „Mature Companies as AI 3.0“)*  
-  Neue Einordnung von Künstlicher Intelligenz durch die Linse reifer Organisationen.  
-  Leseproben: keine · [Manifest](books/ai-3-0.yaml)
 - **Forschungsprogramm Medizin — Wissen & KI im Dienst der Gesundheit** — *stabil* *(engl. Titel: „Medicine — Knowledge & AI in Service of Health“)*  
   Referenzdomäne für strukturiertes Wissen und Entscheidungsfindung unter Ungewissheit.  
   Leseproben: keine · [Manifest](books/medicine.yaml)
 - **Research Program Dentistry — Knowledge & AI in Service of Health** — *stabil* *(nur auf Englisch erschienen; dt. Titel: „Forschungsprogramm Zahnmedizin — Wissen & KI im Dienst der Gesundheit“)*  
   Klinische Domänenanwendung, Edition 5, einzig auf Englisch und am häufigsten überarbeitet — das Buch, an dem der Programmzyklus am direktesten dokumentiert ist.  
   Leseproben: [Leseprobe EN](books/english/26_dentistry_en.pdf) · [Manifest](books/dentistry.yaml)
-
+- **Forschungsprogramm Revolution — Von feindseligem Umbruch zu friedvoller Entwicklung** — *stabil*  
+  Die Prüfarchitektur für Umbruchsbehauptungen: die meisten „revolutionären“ Ereignisse sind Ebene-7-Ereignisse, keine Brüche im System.  
+  Leseproben: keine · [Manifest](books/revolution.yaml)
+- **Reife Unternehmen als KI 3.0 — Unverzichtbar im Dienst der Gesellschaft** — *stabil* *(engl. Titel: „Mature Companies as AI 3.0“)*  
+  Neue Einordnung von Künstlicher Intelligenz durch die Linse reifer Organisationen.  
+  Leseproben: keine · [Manifest](books/ai-3-0.yaml)

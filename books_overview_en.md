@@ -68,16 +68,15 @@ Machine-readable details: one YAML manifest per book in [`books/`](books/). Back
 - **Research Program Legal Law — Knowledge & AI in Service of Justice** — *stable* *(German edition: „Forschungsprogramm Recht — Wissen & KI im Dienst des Wohlverhaltens”)*  
   A structured treatment of legal law as practiced decision-making under uncertainty.  
   Previews: none · [manifest](books/legal-law.yaml)
-- **Research Program Revolution — From Hostile Rupture to Peaceful Development** — *stable* *(German edition: „Forschungsprogramm Revolution — Von feindseligem Umbruch zu friedvoller Entwicklung”)*  
-  The testing architecture for claims of upheaval.  
-  Previews: none · [manifest](books/revolution.yaml)
-- **Mature Companies as AI 3.0** — *stable* *(German edition: „Reife Unternehmen als KI 3.0 — Unverzichtbar im Dienst der Gesellschaft”)*  
-  A reframing of artificial intelligence through the lens of mature organizations.  
-  Previews: none · [manifest](books/ai-3-0.yaml)
 - **Research Program Medicine — Knowledge & AI in Service of Health** — *stable* *(German edition: „Forschungsprogramm Medizin — Wissen & KI im Dienst der Gesundheit”)*  
   A reference domain for structured knowledge and decision-making under uncertainty.  
   Previews: none · [manifest](books/medicine.yaml)
 - **Research Program Dentistry — Knowledge & AI in Service of Health** — *stable*  
   Clinical domain application, edition 5, English-only and the most frequently revised volume — the book on which the program cycle (examination, feedback, new edition) is documented most directly.  
   Previews: [preview EN](books/english/26_dentistry_en.pdf) · [manifest](books/dentistry.yaml)
-
+- **Research Program Revolution — From Hostile Rupture to Peaceful Development** — *stable* *(German edition: „Forschungsprogramm Revolution — Von feindseligem Umbruch zu friedvoller Entwicklung”)*  
+  The testing architecture for claims of upheaval.  
+  Previews: none · [manifest](books/revolution.yaml)
+- **Mature Companies as AI 3.0** — *stable* *(German edition: „Reife Unternehmen als KI 3.0 — Unverzichtbar im Dienst der Gesellschaft”)*  
+  A reframing of artificial intelligence through the lens of mature organizations.  
+  Previews: none · [manifest](books/ai-3-0.yaml)
