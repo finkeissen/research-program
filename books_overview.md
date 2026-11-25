@@ -1,4 +1,6 @@
-# Book Overview
+# Ekkehard Finkeissen - Book Overview
+
+Deutsch: [books_overview.de.md](books_overview.de.md)
 
 This page lists every book of the Finkeissen Research Program with a one-line summary and direct links to the preview PDFs.
 

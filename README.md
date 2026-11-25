@@ -22,7 +22,7 @@ The full system architecture (Layers 0–6) is defined in:
 
 The public book layer — all volumes with one-line summaries and preview PDFs — is listed in:
 
-→ `books_overview.md`
+→ `books_overview.md` (English) · `books_overview.de.md` (Deutsch)
 
 This README explains how to approach the system.
 
@@ -97,8 +97,8 @@ To avoid misinterpretation, read in this order:
 1. `research-architecture.md`  
    → defines all layer boundaries, invariants, and failure modes
 
-2. `books_overview.md`  
-   → all books, one-line summaries, preview PDFs
+2. `books_overview.md` / `books_overview.de.md`  
+   → all books, one-line summaries, preview PDFs (English / German)
 
 3. `books/README.md`  
    → teaser rule and manifest field conventions
