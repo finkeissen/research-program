@@ -16,43 +16,43 @@ Machine-readable details: one YAML manifest per book in [`books/`](books/). Back
   Previews: [preview EN](books/english/08_bootloader_en.pdf) · [manifest](books/bootloader.yaml)
 - **Research Program Applied Ontology — Are Data, Information and Knowledge Real?** — *stable*  
   The operative implementation of the basic thesis.  
-  Previews: [preview DE](books/german/C2_ontology_de.pdf), [preview EN](books/english/C2_ontology_en.pdf) · [manifest](books/ontology.yaml)
+  Previews: [preview EN](books/english/C2_ontology_en.pdf), [preview DE](books/german/C2_ontology_de.pdf) · [manifest](books/ontology.yaml)
 - **The Physics Effect** — *stable*  
   A foundational grammar for understanding reality, knowledge, and decision-making based on effects, relations, and transformations rather than objects or representations.  
-  Previews: [preview DE](books/german/d8_physics-effect_de.pdf), [preview EN](books/english/d8_physics-effect_en.pdf) · [manifest](books/physics-effect.yaml)
+  Previews: [preview EN](books/english/d8_physics-effect_en.pdf), [preview DE](books/german/d8_physics-effect_de.pdf) · [manifest](books/physics-effect.yaml)
 - **Research Program in 7 Layers of Thinking — A Framework for Philosophical Orientation** — *stable*  
   A layered orientation model for reasoning, communication, decision-making, and responsibility.  
-  Previews: [preview DE](books/german/80_7-levels-of-thinking_de.pdf), [preview EN](books/english/80_7-levels-of-thinking_en.pdf) · [manifest](books/seven-layers-thinking.yaml)
+  Previews: [preview EN](books/english/80_7-levels-of-thinking_en.pdf), [preview DE](books/german/80_7-levels-of-thinking_de.pdf) · [manifest](books/seven-layers-thinking.yaml)
 
 ## Natural Sciences
 
 - **Research Program Spacetime — Game-Theoretic Entry into Physics and Chemistry** — *stable*  
   Early founding volume of the program on physics as model-making about notions of space and time.  
-  Previews: [preview DE](books/german/90_spacetime_de.pdf), [preview EN](books/english/90_spacetime_en.pdf) · [manifest](books/raumzeit.yaml)
+  Previews: [preview EN](books/english/90_spacetime_en.pdf), [preview DE](books/german/90_spacetime_de.pdf) · [manifest](books/raumzeit.yaml)
 - **Research Program Physics — Exploring the Atomic Context** — *stable*  
   Natural-science grounding of the program via the atomic context: cut, degree of compression and declared admissibility as the unit of measurement of every statement.  
-  Previews: [preview DE](books/german/44_physics_de.pdf), [preview EN](books/english/44_physics_en.pdf) · [manifest](books/physics.yaml)
+  Previews: [preview EN](books/english/44_physics_en.pdf), [preview DE](books/german/44_physics_de.pdf) · [manifest](books/physics.yaml)
 - **Research Program Chemistry — Emergent Objectification of Matter** — *stable*  
   Second natural-science founding volume: how matter appears objectively under given cuts, without the appearance being elevated into the measure of reality.  
-  Previews: [preview DE](books/german/34_chemistry_de.pdf), [preview EN](books/english/34_chemistry_en.pdf) · [manifest](books/chemistry.yaml)
+  Previews: [preview EN](books/english/34_chemistry_en.pdf), [preview DE](books/german/34_chemistry_de.pdf) · [manifest](books/chemistry.yaml)
 
 ## Human & Society
 
 - **Ego — A Journey Without Space and Time** — *stable*  
   An existential application of the research program at the level of the individual.  
-  Previews: [preview DE](books/german/J1_ego_de.pdf), [preview EN](books/english/j1_ego_en.pdf) · [manifest](books/ego.yaml)
+  Previews: [preview EN](books/english/j1_ego_en.pdf), [preview DE](books/german/J1_ego_de.pdf) · [manifest](books/ego.yaml)
 - **Research Program Life-Lies — Architecture of Human Self-Deception** — *stable*  
   The personal wrecking ball of the program.  
-  Previews: [preview DE](books/german/79_life-lies_de.pdf), [preview EN](books/english/79_life-lies_en.pdf) · [manifest](books/life-lies.yaml)
+  Previews: [preview EN](books/english/79_life-lies_en.pdf), [preview DE](books/german/79_life-lies_de.pdf) · [manifest](books/life-lies.yaml)
 - **Research Program Family — Passing on Life** — *stable*  
   Two-part book: compact main text (one thesis per paragraph), appendix with counterpositions and state of evidence.  
-  Previews: [preview DE](books/german/g0_familie_de.pdf), [preview EN](books/english/g0_family_en.pdf) · [manifest](books/family.yaml)
+  Previews: [preview EN](books/english/g0_family_en.pdf), [preview DE](books/german/g0_familie_de.pdf) · [manifest](books/family.yaml)
 - **Psychology — Maturity as Structural Capacity** — *stable*  
   A structural reframing of psychology focused on maturity as a functional capacity.  
-  Previews: [preview DE](books/german/45_phychology_de.pdf), [preview EN](books/english/45_phychology_en.pdf) · [manifest](books/psychology.yaml)
+  Previews: [preview EN](books/english/45_phychology_en.pdf), [preview DE](books/german/45_phychology_de.pdf) · [manifest](books/psychology.yaml)
 - **Research Program God — From Wish to Examination** — *stable*  
   The originating question of the program.  
-  Previews: [preview DE](books/german/74_god_de.pdf), [preview EN](books/english/74_god_en.pdf) · [manifest](books/god.yaml)
+  Previews: [preview EN](books/english/74_god_en.pdf), [preview DE](books/german/74_god_de.pdf) · [manifest](books/god.yaml)
 - **Research Program Language — Linguistic Forensics as a Tool** — *planned*  
   Planned volume 18 (master plan): language as the place where cuts are set and concealed; linguistic forensics as a testing tool for concept piracy and meaning shift.  
   Previews: none · [manifest](books/language.yaml)
@@ -61,13 +61,13 @@ Machine-readable details: one YAML manifest per book in [`books/`](books/). Back
 
 - **Economics — Sincerity in the Macro-Organism World** — *stable*  
   A structural reframing of economics as coordination under uncertainty.  
-  Previews: [preview DE](books/german/36_economics_de.pdf), [preview EN](books/english/36_economics_en.pdf) · [manifest](books/economics.yaml)
+  Previews: [preview EN](books/english/36_economics_en.pdf), [preview DE](books/german/36_economics_de.pdf) · [manifest](books/economics.yaml)
 - **Politics — The Power of Humility** — *stable*  
   A reframing of politics as the coordination of mature actors under conditions of power, conflict, and uncertainty.  
-  Previews: [preview DE](books/german/42_politics_de.pdf), [preview EN](books/english/42_politics_en.pdf) · [manifest](books/politics.yaml)
+  Previews: [preview EN](books/english/42_politics_en.pdf), [preview DE](books/german/42_politics_de.pdf) · [manifest](books/politics.yaml)
 - **Research Program State — Testing Instead of Theory** — *stable*  
   Published domain volume on the state as the coordination structure of collective action: legitimacy, monopoly of force, law-making and administration as the operative controllability of cuts at the level of society.  
-  Previews: [preview DE](books/german/86_state_de.pdf), [preview EN](books/english/86_state_en.pdf) · [manifest](books/staat.yaml)
+  Previews: [preview EN](books/english/86_state_en.pdf), [preview DE](books/german/86_state_de.pdf) · [manifest](books/staat.yaml)
 - **Legal Law — Knowledge & AI in Service of Justice** — *stable*  
   A structured treatment of legal law as practiced decision-making under uncertainty.  
   Previews: none · [manifest](books/legal-law.yaml)
