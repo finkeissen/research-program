@@ -65,18 +65,18 @@ Machine-readable details: one YAML manifest per book in [`books/`](books/){targe
 - **Research Program State — Testing Instead of Theory** — *stable*  
   Published domain volume on the state as the coordination structure of collective action: legitimacy, monopoly of force, law-making and administration as the operative controllability of cuts at the level of society.  
   Previews: [preview EN](books/english/86_state_en.pdf){target=_blank}, [preview DE](books/german/86_state_de.pdf){target=_blank} · [manifest](books/staat.yaml){target=_blank}
-- **Research Program Legal Law — Knowledge & AI in Service of Justice** — *stable* *(German edition: „Forschungsprogramm Recht — Wissen & KI im Dienst des Wohlverhaltens” — full volume with the author, no teaser in this repository)*  
+- **Research Program Legal Law — Knowledge & AI in Service of Justice** — *stable* *(German edition: „Forschungsprogramm Recht — Wissen & KI im Dienst des Wohlverhaltens”)*  
   A structured treatment of legal law as practiced decision-making under uncertainty.  
-  Previews: none · [manifest](books/legal-law.yaml){target=_blank}
-- **Research Program Medicine — Knowledge & AI in Service of Health** — *stable* *(German edition: „Forschungsprogramm Medizin — Wissen & KI im Dienst der Gesundheit” — full volume with the author, no teaser in this repository)*  
+  Previews: [preview EN](books/english/b9_legal-law_en.pdf){target=_blank}, [preview DE](books/german/b9_legal-law_de.pdf){target=_blank} · [manifest](books/legal-law.yaml){target=_blank}
+- **Research Program Medicine — Knowledge & AI in Service of Health** — *stable* *(German edition: „Forschungsprogramm Medizin — Wissen & KI im Dienst der Gesundheit”)*  
   A reference domain for structured knowledge and decision-making under uncertainty.  
-  Previews: none · [manifest](books/medicine.yaml){target=_blank}
+  Previews: [preview EN](books/english/u3_medicine_en.pdf){target=_blank}, [preview DE](books/german/u2_medicine_de.pdf){target=_blank} · [manifest](books/medicine.yaml){target=_blank}
 - **Research Program Dentistry — Knowledge & AI in Service of Health** — *stable*  
   Clinical domain application, edition 5, English-only and the most frequently revised volume — the book on which the program cycle (examination, feedback, new edition) is documented most directly.  
   Previews: [preview EN](books/english/26_dentistry_en.pdf){target=_blank} · [manifest](books/dentistry.yaml){target=_blank}
-- **Research Program Revolution — From Hostile Rupture to Peaceful Development** — *stable* *(German edition: „Forschungsprogramm Revolution — Von feindseligem Umbruch zu friedvoller Entwicklung” — full volume with the author, no teaser in this repository)*  
+- **Research Program Revolution — From Hostile Rupture to Peaceful Development** — *stable* *(German edition: „Forschungsprogramm Revolution — Von feindseligem Umbruch zu friedvoller Entwicklung”)*  
   The testing architecture for claims of upheaval.  
-  Previews: none · [manifest](books/revolution.yaml){target=_blank}
-- **Mature Companies as AI 3.0** — *stable* *(German edition: „Reife Unternehmen als KI 3.0 — Unverzichtbar im Dienst der Gesellschaft” — full volume with the author, no teaser in this repository)*  
+  Previews: [preview EN](books/english/91_revolution_en.pdf){target=_blank}, [preview DE](books/german/91_revolution_de.pdf){target=_blank} · [manifest](books/revolution.yaml){target=_blank}
+- **Mature Companies as AI 3.0** — *stable* *(German edition: „Reife Unternehmen als KI 3.0 — Unverzichtbar im Dienst der Gesellschaft”)*  
   A reframing of artificial intelligence through the lens of mature organizations.  
-  Previews: none · [manifest](books/ai-3-0.yaml){target=_blank}
+  Previews: [preview EN](books/english/49_ai-3-0_en.pdf){target=_blank}, [preview DE](books/german/49_ai-3-0_de.pdf){target=_blank} · [manifest](books/ai-3-0.yaml){target=_blank}

@@ -65,18 +65,18 @@ Maschinenlesbare Details: ein YAML-Manifest pro Buch in [`books/`](books/){targe
 - **Forschungsprogramm Staat — Organisation legitimer Ordnung** — *stabil*  
   Veröffentlichter Domänenband über den Staat als Koordinationsstruktur kollektiven Handelns: Legitimität, Gewaltmonopol, Rechtsetzung und Verwaltung.  
   Leseproben: [Leseprobe DE](books/german/86_state_de.pdf){target=_blank}, [Leseprobe EN](books/english/86_state_en.pdf){target=_blank} · [Manifest](books/staat.yaml){target=_blank}
-- **Forschungsprogramm Recht — Wissen & KI im Dienst des Wohlverhaltens** — *stabil* *(englische Ausgabe: „Research Program Legal Law — Knowledge & AI in Service of Justice“ — Vollband beim Autor, keine Leseprobe im Repo)*  
+- **Forschungsprogramm Recht — Wissen & KI im Dienst des Wohlverhaltens** — *stabil* *(englische Ausgabe: „Research Program Legal Law — Knowledge & AI in Service of Justice“)*  
   Strukturierte Behandlung des Rechts als praktizierte Entscheidungsfindung unter Ungewissheit.  
-  Leseproben: keine · [Manifest](books/legal-law.yaml){target=_blank}
-- **Forschungsprogramm Medizin — Wissen & KI im Dienst der Gesundheit** — *stabil* *(englische Ausgabe: „Research Program Medicine — Knowledge & AI in Service of Health“ — Vollband beim Autor, keine Leseprobe im Repo)*  
+  Leseproben: [Leseprobe DE](books/german/b9_legal-law_de.pdf){target=_blank}, [Leseprobe EN](books/english/b9_legal-law_en.pdf){target=_blank} · [Manifest](books/legal-law.yaml){target=_blank}
+- **Forschungsprogramm Medizin — Wissen & KI im Dienst der Gesundheit** — *stabil* *(englische Ausgabe: „Research Program Medicine — Knowledge & AI in Service of Health“)*  
   Referenzdomäne für strukturiertes Wissen und Entscheidungsfindung unter Ungewissheit.  
-  Leseproben: keine · [Manifest](books/medicine.yaml){target=_blank}
+  Leseproben: [Leseprobe DE](books/german/u2_medicine_de.pdf){target=_blank}, [Leseprobe EN](books/english/u3_medicine_en.pdf){target=_blank} · [Manifest](books/medicine.yaml){target=_blank}
 - **Research Program Dentistry — Knowledge & AI in Service of Health** — *stabil* *(nur auf Englisch erschienen; dt. Titel: „Forschungsprogramm Zahnmedizin — Wissen & KI im Dienst der Gesundheit“)*  
   Klinische Domänenanwendung, Edition 5, einzig auf Englisch und am häufigsten überarbeitet — das Buch, an dem der Programmzyklus am direktesten dokumentiert ist.  
   Leseproben: [Leseprobe EN](books/english/26_dentistry_en.pdf){target=_blank} · [Manifest](books/dentistry.yaml){target=_blank}
-- **Forschungsprogramm Revolution — Von feindseligem Umbruch zu friedvoller Entwicklung** — *stabil* *(englische Ausgabe: „Research Program Revolution — From Hostile Rupture to Peaceful Development“ — Vollband beim Autor, keine Leseprobe im Repo)*  
+- **Forschungsprogramm Revolution — Von feindseligem Umbruch zu friedvoller Entwicklung** — *stabil* *(englische Ausgabe: „Research Program Revolution — From Hostile Rupture to Peaceful Development“)*  
   Die Prüfarchitektur für Umbruchsbehauptungen: die meisten „revolutionären“ Ereignisse sind Ebene-7-Ereignisse, keine Brüche im System.  
-  Leseproben: keine · [Manifest](books/revolution.yaml){target=_blank}
-- **Reife Unternehmen als KI 3.0 — Unverzichtbar im Dienst der Gesellschaft** — *stabil* *(englische Ausgabe: „Mature Companies as AI 3.0“ — Vollband beim Autor, keine Leseprobe im Repo)*  
+  Leseproben: [Leseprobe DE](books/german/91_revolution_de.pdf){target=_blank}, [Leseprobe EN](books/english/91_revolution_en.pdf){target=_blank} · [Manifest](books/revolution.yaml){target=_blank}
+- **Reife Unternehmen als KI 3.0 — Unverzichtbar im Dienst der Gesellschaft** — *stabil* *(englische Ausgabe: „Mature Companies as AI 3.0“)*  
   Neue Einordnung von Künstlicher Intelligenz durch die Linse reifer Organisationen.  
-  Leseproben: keine · [Manifest](books/ai-3-0.yaml){target=_blank}
+  Leseproben: [Leseprobe DE](books/german/49_ai-3-0_de.pdf){target=_blank}, [Leseprobe EN](books/english/49_ai-3-0_en.pdf){target=_blank} · [Manifest](books/ai-3-0.yaml){target=_blank}
