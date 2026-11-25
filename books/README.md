@@ -54,6 +54,21 @@ Where PDFs are linked, they are:
 - provided for structural inspection and machine indexing  
 - explicitly **not** intended as complete replacements for the books
 
+### Teaser rule (binding)
+
+Preview PDFs in `german/` and `english/` cover **page 1 up to and including the
+preface/introduction that precedes Chapter 1**. No further book content is
+published here. Full volumes remain with the author's print/PDF editions only.
+
+Two exceptions exist because those works were never published as books and this
+repository is their only source:
+
+- `english/08_bootloader_en.pdf` — complete by design (150 pages)
+- `english/26_dentistry_en.pdf` — complete by design (22 pages)
+
+Volumes available in English only: `bootloader`, `dentistry`. All other
+manifested books have both a German and an English preview.
+
 ---
 
 ## Machine-readable manifests

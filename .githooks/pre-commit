@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+# Teaser rule: never commit full books. Only page 1..preface of chapter 1.
+# Exceptions (not published as books, repo is sole source): bootloader, dentistry.
+fail=0
+max=${TEASER_MAX_PAGES:-60}
+exceptions="english/08_bootloader_en.pdf english/26_dentistry_en.pdf"
+
+staged=$(git diff --cached --name-only --diff-filter=ACM | grep -E '^books/(german|english)/.*\.pdf$' || true)
+[ -z "$staged" ] && exit 0
+
+for f in $staged; do
+  if echo "$exceptions" | grep -qx "$f"; then continue; fi
+  pages=$(pdfinfo "$f" 2>/dev/null | awk '/^Pages/{print $2}')
+  [ -z "$pages" ] && { echo "pre-commit: pdfinfo fehlt fuer $f"; fail=1; continue; }
+  if [ "$pages" -gt "$max" ]; then
+    echo "BLOCKED: $f hat $pages Seiten (> $max). Buecher-PDFs duerfen nicht committet werden;"
+    echo "         erlaubt sind nur Teaser bis inkl. Einleitung zu Kapitel 1."
+    echo "         Ausnahme nur fuer bootloader/dentistry (nicht als Buch veroeffentlicht)."
+    fail=1
+  else
+    echo "ok: $f ($pages Seiten)"
+  fi
+done
+exit $fail
