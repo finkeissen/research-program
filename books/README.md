@@ -60,6 +60,10 @@ Preview PDFs in `german/` and `english/` cover **page 1 up to and including the
 preface/introduction that precedes Chapter 1**. No further book content is
 published here. Full volumes remain with the author's print/PDF editions only.
 
+All PDFs in this folder are **not** covered by the repository's AGPL licence:
+they remain all rights reserved by the author. Teasers are provided for
+personal reading only — no redistribution, modification or commercial use.
+
 Two exceptions exist because those works were never published as books and this
 repository is their only source:
 
