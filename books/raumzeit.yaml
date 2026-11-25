@@ -1,13 +1,14 @@
 id: raumzeit
-title: Forschungsprogramm Raumzeit — Reichweite und Grenzen von Modellen
+title: Research Program Spacetime — Game-Theoretic Entry into Physics and Chemistry
+title-de: "Forschungsprogramm Raumzeit — Reichweite und Grenzen von Modellen"
 type: book
 role: natural-science-foundation
 status: stable
 
 abstract: >
-  Frueher Grundungsband des Programms ueber Physik als Modellbildung zu
+  Früher Grundungsband des Programms über Physik als Modellbildung zu
   Raum- und Zeitvorstellungen. Der umfangreichste fertige Bestand (88
-  PDF-Fassungen) bildet die physikalische Folie, auf der spaeter die Baende
+  PDF-Fassungen) bildet die physikalische Folie, auf der später die Bände
   Physik-Effekt (UrGrammatik) und Physik (atomarer Kontext) aufsetzen.
 
 core-assumptions:

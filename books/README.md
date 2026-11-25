@@ -69,11 +69,17 @@ repository is their only source:
 Volumes available in English only: `bootloader`, `dentistry`. All other
 manifested books have both a German and an English preview.
 
+Some previews end with the **preface** rather than the introduction to Chapter 1,
+because that is where the author's own teaser edition stopped (`ego`,
+`physics-effect`). This is permitted: a teaser may be shorter than the rule's
+upper bound, never longer. No preview contains Chapter 1 body text.
+
 ---
 
 ## Machine-readable manifests
 
-The core of this repository is the `manifests/` directory.
+The manifests live in the `books/` directory, one YAML file per book or core
+artifact. The filename is always the manifest's `id`, written in English.
 
 Each manifest file:
 
@@ -87,6 +93,18 @@ The manifests are **not content representations**.
 They intentionally avoid summaries, abstracts, or tables of contents.
 
 Their function is **structural**, not descriptive.
+
+### Field conventions
+
+- `id` — English slug, identical to the filename  
+- `title` — English book title as printed on the title page  
+- `title-de` — German original title, where one exists  
+- `status` — one of:
+  - `planned` — announced, no finished volume yet
+  - `draft` — a working manuscript exists, not a final edition
+  - `stable` — finished and published in at least one language
+- `artifacts.references.preview-de` / `-en` — teaser PDFs tracked in this repository  
+- `artifacts.source` — location of the full volume with the author (never committed here)
 
 ---
 

@@ -93,13 +93,10 @@ To avoid misinterpretation, read in this order:
 1. `research-architecture.md`  
    → defines all layer boundaries, invariants, and failure modes
 
-2. `STATUS.md`  
-   → defines what is structurally binding and what is not
+2. `books/README.md`  
+   → teaser rule and manifest field conventions
 
-3. `MATRIX-HOW-TO-READ.md`  
-   → explains admissibility behavior (STOP / Absence)
-
-4. Domain materials  
+3. Domain materials  
    → `/books/*` and domain folders in this repository
 
 Reading out of order may lead to category errors.
