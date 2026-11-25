@@ -66,8 +66,11 @@ repository is their only source:
 - `english/08_bootloader_en.pdf` — complete by design (150 pages)
 - `english/26_dentistry_en.pdf` — complete by design (22 pages)
 
-Volumes available in English only: `bootloader`, `dentistry`. All other
-manifested books have both a German and an English preview.
+Volumes available in English only: `bootloader`, `dentistry`. Not every volume has
+a preview here yet: `ai-3-0`, `legal-law`, `medicine` and `revolution` are finished
+books without a teaser in this repository (their full volumes remain with the
+author), and the planned/draft volumes `history`, `language`, `science` and
+`effect` have no preview by definition.
 
 Some previews end with the **preface** rather than the introduction to Chapter 1,
 because that is where the author's own teaser edition stopped (`ego`,
