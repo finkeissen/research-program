@@ -68,16 +68,16 @@ Maschinenlesbare Details: ein YAML-Manifest pro Buch in [`books/`](books/). Hint
 - **Forschungsprogramm Staat — Organisation legitimer Ordnung** — *stabil*  
   Veröffentlichter Domänenband über den Staat als Koordinationsstruktur kollektiven Handelns: Legitimität, Gewaltmonopol, Rechtsetzung und Verwaltung.  
   Leseproben: [Leseprobe DE](books/german/86_state_de.pdf), [Leseprobe EN](books/english/86_state_en.pdf) · [Manifest](books/staat.yaml)
-- **Legal Law — Knowledge & AI in Service of Justice** — *stabil* *(nur auf Englisch erschienen; dt. Titel: „Recht — Wissen & KI im Dienst der Gerechtigkeit“)*  
+- **Forschungsprogramm Recht — Wissen & KI im Dienst des Wohlverhaltens** — *stabil* *(engl. Titel: „Legal Law — Knowledge & AI in Service of Justice“)*  
   Strukturierte Behandlung des Rechts als praktizierte Entscheidungsfindung unter Ungewissheit.  
   Leseproben: keine · [Manifest](books/legal-law.yaml)
 - **Forschungsprogramm Revolution — Von feindseligem Umbruch zu friedvoller Entwicklung** — *stabil*  
   Die Prüfarchitektur für Umbruchsbehauptungen: die meisten „revolutionären“ Ereignisse sind Ebene-7-Ereignisse, keine Brüche im System.  
   Leseproben: keine · [Manifest](books/revolution.yaml)
-- **Mature Companies as AI 3.0** — *stabil* *(nur auf Englisch erschienen; dt. Titel: „Reife Unternehmen als KI 3.0“)*  
+- **Reife Unternehmen als KI 3.0 — Unverzichtbar im Dienst der Gesellschaft** — *stabil* *(engl. Titel: „Mature Companies as AI 3.0“)*  
   Neue Einordnung von Künstlicher Intelligenz durch die Linse reifer Organisationen.  
   Leseproben: keine · [Manifest](books/ai-3-0.yaml)
-- **Medicine — Knowledge & AI in Service of Health** — *stabil* *(nur auf Englisch erschienen; dt. Titel: „Medizin — Wissen & KI im Dienst der Gesundheit“)*  
+- **Forschungsprogramm Medizin — Wissen & KI im Dienst der Gesundheit** — *stabil* *(engl. Titel: „Medicine — Knowledge & AI in Service of Health“)*  
   Referenzdomäne für strukturiertes Wissen und Entscheidungsfindung unter Ungewissheit.  
   Leseproben: keine · [Manifest](books/medicine.yaml)
 - **Research Program Dentistry — Knowledge & AI in Service of Health** — *stabil* *(nur auf Englisch erschienen; dt. Titel: „Forschungsprogramm Zahnmedizin — Wissen & KI im Dienst der Gesundheit“)*  
