@@ -73,7 +73,8 @@ repository is their only source:
 Volumes available in English only: `bootloader`, `dentistry`. Not every volume has
 a preview here yet: `ai-3-0`, `legal-law`, `medicine` and `revolution` are finished
 books without a teaser in this repository (their full volumes remain with the
-author). The planned volume `language` has no preview by definition. Volumes not
+author). The draft volume `language` (announced, not finished) has no preview by
+definition. Volumes not
 yet finished are not manifested here at all.
 
 Some previews end with the **preface** rather than the introduction to Chapter 1,

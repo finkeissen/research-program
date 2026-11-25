@@ -47,28 +47,25 @@ Machine-readable details: one YAML manifest per book in [`books/`](books/). Back
 - **Research Program Family — Passing on Life** — *stable*  
   Two-part book: compact main text (one thesis per paragraph), appendix with counterpositions and state of evidence.  
   Previews: [preview EN](books/english/g0_family_en.pdf), [preview DE](books/german/g0_familie_de.pdf) · [manifest](books/family.yaml)
-- **Psychology — Maturity as Structural Capacity** — *stable*  
+- **Research Program Psychology — Maturity as Structural Capacity** — *stable*  
   A structural reframing of psychology focused on maturity as a functional capacity.  
   Previews: [preview EN](books/english/45_phychology_en.pdf), [preview DE](books/german/45_phychology_de.pdf) · [manifest](books/psychology.yaml)
 - **Research Program God — From Wish to Examination** — *stable*  
   The originating question of the program.  
   Previews: [preview EN](books/english/74_god_en.pdf), [preview DE](books/german/74_god_de.pdf) · [manifest](books/god.yaml)
-- **Research Program Language — Linguistic Forensics as a Tool** — *planned*  
-  Planned volume 18 (master plan): language as the place where cuts are set and concealed; linguistic forensics as a testing tool for concept piracy and meaning shift.  
-  Previews: none · [manifest](books/language.yaml)
 
 ## Domains of Collective Life
 
-- **Economics — Sincerity in the Macro-Organism World** — *stable*  
+- **Research Program Economics — Sincerity in the Macro-Organism World** — *stable*  
   A structural reframing of economics as coordination under uncertainty.  
   Previews: [preview EN](books/english/36_economics_en.pdf), [preview DE](books/german/36_economics_de.pdf) · [manifest](books/economics.yaml)
-- **Politics — The Power of Humility** — *stable*  
+- **Research Program Politics — The Power of Humility** — *stable*  
   A reframing of politics as the coordination of mature actors under conditions of power, conflict, and uncertainty.  
   Previews: [preview EN](books/english/42_politics_en.pdf), [preview DE](books/german/42_politics_de.pdf) · [manifest](books/politics.yaml)
 - **Research Program State — Testing Instead of Theory** — *stable*  
   Published domain volume on the state as the coordination structure of collective action: legitimacy, monopoly of force, law-making and administration as the operative controllability of cuts at the level of society.  
   Previews: [preview EN](books/english/86_state_en.pdf), [preview DE](books/german/86_state_de.pdf) · [manifest](books/staat.yaml)
-- **Legal Law — Knowledge & AI in Service of Justice** — *stable* *(German edition: „Forschungsprogramm Recht — Wissen & KI im Dienst des Wohlverhaltens”)*  
+- **Research Program Legal Law — Knowledge & AI in Service of Justice** — *stable* *(German edition: „Forschungsprogramm Recht — Wissen & KI im Dienst des Wohlverhaltens”)*  
   A structured treatment of legal law as practiced decision-making under uncertainty.  
   Previews: none · [manifest](books/legal-law.yaml)
 - **Research Program Revolution — From Hostile Rupture to Peaceful Development** — *stable* *(German edition: „Forschungsprogramm Revolution — Von feindseligem Umbruch zu friedvoller Entwicklung”)*  
@@ -77,7 +74,7 @@ Machine-readable details: one YAML manifest per book in [`books/`](books/). Back
 - **Mature Companies as AI 3.0** — *stable* *(German edition: „Reife Unternehmen als KI 3.0 — Unverzichtbar im Dienst der Gesellschaft”)*  
   A reframing of artificial intelligence through the lens of mature organizations.  
   Previews: none · [manifest](books/ai-3-0.yaml)
-- **Medicine — Knowledge & AI in Service of Health** — *stable* *(German edition: „Forschungsprogramm Medizin — Wissen & KI im Dienst der Gesundheit”)*  
+- **Research Program Medicine — Knowledge & AI in Service of Health** — *stable* *(German edition: „Forschungsprogramm Medizin — Wissen & KI im Dienst der Gesundheit”)*  
   A reference domain for structured knowledge and decision-making under uncertainty.  
   Previews: none · [manifest](books/medicine.yaml)
 - **Research Program Dentistry — Knowledge & AI in Service of Health** — *stable*  

@@ -53,9 +53,6 @@ Maschinenlesbare Details: ein YAML-Manifest pro Buch in [`books/`](books/). Hint
 - **Forschungsprogramm Gott — Vom Wunsch zur Prüfung** — *stabil*  
   Die Ursprungsfrage des Programms: das Isolationsargument — die Gottesfrage ist nur stellbar, wenn alle geliehenen Fundamente systematisch entfernt werden.  
   Leseproben: [Leseprobe DE](books/german/74_god_de.pdf), [Leseprobe EN](books/english/74_god_en.pdf) · [Manifest](books/god.yaml)
-- **Forschungsprogramm Sprache — Linguistische Forensik als Werkzeug** — *geplant*  
-  Geplanter Band 18: Sprache als Ort, an dem Schnitte gesetzt und verschleiert werden; linguistische Forensik als Prüfwerkzeug.  
-  Leseproben: keine · [Manifest](books/language.yaml)
 
 ## Domänen kollektiven Lebens
 
