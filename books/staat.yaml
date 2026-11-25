@@ -32,7 +32,6 @@ relations:
   informs:
     - politics
     - economics
-    - history
 
 artifacts:
   references:

@@ -23,12 +23,6 @@ Machine-readable details: one YAML manifest per book in [`books/`](books/). Back
 - **Research Program in 7 Layers of Thinking — A Framework for Philosophical Orientation** — *stable*  
   A layered orientation model for reasoning, communication, decision-making, and responsibility.  
   Previews: [preview DE](books/german/80_7-levels-of-thinking_de.pdf), [preview EN](books/english/80_7-levels-of-thinking_en.pdf) · [manifest](books/seven-layers-thinking.yaml)
-- **Research Program Effect — The Architecture of Maturation** — *draft*  
-  Not yet published.  
-  Previews: none · [manifest](books/effect.yaml)
-- **Research Program Science — Synthesis Volume** — *planned*  
-  Planned volume 19: synthesis and comparison of all domain volumes under one set of criteria; candidate for the central guiding question (how do we solve problems without losing ourselves in our own answers?).  
-  Previews: none · [manifest](books/science.yaml)
 
 ## Natural Sciences
 
@@ -59,9 +53,6 @@ Machine-readable details: one YAML manifest per book in [`books/`](books/). Back
 - **Research Program God — From Wish to Examination** — *stable*  
   The originating question of the program.  
   Previews: [preview DE](books/german/74_god_de.pdf), [preview EN](books/english/74_god_en.pdf) · [manifest](books/god.yaml)
-- **Research Program History — Narratives and Reality** — *planned*  
-  Independent project alongside the main pipeline: history structured not chronologically but by deception mechanisms (five types: concept piracy, total falsification, perpetrator-victim reversal, selective silence, hero myths; eight analytical axes; the fear-guilt-shame- powerlessness cascade).  
-  Previews: none · [manifest](books/history.yaml)
 - **Research Program Language — Linguistic Forensics as a Tool** — *planned*  
   Planned volume 18 (master plan): language as the place where cuts are set and concealed; linguistic forensics as a testing tool for concept piracy and meaning shift.  
   Previews: none · [manifest](books/language.yaml)

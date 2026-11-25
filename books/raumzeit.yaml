@@ -30,7 +30,6 @@ relations:
     - physics
     - chemistry
     - ontology
-    - science
 
 artifacts:
   references:

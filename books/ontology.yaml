@@ -28,7 +28,6 @@ relations:
     - seven-layers-thinking
   enables:
     - language
-    - science
 artifacts:
   references:
     preview-de:

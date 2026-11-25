@@ -23,12 +23,6 @@ Maschinenlesbare Details: ein YAML-Manifest pro Buch in [`books/`](books/). Hint
 - **Forschungsprogramm in 7 Denkebenen — Rahmenwerk für Philosophie, Wissenschaft & Technik** — *stabil*  
   Schichtenmodell zur Orientierung im Denken, Kommunizieren, Entscheiden und Verantworten.  
   Leseproben: [Leseprobe DE](books/german/80_7-levels-of-thinking_de.pdf), [Leseprobe EN](books/english/80_7-levels-of-thinking_en.pdf) · [manifest](books/seven-layers-thinking.yaml)
-- **Forschungsprogramm Wirkung — Die Architektur der Reifung** — *Entwurf*  
-  Noch nicht veröffentlicht; beschreibt, unter welchen Bedingungen Wissensbestände reifen und wirken — die Ebene zwischen Struktur (Repository) und Bedeutung (Buch).  
-  Leseproben: keine · [manifest](books/effect.yaml)
-- **Forschungsprogramm Wissenschaft — Syntheseband** — *geplant*  
-  Geplanter Band 19: Zusammenfassung und Abgleich aller Domänenbände unter einem Kriteriensatz.  
-  Leseproben: keine · [manifest](books/science.yaml)
 
 ## Naturwissenschaften
 
@@ -59,9 +53,6 @@ Maschinenlesbare Details: ein YAML-Manifest pro Buch in [`books/`](books/). Hint
 - **Forschungsprogramm Gott — Vom Wunsch zur Prüfung** — *stabil*  
   Die Ursprungsfrage des Programms: das Isolationsargument — die Gottesfrage ist nur stellbar, wenn alle geliehenen Fundamente systematisch entfernt werden.  
   Leseproben: [Leseprobe DE](books/german/74_god_de.pdf), [Leseprobe EN](books/english/74_god_en.pdf) · [manifest](books/god.yaml)
-- **Die Rekonstruktion der Vergangenheit — Lügen, die man uns vorgesetzt haben** — *geplant*  
-  Eigenständiges Projekt: Geschichte nicht chronologisch, sondern nach Täuschungsmechanismen strukturiert (fünf Typen, acht Analyse-Achsen).  
-  Leseproben: keine · [manifest](books/history.yaml)
 - **Forschungsprogramm Sprache — Linguistische Forensik als Werkzeug** — *geplant*  
   Geplanter Band 18: Sprache als Ort, an dem Schnitte gesetzt und verschleiert werden; linguistische Forensik als Prüfwerkzeug.  
   Leseproben: keine · [manifest](books/language.yaml)
