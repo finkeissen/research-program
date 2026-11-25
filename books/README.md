@@ -76,8 +76,13 @@ yet finished are not manifested here at all.
 
 Some previews end with the **preface** rather than the introduction to Chapter 1,
 because that is where the author's own teaser edition stopped (`ego`,
-`physics-effect`). This is permitted: a teaser may be shorter than the rule's
-upper bound, never longer. No preview contains Chapter 1 body text.
+`physics-effect`). In a few older teasers the cut falls one or two pages inside
+the preface block itself (mid-list or mid-section, e.g. `spacetime`), and some
+prefaces include short forward-looking sections ("Open Questions", "Starting
+Point", "Exemplary Future") that run past the page where Chapter 1 starts; those
+sections are part of the preface apparatus, not Chapter 1 body text. This is
+permitted: a teaser may be shorter than the rule's upper bound, never longer.
+No preview contains Chapter 1 body text.
 
 ---
 
