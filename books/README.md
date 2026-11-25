@@ -56,8 +56,9 @@ Where PDFs are linked, they are:
 
 ### Teaser rule (binding)
 
-Preview PDFs in `german/` and `english/` cover **page 1 up to and including the
-preface/introduction that precedes Chapter 1**. No further book content is
+Preview PDFs in `german/` and `english/` cover **page 1 through the table of
+contents and the preface, plus the opening of Chapter 1 (a few pages into it)** —
+enough to give a real impression of the book. No further book content is
 published here. Full volumes remain with the author's print/PDF editions only.
 
 All PDFs in this folder are **not** covered by the repository's AGPL licence:
@@ -74,15 +75,12 @@ Volumes available in English only: `bootloader`, `dentistry`. The draft volume
 `language` (announced, not finished) has no preview by definition. Volumes not
 yet finished are not manifested here at all.
 
-Some previews end with the **preface** rather than the introduction to Chapter 1,
-because that is where the author's own teaser edition stopped (`ego`,
-`physics-effect`). In a few older teasers the cut falls one or two pages inside
-the preface block itself (mid-list or mid-section, e.g. `spacetime`), and some
-prefaces include short forward-looking sections ("Open Questions", "Starting
-Point", "Exemplary Future") that run past the page where Chapter 1 starts; those
-sections are part of the preface apparatus, not Chapter 1 body text. This is
-permitted: a teaser may be shorter than the rule's upper bound, never longer.
-No preview contains Chapter 1 body text.
+Some older previews end with the **preface** rather than a few pages into
+Chapter 1, because that is where the author's own teaser edition stopped (`ego`,
+`physics-effect`) or fell short inside the preface block (e.g. `spacetime`).
+This is permitted: a teaser may be shorter than the rule's upper bound, never
+longer. No preview beyond the four re-cut teasers (`legal-law`, `medicine`,
+`ai-3-0`, `revolution`) contains Chapter 1 body text.
 
 ---
 
