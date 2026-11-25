@@ -11,7 +11,7 @@ Maschinenlesbare Details: ein YAML-Manifest pro Buch in [`books/`](books/). Hint
 
 ## Grundlagen & Methode
 
-- **Bootloader for the Research Program** — *stabil* *(Buch nur auf Englisch erschienen)*  
+- **Bootloader for the Research Program** — *stabil* *(nur auf Englisch erschienen; dt. Titel: „Bootloader für das Forschungsprogramm“)*  
   Eine Initialisierungsebene für menschliches und maschinelles Denken.  
   Leseproben: [Leseprobe EN](books/english/08_bootloader_en.pdf) · [Manifest](books/bootloader.yaml)
 - **Forschungsprogramm Ontologie — Sind Daten, Informationen & Wissen real?** — *stabil*  
@@ -68,19 +68,19 @@ Maschinenlesbare Details: ein YAML-Manifest pro Buch in [`books/`](books/). Hint
 - **Forschungsprogramm Staat — Organisation legitimer Ordnung** — *stabil*  
   Veröffentlichter Domänenband über den Staat als Koordinationsstruktur kollektiven Handelns: Legitimität, Gewaltmonopol, Rechtsetzung und Verwaltung.  
   Leseproben: [Leseprobe DE](books/german/86_state_de.pdf), [Leseprobe EN](books/english/86_state_en.pdf) · [Manifest](books/staat.yaml)
-- **Legal Law — Knowledge & AI in Service of Justice** — *stabil* *(Buch nur auf Englisch erschienen)*  
+- **Legal Law — Knowledge & AI in Service of Justice** — *stabil* *(nur auf Englisch erschienen; dt. Titel: „Recht — Wissen & KI im Dienst der Gerechtigkeit“)*  
   Strukturierte Behandlung des Rechts als praktizierte Entscheidungsfindung unter Ungewissheit.  
   Leseproben: keine · [Manifest](books/legal-law.yaml)
 - **Forschungsprogramm Revolution — Von feindseligem Umbruch zu friedvoller Entwicklung** — *stabil*  
   Die Prüfarchitektur für Umbruchsbehauptungen: die meisten „revolutionären“ Ereignisse sind Ebene-7-Ereignisse, keine Brüche im System.  
   Leseproben: keine · [Manifest](books/revolution.yaml)
-- **Mature Companies as AI 3.0** — *stabil* *(Buch nur auf Englisch erschienen)*  
+- **Mature Companies as AI 3.0** — *stabil* *(nur auf Englisch erschienen; dt. Titel: „Reife Unternehmen als KI 3.0“)*  
   Neue Einordnung von Künstlicher Intelligenz durch die Linse reifer Organisationen.  
   Leseproben: keine · [Manifest](books/ai-3-0.yaml)
-- **Medicine — Knowledge & AI in Service of Health** — *stabil* *(Buch nur auf Englisch erschienen)*  
+- **Medicine — Knowledge & AI in Service of Health** — *stabil* *(nur auf Englisch erschienen; dt. Titel: „Medizin — Wissen & KI im Dienst der Gesundheit“)*  
   Referenzdomäne für strukturiertes Wissen und Entscheidungsfindung unter Ungewissheit.  
   Leseproben: keine · [Manifest](books/medicine.yaml)
-- **Research Program Dentistry — Knowledge & AI in Service of Health** — *stabil* *(Buch nur auf Englisch erschienen)*  
+- **Research Program Dentistry — Knowledge & AI in Service of Health** — *stabil* *(nur auf Englisch erschienen; dt. Titel: „Forschungsprogramm Zahnmedizin — Wissen & KI im Dienst der Gesundheit“)*  
   Klinische Domänenanwendung, Edition 5, einzig auf Englisch und am häufigsten überarbeitet — das Buch, an dem der Programmzyklus am direktesten dokumentiert ist.  
   Leseproben: [Leseprobe EN](books/english/26_dentistry_en.pdf) · [Manifest](books/dentistry.yaml)
 
