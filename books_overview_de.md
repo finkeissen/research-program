@@ -17,7 +17,7 @@ Maschinenlesbare Details: ein YAML-Manifest pro Buch in [`books/`](books/){targe
 - **Forschungsprogramm Ontologie — Sind Daten, Informationen & Wissen real?** — *stabil*  
   Die operative Implementierung der Grundthese: Daten, Information und Wissen sind unzulässig, aber notwendig.  
   Leseproben: [Leseprobe DE](books/german/C2_ontology_de.pdf){target=_blank}, [Leseprobe EN](books/english/C2_ontology_en.pdf){target=_blank} · [Manifest](books/ontology.yaml){target=_blank}
-- **Der Physik-Effekt — UrGrammatik für Wissen, Philosophie & KI** — *stabil*  
+- **Der Physik-Effekt — UrGrammatik für Wissen, Philosophie & KI** — *stabil* *(nur auf Englisch erschienen; EN-Titel: „The Physics Effect”)*  
   Grundlegende Grammatik für Wirklichkeit, Wissen und Entscheidungen — auf Basis von Effekten, Relationen und Transformationen statt Objekten.  
   Leseproben: [Leseprobe DE](books/german/d8_physics-effect_de.pdf){target=_blank}, [Leseprobe EN](books/english/d8_physics-effect_en.pdf){target=_blank} · [Manifest](books/physics-effect.yaml){target=_blank}
 - **Forschungsprogramm in 7 Denkebenen — Rahmenwerk für Philosophie, Wissenschaft & Technik** — *stabil*  
@@ -38,7 +38,7 @@ Maschinenlesbare Details: ein YAML-Manifest pro Buch in [`books/`](books/){targe
 
 ## Mensch & Gesellschaft
 
-- **EGO — Reise ohne Raum und Zeit** — *stabil*  
+- **EGO — Reise ohne Raum und Zeit** — *stabil* *(nur auf Englisch erschienen; EN-Titel: „Ego — A Journey Without Space and Time”)*  
   Existenzielle Anwendung des Forschungsprogramms auf der Ebene des Einzelnen.  
   Leseproben: [Leseprobe DE](books/german/J1_ego_de.pdf){target=_blank}, [Leseprobe EN](books/english/j1_ego_en.pdf){target=_blank} · [Manifest](books/ego.yaml){target=_blank}
 - **Forschungsprogramm Lebenslügen — Architektur menschlicher Selbsttäuschung** — *stabil*  
