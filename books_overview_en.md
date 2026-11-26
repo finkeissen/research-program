@@ -2,6 +2,8 @@
 
 Deutsch: [books_overview_de.md](books_overview_de.md)
 
+Book series on Amazon: https://www.amazon.de/dp/B0F74J5ZD3
+
 This page lists every book of the Finkeissen Research Program with a one-line summary and direct links to the preview PDFs.
 
 Preview rule: teasers cover page 1 through the table of contents and preface,

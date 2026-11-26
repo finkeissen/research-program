@@ -2,6 +2,8 @@
 
 Englisch: [books_overview_en.md](books_overview_en.md)
 
+Buchreihe bei Amazon: https://www.amazon.de/dp/B0F74J5ZD3
+
 Diese Seite listet alle Bücher des Finkeissen Research Program mit einer Kurzzusammenfassung und direkten Links zu den Leseproben (PDF).
 
 Leseproben-Regel: Teaser umfassen Seite 1 über Gliederung und Vorwort bis wenige Seiten in Kapitel 1; ganze Bände bleiben beim Autor (Print/PDF).
