@@ -1,4 +1,8 @@
-# Ekkehard Finkeissen - Book Overview
+# Book Overview
+## Ekkehard Finkeissen
+### Diploma Physicist · PhD in Medical Informatics
+
+Ekkehard Finkeissen is a diploma physicist and a PhD in medical informatics. Building on model formation in physics and clinical decision-making under uncertainty, he develops epistemic guardrails for auditable AI systems.
 
 Deutsch: [books_overview_de.md](books_overview_de.md)
 

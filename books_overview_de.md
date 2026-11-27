@@ -1,4 +1,8 @@
-# Ekkehard Finkeissen - Bücherübersicht
+# Bücherübersicht
+## Ekkehard Finkeissen
+### Diplom-Physiker · Promovierter Medizin-Informatiker
+
+Ekkehard Finkeissen ist Diplom-Physiker und promovierter Medizin-Informatiker. Ausgehend von der Modellbildung in der Physik und der klinischen Entscheidungsfindung unter Unsicherheit entwickelt er epistemische Leitplanken für auditable KI-Systeme.
 
 Englisch: [books_overview_en.md](books_overview_en.md)
 
